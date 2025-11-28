@@ -1,0 +1,13077 @@
+[
+  {
+    "numbers": [
+      3,
+      4,
+      7,
+      7,
+      -7,
+      7,
+      -2,
+      4,
+      -3,
+      8
+    ],
+    "sum": 28,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      9,
+      9,
+      -3,
+      5,
+      -8,
+      4,
+      6,
+      -4,
+      1,
+      2
+    ],
+    "sum": 21,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      6,
+      4,
+      3,
+      -8,
+      6,
+      6,
+      -5,
+      8,
+      -1,
+      5
+    ],
+    "sum": 24,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      9,
+      7,
+      7,
+      -8,
+      6,
+      6,
+      5,
+      -2,
+      6,
+      -9
+    ],
+    "sum": 27,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      2,
+      5,
+      9,
+      5,
+      -6,
+      3,
+      6,
+      -7,
+      8,
+      -1
+    ],
+    "sum": 24,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      21,
+      45,
+      -33
+    ],
+    "sum": 33,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      45,
+      46,
+      -42
+    ],
+    "sum": 49,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      46,
+      29,
+      -70
+    ],
+    "sum": 5,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      44,
+      46,
+      -53
+    ],
+    "sum": 37,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      75,
+      10,
+      -62
+    ],
+    "sum": 23,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      64,
+      -40,
+      48
+    ],
+    "sum": 72,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      89,
+      43,
+      -78
+    ],
+    "sum": 54,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      35,
+      -18,
+      26
+    ],
+    "sum": 43,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      86,
+      -10,
+      23
+    ],
+    "sum": 99,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      23,
+      69,
+      -81
+    ],
+    "sum": 11,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      3,
+      5,
+      -3,
+      8,
+      7,
+      8,
+      -9,
+      5,
+      7,
+      -9
+    ],
+    "sum": 22,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      7,
+      5,
+      -5,
+      6,
+      5,
+      -9,
+      6,
+      5,
+      -3,
+      1
+    ],
+    "sum": 18,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      9,
+      -1,
+      7,
+      6,
+      6,
+      -2,
+      5,
+      -8,
+      4,
+      5
+    ],
+    "sum": 31,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      9,
+      4,
+      8,
+      -4,
+      5,
+      -3,
+      5,
+      -7,
+      9,
+      9
+    ],
+    "sum": 35,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      8,
+      6,
+      -9,
+      8,
+      -3,
+      4,
+      -7,
+      2,
+      1,
+      5
+    ],
+    "sum": 15,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      84,
+      32,
+      -43
+    ],
+    "sum": 73,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      73,
+      -38,
+      17
+    ],
+    "sum": 52,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      95,
+      -52,
+      51
+    ],
+    "sum": 94,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      75,
+      -70,
+      81
+    ],
+    "sum": 86,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      46,
+      55,
+      -86
+    ],
+    "sum": 15,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      74,
+      -17,
+      10
+    ],
+    "sum": 67,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      12,
+      42,
+      -16
+    ],
+    "sum": 38,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      91,
+      75,
+      -76
+    ],
+    "sum": 90,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      50,
+      95,
+      -61
+    ],
+    "sum": 84,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      85,
+      58,
+      -45
+    ],
+    "sum": 98,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      9,
+      8,
+      -5,
+      7,
+      8,
+      5,
+      -3,
+      5,
+      -2,
+      3
+    ],
+    "sum": 35,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      9,
+      3,
+      6,
+      -7,
+      9,
+      -9,
+      5,
+      -6,
+      7,
+      6
+    ],
+    "sum": 23,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      3,
+      8,
+      5,
+      -5,
+      8,
+      8,
+      -5,
+      6,
+      5,
+      -2
+    ],
+    "sum": 31,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      5,
+      5,
+      -1,
+      6,
+      -4,
+      6,
+      -2,
+      6,
+      3,
+      8
+    ],
+    "sum": 32,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      4,
+      4,
+      6,
+      6,
+      -7,
+      5,
+      -9,
+      6,
+      -8,
+      6
+    ],
+    "sum": 13,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      96,
+      -92,
+      72
+    ],
+    "sum": 76,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      12,
+      65,
+      -14
+    ],
+    "sum": 63,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      26,
+      -22,
+      87
+    ],
+    "sum": 91,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      17,
+      68,
+      -68
+    ],
+    "sum": 17,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      31,
+      82,
+      -79
+    ],
+    "sum": 34,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      51,
+      10,
+      -50
+    ],
+    "sum": 11,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      82,
+      -11,
+      11
+    ],
+    "sum": 82,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      65,
+      -40,
+      69
+    ],
+    "sum": 94,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      56,
+      21,
+      -24
+    ],
+    "sum": 53,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      74,
+      47,
+      -64
+    ],
+    "sum": 57,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      5,
+      6,
+      -3,
+      7,
+      -3,
+      7,
+      6,
+      8,
+      -1,
+      9
+    ],
+    "sum": 41,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      8,
+      4,
+      9,
+      6,
+      -8,
+      9,
+      -8,
+      5,
+      -8,
+      5
+    ],
+    "sum": 22,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      6,
+      -5,
+      8,
+      -7,
+      1,
+      8,
+      4,
+      4,
+      -9,
+      9
+    ],
+    "sum": 19,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      7,
+      9,
+      -7,
+      4,
+      4,
+      9,
+      5,
+      -7,
+      6,
+      -2
+    ],
+    "sum": 28,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      9,
+      6,
+      6,
+      9,
+      -6,
+      7,
+      -4,
+      9,
+      7,
+      -8
+    ],
+    "sum": 35,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      23,
+      59,
+      -50
+    ],
+    "sum": 32,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      49,
+      -40,
+      77
+    ],
+    "sum": 86,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      23,
+      21,
+      -39
+    ],
+    "sum": 5,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      68,
+      77,
+      -47
+    ],
+    "sum": 98,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      30,
+      53,
+      -76
+    ],
+    "sum": 7,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      43,
+      61,
+      -69
+    ],
+    "sum": 35,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      52,
+      53,
+      -64
+    ],
+    "sum": 41,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      71,
+      -33,
+      18
+    ],
+    "sum": 56,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      73,
+      -58,
+      36
+    ],
+    "sum": 51,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      14,
+      70,
+      -49
+    ],
+    "sum": 35,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      5,
+      9,
+      -5,
+      2,
+      4,
+      3,
+      5,
+      -4,
+      7,
+      -7
+    ],
+    "sum": 19,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      4,
+      5,
+      7,
+      7,
+      -1,
+      7,
+      4,
+      -5,
+      3,
+      -5
+    ],
+    "sum": 26,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      4,
+      9,
+      -4,
+      4,
+      3,
+      5,
+      -2,
+      4,
+      3,
+      -1
+    ],
+    "sum": 25,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      5,
+      7,
+      -1,
+      3,
+      5,
+      5,
+      -9,
+      6,
+      -2,
+      9
+    ],
+    "sum": 28,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      4,
+      6,
+      5,
+      -9,
+      7,
+      -8,
+      4,
+      9,
+      5,
+      -8
+    ],
+    "sum": 15,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      90,
+      -44,
+      39
+    ],
+    "sum": 85,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      73,
+      10,
+      -55
+    ],
+    "sum": 28,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      95,
+      -32,
+      29
+    ],
+    "sum": 92,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      29,
+      88,
+      -65
+    ],
+    "sum": 52,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      19,
+      25,
+      -10
+    ],
+    "sum": 34,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      46,
+      13,
+      -16
+    ],
+    "sum": 43,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      37,
+      57,
+      -86
+    ],
+    "sum": 8,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      37,
+      78,
+      -93
+    ],
+    "sum": 22,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      42,
+      63,
+      -53
+    ],
+    "sum": 52,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      90,
+      11,
+      -67
+    ],
+    "sum": 34,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      5,
+      9,
+      -2,
+      6,
+      6,
+      -6,
+      7,
+      -2,
+      2,
+      7
+    ],
+    "sum": 32,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      5,
+      6,
+      3,
+      -3,
+      4,
+      -1,
+      5,
+      -2,
+      5,
+      5
+    ],
+    "sum": 27,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      6,
+      8,
+      -1,
+      6,
+      6,
+      -9,
+      5,
+      4,
+      8,
+      -4
+    ],
+    "sum": 29,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      8,
+      -7,
+      7,
+      9,
+      -6,
+      5,
+      -2,
+      3,
+      2,
+      7
+    ],
+    "sum": 26,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      5,
+      4,
+      5,
+      -3,
+      3,
+      -1,
+      8,
+      5,
+      -4,
+      3
+    ],
+    "sum": 25,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      51,
+      57,
+      -63
+    ],
+    "sum": 45,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      90,
+      76,
+      -91
+    ],
+    "sum": 75,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      42,
+      47,
+      -82
+    ],
+    "sum": 7,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      66,
+      96,
+      -68
+    ],
+    "sum": 94,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      52,
+      84,
+      -78
+    ],
+    "sum": 58,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      13,
+      20,
+      -23
+    ],
+    "sum": 10,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      57,
+      -38,
+      59
+    ],
+    "sum": 78,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      14,
+      94,
+      -78
+    ],
+    "sum": 30,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      23,
+      25,
+      -27
+    ],
+    "sum": 21,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      90,
+      -28,
+      10
+    ],
+    "sum": 72,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      6,
+      7,
+      -1,
+      6,
+      3,
+      -2,
+      6,
+      -5,
+      7,
+      1
+    ],
+    "sum": 28,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      9,
+      3,
+      -7,
+      5,
+      -9,
+      8,
+      7,
+      -9,
+      1,
+      9
+    ],
+    "sum": 17,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      7,
+      7,
+      -8,
+      6,
+      -2,
+      5,
+      4,
+      5,
+      5,
+      -9
+    ],
+    "sum": 20,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      6,
+      3,
+      -6,
+      8,
+      -6,
+      8,
+      7,
+      8,
+      -3,
+      1
+    ],
+    "sum": 26,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      5,
+      -2,
+      7,
+      6,
+      9,
+      8,
+      -6,
+      6,
+      6,
+      -2
+    ],
+    "sum": 37,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      70,
+      83,
+      -89
+    ],
+    "sum": 64,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      19,
+      40,
+      -19
+    ],
+    "sum": 40,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      29,
+      -12,
+      21
+    ],
+    "sum": 38,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      47,
+      75,
+      -46
+    ],
+    "sum": 76,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      50,
+      43,
+      -57
+    ],
+    "sum": 36,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      22,
+      76,
+      -68
+    ],
+    "sum": 30,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      50,
+      25,
+      -34
+    ],
+    "sum": 41,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      63,
+      -32,
+      49
+    ],
+    "sum": 80,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      53,
+      72,
+      -78
+    ],
+    "sum": 47,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      66,
+      97,
+      -77
+    ],
+    "sum": 86,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      6,
+      -5,
+      9,
+      6,
+      -7,
+      2,
+      5,
+      9,
+      5,
+      -7
+    ],
+    "sum": 23,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      6,
+      -1,
+      6,
+      7,
+      6,
+      4,
+      -4,
+      6,
+      -9,
+      8
+    ],
+    "sum": 29,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      6,
+      8,
+      6,
+      8,
+      3,
+      -1,
+      9,
+      -3,
+      9,
+      -8
+    ],
+    "sum": 37,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      5,
+      6,
+      -4,
+      6,
+      -6,
+      4,
+      5,
+      8,
+      6,
+      -3
+    ],
+    "sum": 27,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      6,
+      8,
+      -9,
+      9,
+      5,
+      -5,
+      4,
+      -2,
+      1,
+      3
+    ],
+    "sum": 20,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      57,
+      -32,
+      33
+    ],
+    "sum": 58,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      99,
+      85,
+      -89
+    ],
+    "sum": 95,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      70,
+      54,
+      -50
+    ],
+    "sum": 74,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      87,
+      28,
+      -68
+    ],
+    "sum": 47,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      43,
+      30,
+      -53
+    ],
+    "sum": 20,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      72,
+      59,
+      -96
+    ],
+    "sum": 35,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      70,
+      38,
+      -92
+    ],
+    "sum": 16,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      28,
+      -12,
+      34
+    ],
+    "sum": 50,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      45,
+      58,
+      -24
+    ],
+    "sum": 79,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      31,
+      -23,
+      12
+    ],
+    "sum": 20,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      6,
+      -4,
+      7,
+      -6,
+      2,
+      9,
+      6,
+      8,
+      -1,
+      2
+    ],
+    "sum": 29,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      3,
+      -2,
+      3,
+      -1,
+      1,
+      6,
+      7,
+      4,
+      -2,
+      3
+    ],
+    "sum": 22,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      2,
+      6,
+      8,
+      8,
+      -2,
+      4,
+      5,
+      -3,
+      8,
+      -1
+    ],
+    "sum": 35,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      5,
+      6,
+      -3,
+      6,
+      6,
+      -8,
+      7,
+      4,
+      4,
+      -7
+    ],
+    "sum": 20,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      4,
+      9,
+      3,
+      -3,
+      5,
+      -5,
+      4,
+      9,
+      4,
+      -6
+    ],
+    "sum": 24,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      79,
+      64,
+      -87
+    ],
+    "sum": 56,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      18,
+      79,
+      -73
+    ],
+    "sum": 24,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      23,
+      44,
+      -62
+    ],
+    "sum": 5,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      52,
+      35,
+      -56
+    ],
+    "sum": 31,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      32,
+      15,
+      -35
+    ],
+    "sum": 12,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      53,
+      11,
+      -39
+    ],
+    "sum": 25,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      66,
+      -63,
+      83
+    ],
+    "sum": 86,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      24,
+      85,
+      -75
+    ],
+    "sum": 34,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      69,
+      49,
+      -54
+    ],
+    "sum": 64,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      21,
+      77,
+      -45
+    ],
+    "sum": 53,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      9,
+      -3,
+      6,
+      3,
+      -8,
+      5,
+      9,
+      -2,
+      9,
+      4
+    ],
+    "sum": 32,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      6,
+      -1,
+      5,
+      -2,
+      3,
+      6,
+      6,
+      -5,
+      8,
+      7
+    ],
+    "sum": 33,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      7,
+      -3,
+      5,
+      -4,
+      3,
+      8,
+      9,
+      -8,
+      2,
+      8
+    ],
+    "sum": 27,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      4,
+      -3,
+      6,
+      5,
+      4,
+      -6,
+      9,
+      -7,
+      1,
+      9
+    ],
+    "sum": 22,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      9,
+      -6,
+      4,
+      6,
+      3,
+      4,
+      -3,
+      8,
+      -5,
+      7
+    ],
+    "sum": 27,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      63,
+      43,
+      -25
+    ],
+    "sum": 81,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      13,
+      56,
+      -13
+    ],
+    "sum": 56,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      73,
+      16,
+      -25
+    ],
+    "sum": 64,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      15,
+      13,
+      -13
+    ],
+    "sum": 15,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      46,
+      50,
+      -67
+    ],
+    "sum": 29,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      99,
+      -64,
+      56
+    ],
+    "sum": 91,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      22,
+      17,
+      -30
+    ],
+    "sum": 9,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      45,
+      61,
+      -64
+    ],
+    "sum": 42,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      34,
+      95,
+      -51
+    ],
+    "sum": 78,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      93,
+      46,
+      -87
+    ],
+    "sum": 52,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      6,
+      -2,
+      6,
+      5,
+      4,
+      -4,
+      9,
+      5,
+      -4,
+      6
+    ],
+    "sum": 31,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      9,
+      7,
+      -8,
+      3,
+      8,
+      9,
+      -2,
+      6,
+      -5,
+      2
+    ],
+    "sum": 29,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      4,
+      4,
+      6,
+      5,
+      -1,
+      8,
+      -5,
+      6,
+      7,
+      -7
+    ],
+    "sum": 27,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      6,
+      -4,
+      9,
+      9,
+      -3,
+      4,
+      6,
+      -8,
+      7,
+      2
+    ],
+    "sum": 28,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      4,
+      -3,
+      5,
+      8,
+      4,
+      -6,
+      9,
+      -7,
+      4,
+      7
+    ],
+    "sum": 25,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      23,
+      80,
+      -97
+    ],
+    "sum": 6,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      33,
+      -27,
+      39
+    ],
+    "sum": 45,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      33,
+      37,
+      -29
+    ],
+    "sum": 41,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      36,
+      14,
+      -42
+    ],
+    "sum": 8,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      50,
+      55,
+      -30
+    ],
+    "sum": 75,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      81,
+      15,
+      -13
+    ],
+    "sum": 83,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      86,
+      -66,
+      66
+    ],
+    "sum": 86,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      43,
+      72,
+      -45
+    ],
+    "sum": 70,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      17,
+      45,
+      -10
+    ],
+    "sum": 52,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      24,
+      -15,
+      64
+    ],
+    "sum": 73,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      8,
+      4,
+      7,
+      -8,
+      8,
+      -5,
+      4,
+      -2,
+      9,
+      4
+    ],
+    "sum": 29,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      8,
+      7,
+      -3,
+      4,
+      -2,
+      7,
+      6,
+      4,
+      -1,
+      5
+    ],
+    "sum": 35,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      6,
+      5,
+      -6,
+      8,
+      -1,
+      6,
+      7,
+      7,
+      4,
+      -7
+    ],
+    "sum": 29,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      9,
+      3,
+      -3,
+      5,
+      -3,
+      4,
+      7,
+      -5,
+      7,
+      7
+    ],
+    "sum": 31,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      4,
+      4,
+      -1,
+      9,
+      5,
+      -5,
+      9,
+      -9,
+      9,
+      2
+    ],
+    "sum": 27,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      27,
+      -14,
+      14
+    ],
+    "sum": 27,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      86,
+      -49,
+      10
+    ],
+    "sum": 47,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      57,
+      55,
+      -33
+    ],
+    "sum": 79,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      43,
+      -33,
+      78
+    ],
+    "sum": 88,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      18,
+      -17,
+      20
+    ],
+    "sum": 21,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      94,
+      -87,
+      90
+    ],
+    "sum": 97,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      29,
+      73,
+      -77
+    ],
+    "sum": 25,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      12,
+      95,
+      -64
+    ],
+    "sum": 43,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      88,
+      68,
+      -79
+    ],
+    "sum": 77,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      92,
+      71,
+      -75
+    ],
+    "sum": 88,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      9,
+      -3,
+      3,
+      6,
+      8,
+      6,
+      4,
+      -6,
+      3,
+      -8
+    ],
+    "sum": 22,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      7,
+      3,
+      -5,
+      4,
+      -4,
+      8,
+      5,
+      6,
+      6,
+      -4
+    ],
+    "sum": 26,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      4,
+      5,
+      5,
+      -6,
+      7,
+      5,
+      -1,
+      6,
+      -1,
+      5
+    ],
+    "sum": 29,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      6,
+      8,
+      6,
+      -2,
+      6,
+      9,
+      -3,
+      9,
+      8,
+      -4
+    ],
+    "sum": 43,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      9,
+      -8,
+      7,
+      -7,
+      9,
+      6,
+      -3,
+      1,
+      5,
+      9
+    ],
+    "sum": 28,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      87,
+      44,
+      -52
+    ],
+    "sum": 79,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      41,
+      -25,
+      78
+    ],
+    "sum": 94,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      65,
+      20,
+      -72
+    ],
+    "sum": 13,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      84,
+      12,
+      -51
+    ],
+    "sum": 45,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      51,
+      27,
+      -22
+    ],
+    "sum": 56,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      42,
+      34,
+      -66
+    ],
+    "sum": 10,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      93,
+      37,
+      -86
+    ],
+    "sum": 44,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      19,
+      98,
+      -90
+    ],
+    "sum": 27,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      21,
+      73,
+      -48
+    ],
+    "sum": 46,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      56,
+      39,
+      -66
+    ],
+    "sum": 29,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      5,
+      -3,
+      6,
+      -2,
+      9,
+      6,
+      -3,
+      7,
+      6,
+      1
+    ],
+    "sum": 32,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      4,
+      3,
+      8,
+      9,
+      5,
+      -8,
+      3,
+      -1,
+      9,
+      -4
+    ],
+    "sum": 28,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      5,
+      4,
+      -1,
+      4,
+      5,
+      4,
+      -7,
+      8,
+      -9,
+      9
+    ],
+    "sum": 22,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      8,
+      5,
+      6,
+      -6,
+      8,
+      9,
+      5,
+      -5,
+      8,
+      -4
+    ],
+    "sum": 34,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      5,
+      6,
+      -4,
+      7,
+      6,
+      -7,
+      5,
+      4,
+      -3,
+      4
+    ],
+    "sum": 23,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      15,
+      39,
+      -25
+    ],
+    "sum": 29,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      70,
+      14,
+      -19
+    ],
+    "sum": 65,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      56,
+      -12,
+      22
+    ],
+    "sum": 66,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      44,
+      -29,
+      14
+    ],
+    "sum": 29,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      43,
+      96,
+      -88
+    ],
+    "sum": 51,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      94,
+      36,
+      -72
+    ],
+    "sum": 58,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      43,
+      13,
+      -39
+    ],
+    "sum": 17,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      32,
+      76,
+      -71
+    ],
+    "sum": 37,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      81,
+      51,
+      -49
+    ],
+    "sum": 83,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      39,
+      46,
+      -52
+    ],
+    "sum": 33,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      8,
+      -6,
+      8,
+      8,
+      -2,
+      5,
+      4,
+      7,
+      8,
+      -7
+    ],
+    "sum": 33,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      6,
+      5,
+      -6,
+      6,
+      -5,
+      6,
+      5,
+      -7,
+      4,
+      1
+    ],
+    "sum": 15,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      4,
+      -1,
+      9,
+      7,
+      5,
+      6,
+      -5,
+      4,
+      -4,
+      2
+    ],
+    "sum": 27,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      9,
+      9,
+      -1,
+      6,
+      -6,
+      3,
+      3,
+      9,
+      -7,
+      8
+    ],
+    "sum": 33,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      9,
+      6,
+      -4,
+      5,
+      9,
+      -8,
+      5,
+      3,
+      7,
+      -5
+    ],
+    "sum": 27,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      52,
+      31,
+      -27
+    ],
+    "sum": 56,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      75,
+      50,
+      -44
+    ],
+    "sum": 81,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      36,
+      49,
+      -31
+    ],
+    "sum": 54,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      68,
+      69,
+      -83
+    ],
+    "sum": 54,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      44,
+      44,
+      -71
+    ],
+    "sum": 17,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      76,
+      -54,
+      22
+    ],
+    "sum": 44,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      18,
+      97,
+      -27
+    ],
+    "sum": 88,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      31,
+      11,
+      -35
+    ],
+    "sum": 7,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      77,
+      -24,
+      30
+    ],
+    "sum": 83,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      16,
+      54,
+      -28
+    ],
+    "sum": 42,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      8,
+      8,
+      -4,
+      5,
+      4,
+      -5,
+      8,
+      6,
+      -1,
+      1
+    ],
+    "sum": 30,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      4,
+      3,
+      -2,
+      8,
+      -3,
+      6,
+      -7,
+      9,
+      3,
+      8
+    ],
+    "sum": 29,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      8,
+      4,
+      -8,
+      5,
+      7,
+      -4,
+      7,
+      8,
+      -5,
+      1
+    ],
+    "sum": 23,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      6,
+      6,
+      -5,
+      7,
+      6,
+      -2,
+      7,
+      -4,
+      4,
+      8
+    ],
+    "sum": 33,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      5,
+      -1,
+      1,
+      5,
+      4,
+      4,
+      -4,
+      9,
+      6,
+      -5
+    ],
+    "sum": 24,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      32,
+      40,
+      -31
+    ],
+    "sum": 41,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      11,
+      52,
+      -11
+    ],
+    "sum": 52,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      13,
+      27,
+      -17
+    ],
+    "sum": 23,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      77,
+      31,
+      -59
+    ],
+    "sum": 49,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      86,
+      -44,
+      18
+    ],
+    "sum": 60,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      39,
+      74,
+      -76
+    ],
+    "sum": 37,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      70,
+      46,
+      -60
+    ],
+    "sum": 56,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      22,
+      90,
+      -52
+    ],
+    "sum": 60,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      55,
+      57,
+      -21
+    ],
+    "sum": 91,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      67,
+      95,
+      -74
+    ],
+    "sum": 88,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      9,
+      8,
+      -1,
+      4,
+      -7,
+      6,
+      5,
+      6,
+      -6,
+      7
+    ],
+    "sum": 31,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      6,
+      5,
+      -5,
+      3,
+      4,
+      -1,
+      6,
+      7,
+      6,
+      -1
+    ],
+    "sum": 30,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      9,
+      4,
+      -1,
+      8,
+      6,
+      -9,
+      4,
+      6,
+      9,
+      -7
+    ],
+    "sum": 29,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      4,
+      5,
+      -8,
+      7,
+      -2,
+      7,
+      5,
+      7,
+      5,
+      -2
+    ],
+    "sum": 28,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      8,
+      4,
+      3,
+      -1,
+      5,
+      -2,
+      5,
+      6,
+      -1,
+      5
+    ],
+    "sum": 32,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      27,
+      69,
+      -64
+    ],
+    "sum": 32,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      56,
+      41,
+      -66
+    ],
+    "sum": 31,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      52,
+      -44,
+      89
+    ],
+    "sum": 97,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      53,
+      32,
+      -56
+    ],
+    "sum": 29,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      19,
+      83,
+      -87
+    ],
+    "sum": 15,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      68,
+      59,
+      -74
+    ],
+    "sum": 53,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      60,
+      84,
+      -88
+    ],
+    "sum": 56,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      69,
+      63,
+      -80
+    ],
+    "sum": 52,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      20,
+      82,
+      -65
+    ],
+    "sum": 37,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      55,
+      34,
+      -59
+    ],
+    "sum": 30,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      5,
+      -3,
+      8,
+      4,
+      9,
+      -3,
+      7,
+      4,
+      4,
+      -6
+    ],
+    "sum": 29,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      6,
+      8,
+      -6,
+      6,
+      6,
+      -6,
+      8,
+      5,
+      8,
+      -6
+    ],
+    "sum": 29,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      6,
+      6,
+      -8,
+      3,
+      8,
+      7,
+      5,
+      -1,
+      5,
+      -3
+    ],
+    "sum": 28,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      8,
+      6,
+      -6,
+      6,
+      7,
+      9,
+      3,
+      -5,
+      4,
+      -6
+    ],
+    "sum": 26,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      6,
+      -3,
+      9,
+      4,
+      -4,
+      8,
+      4,
+      -1,
+      9,
+      3
+    ],
+    "sum": 35,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      87,
+      -80,
+      11
+    ],
+    "sum": 18,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      24,
+      74,
+      -51
+    ],
+    "sum": 47,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      79,
+      88,
+      -99
+    ],
+    "sum": 68,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      74,
+      33,
+      -57
+    ],
+    "sum": 50,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      75,
+      -69,
+      14
+    ],
+    "sum": 20,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      74,
+      10,
+      -12
+    ],
+    "sum": 72,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      41,
+      90,
+      -79
+    ],
+    "sum": 52,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      39,
+      56,
+      -72
+    ],
+    "sum": 23,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      67,
+      -13,
+      18
+    ],
+    "sum": 72,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      49,
+      54,
+      -73
+    ],
+    "sum": 30,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      7,
+      -5,
+      6,
+      4,
+      -5,
+      8,
+      -1,
+      4,
+      4,
+      3
+    ],
+    "sum": 25,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      9,
+      4,
+      3,
+      -4,
+      7,
+      3,
+      -4,
+      9,
+      4,
+      -1
+    ],
+    "sum": 30,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      9,
+      -1,
+      5,
+      -6,
+      3,
+      1,
+      3,
+      6,
+      7,
+      -3
+    ],
+    "sum": 24,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      4,
+      6,
+      -8,
+      7,
+      9,
+      -8,
+      6,
+      5,
+      4,
+      -4
+    ],
+    "sum": 21,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      8,
+      6,
+      4,
+      -1,
+      5,
+      -2,
+      5,
+      -6,
+      1,
+      3
+    ],
+    "sum": 23,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      82,
+      75,
+      -98
+    ],
+    "sum": 59,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      85,
+      -62,
+      53
+    ],
+    "sum": 76,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      83,
+      53,
+      -62
+    ],
+    "sum": 74,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      80,
+      48,
+      -32
+    ],
+    "sum": 96,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      60,
+      21,
+      -15
+    ],
+    "sum": 66,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      50,
+      33,
+      -64
+    ],
+    "sum": 19,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      79,
+      32,
+      -78
+    ],
+    "sum": 33,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      53,
+      -22,
+      34
+    ],
+    "sum": 65,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      32,
+      11,
+      -29
+    ],
+    "sum": 14,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      48,
+      67,
+      -91
+    ],
+    "sum": 24,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      7,
+      7,
+      -7,
+      9,
+      6,
+      -1,
+      6,
+      6,
+      -1,
+      8
+    ],
+    "sum": 40,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      3,
+      5,
+      5,
+      -1,
+      6,
+      -9,
+      5,
+      5,
+      -2,
+      8
+    ],
+    "sum": 25,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      6,
+      -2,
+      9,
+      7,
+      7,
+      3,
+      7,
+      -9,
+      5,
+      -8
+    ],
+    "sum": 25,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      6,
+      8,
+      -4,
+      8,
+      3,
+      -7,
+      9,
+      -7,
+      5,
+      2
+    ],
+    "sum": 23,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      4,
+      -3,
+      8,
+      -8,
+      8,
+      6,
+      -4,
+      3,
+      4,
+      7
+    ],
+    "sum": 25,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      32,
+      -16,
+      44
+    ],
+    "sum": 60,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      53,
+      82,
+      -46
+    ],
+    "sum": 89,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      61,
+      -60,
+      15
+    ],
+    "sum": 16,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      49,
+      -41,
+      61
+    ],
+    "sum": 69,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      15,
+      61,
+      -42
+    ],
+    "sum": 34,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      46,
+      94,
+      -70
+    ],
+    "sum": 70,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      55,
+      38,
+      -22
+    ],
+    "sum": 71,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      74,
+      50,
+      -30
+    ],
+    "sum": 94,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      11,
+      98,
+      -13
+    ],
+    "sum": 96,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      68,
+      24,
+      -27
+    ],
+    "sum": 65,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      5,
+      -3,
+      7,
+      6,
+      6,
+      -3,
+      5,
+      6,
+      6,
+      -2
+    ],
+    "sum": 33,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      8,
+      9,
+      6,
+      -4,
+      4,
+      6,
+      -2,
+      6,
+      6,
+      -1
+    ],
+    "sum": 38,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      6,
+      6,
+      3,
+      -2,
+      6,
+      -2,
+      8,
+      3,
+      -2,
+      1
+    ],
+    "sum": 27,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      9,
+      5,
+      4,
+      -5,
+      3,
+      -6,
+      6,
+      4,
+      -8,
+      7
+    ],
+    "sum": 19,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      7,
+      8,
+      -4,
+      4,
+      -7,
+      9,
+      -4,
+      5,
+      5,
+      1
+    ],
+    "sum": 24,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      71,
+      27,
+      -21
+    ],
+    "sum": 77,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      95,
+      -39,
+      35
+    ],
+    "sum": 91,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      56,
+      -45,
+      35
+    ],
+    "sum": 46,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      49,
+      64,
+      -57
+    ],
+    "sum": 56,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      66,
+      -46,
+      12
+    ],
+    "sum": 32,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      60,
+      31,
+      -73
+    ],
+    "sum": 18,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      69,
+      38,
+      -42
+    ],
+    "sum": 65,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      28,
+      -15,
+      81
+    ],
+    "sum": 94,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      41,
+      -36,
+      60
+    ],
+    "sum": 65,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      24,
+      77,
+      -57
+    ],
+    "sum": 44,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      5,
+      -2,
+      8,
+      -7,
+      7,
+      3,
+      -4,
+      4,
+      5,
+      6
+    ],
+    "sum": 25,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      4,
+      8,
+      -8,
+      6,
+      -5,
+      6,
+      8,
+      -3,
+      6,
+      8
+    ],
+    "sum": 30,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      7,
+      -1,
+      3,
+      -7,
+      3,
+      4,
+      6,
+      9,
+      -7,
+      4
+    ],
+    "sum": 21,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      6,
+      -1,
+      5,
+      9,
+      -6,
+      6,
+      5,
+      3,
+      -1,
+      7
+    ],
+    "sum": 33,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      4,
+      6,
+      6,
+      8,
+      -6,
+      6,
+      7,
+      -3,
+      6,
+      -6
+    ],
+    "sum": 28,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      14,
+      81,
+      -55
+    ],
+    "sum": 40,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      32,
+      91,
+      -53
+    ],
+    "sum": 70,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      43,
+      74,
+      -21
+    ],
+    "sum": 96,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      11,
+      46,
+      -52
+    ],
+    "sum": 5,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      41,
+      -24,
+      31
+    ],
+    "sum": 48,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      82,
+      -77,
+      71
+    ],
+    "sum": 76,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      31,
+      70,
+      -58
+    ],
+    "sum": 43,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      75,
+      -30,
+      17
+    ],
+    "sum": 62,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      55,
+      -28,
+      15
+    ],
+    "sum": 42,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      64,
+      31,
+      -32
+    ],
+    "sum": 63,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      6,
+      7,
+      -5,
+      3,
+      -4,
+      6,
+      7,
+      9,
+      -3,
+      5
+    ],
+    "sum": 31,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      3,
+      9,
+      5,
+      -8,
+      5,
+      -6,
+      4,
+      -7,
+      4,
+      3
+    ],
+    "sum": 12,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      7,
+      6,
+      -4,
+      6,
+      -1,
+      5,
+      7,
+      5,
+      3,
+      -7
+    ],
+    "sum": 27,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      8,
+      9,
+      -3,
+      6,
+      -6,
+      5,
+      6,
+      4,
+      -8,
+      2
+    ],
+    "sum": 23,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      6,
+      -4,
+      9,
+      6,
+      -3,
+      5,
+      7,
+      8,
+      5,
+      -8
+    ],
+    "sum": 31,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      33,
+      -19,
+      -11,
+      30
+    ],
+    "sum": 33,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      77,
+      14,
+      -16,
+      -17
+    ],
+    "sum": 58,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      74,
+      48,
+      -22,
+      -28
+    ],
+    "sum": 72,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      86,
+      68,
+      -51,
+      -81
+    ],
+    "sum": 22,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      57,
+      -32,
+      -18,
+      79
+    ],
+    "sum": 86,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      94,
+      74,
+      -44,
+      -37
+    ],
+    "sum": 87,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      48,
+      49,
+      -12,
+      -68
+    ],
+    "sum": 17,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      87,
+      33,
+      -37,
+      -22
+    ],
+    "sum": 61,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      52,
+      -19,
+      55,
+      -47
+    ],
+    "sum": 41,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      85,
+      97,
+      -34,
+      -53
+    ],
+    "sum": 95,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      4,
+      -2,
+      5,
+      6,
+      -7,
+      9,
+      -4,
+      1,
+      4,
+      6
+    ],
+    "sum": 22,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      7,
+      -3,
+      7,
+      3,
+      5,
+      5,
+      -4,
+      9,
+      5,
+      -5
+    ],
+    "sum": 29,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      5,
+      -2,
+      9,
+      -2,
+      3,
+      3,
+      9,
+      6,
+      5,
+      -3
+    ],
+    "sum": 33,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      7,
+      6,
+      5,
+      7,
+      -9,
+      6,
+      -6,
+      4,
+      5,
+      -9
+    ],
+    "sum": 16,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      4,
+      -3,
+      8,
+      5,
+      8,
+      -3,
+      5,
+      5,
+      -7,
+      3
+    ],
+    "sum": 25,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      85,
+      78,
+      -36,
+      -69
+    ],
+    "sum": 58,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      51,
+      74,
+      -25,
+      -49
+    ],
+    "sum": 51,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      73,
+      61,
+      -39,
+      -85
+    ],
+    "sum": 10,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      37,
+      -18,
+      87,
+      -15
+    ],
+    "sum": 91,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      93,
+      94,
+      -69,
+      -48
+    ],
+    "sum": 70,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      98,
+      -65,
+      -27,
+      93
+    ],
+    "sum": 99,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      75,
+      97,
+      -92,
+      -12
+    ],
+    "sum": 68,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      56,
+      85,
+      -44,
+      -50
+    ],
+    "sum": 47,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      65,
+      93,
+      -50,
+      -97
+    ],
+    "sum": 11,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      89,
+      84,
+      -60,
+      -59
+    ],
+    "sum": 54,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      5,
+      -4,
+      6,
+      3,
+      -8,
+      5,
+      9,
+      8,
+      -6,
+      4
+    ],
+    "sum": 22,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      9,
+      6,
+      -5,
+      5,
+      7,
+      6,
+      -6,
+      5,
+      9,
+      -7
+    ],
+    "sum": 29,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      3,
+      7,
+      -9,
+      6,
+      -3,
+      3,
+      3,
+      7,
+      -8,
+      9
+    ],
+    "sum": 18,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      6,
+      5,
+      -9,
+      4,
+      8,
+      7,
+      -3,
+      5,
+      -9,
+      1
+    ],
+    "sum": 15,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      3,
+      -2,
+      7,
+      4,
+      -9,
+      8,
+      6,
+      6,
+      -4,
+      8
+    ],
+    "sum": 27,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      97,
+      -58,
+      61,
+      -69
+    ],
+    "sum": 31,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      41,
+      53,
+      -54,
+      -22
+    ],
+    "sum": 18,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      97,
+      -17,
+      74,
+      -72
+    ],
+    "sum": 82,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      50,
+      -26,
+      -19,
+      34
+    ],
+    "sum": 39,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      15,
+      90,
+      -27,
+      -58
+    ],
+    "sum": 20,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      66,
+      -57,
+      98,
+      -36
+    ],
+    "sum": 71,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      70,
+      99,
+      -67,
+      -95
+    ],
+    "sum": 7,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      27,
+      76,
+      -30,
+      -52
+    ],
+    "sum": 21,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      27,
+      67,
+      -27,
+      -31
+    ],
+    "sum": 36,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      69,
+      -58,
+      83,
+      -88
+    ],
+    "sum": 6,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      5,
+      -4,
+      5,
+      -3,
+      7,
+      -5,
+      5,
+      3,
+      9,
+      1
+    ],
+    "sum": 23,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      5,
+      5,
+      -7,
+      8,
+      6,
+      -7,
+      3,
+      6,
+      -8,
+      7
+    ],
+    "sum": 18,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      6,
+      5,
+      -4,
+      6,
+      4,
+      -7,
+      5,
+      8,
+      -2,
+      4
+    ],
+    "sum": 25,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      5,
+      8,
+      9,
+      -2,
+      7,
+      8,
+      -4,
+      3,
+      6,
+      -5
+    ],
+    "sum": 35,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      5,
+      7,
+      -9,
+      3,
+      7,
+      -9,
+      5,
+      5,
+      9,
+      -9
+    ],
+    "sum": 14,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      90,
+      47,
+      -98,
+      -19
+    ],
+    "sum": 20,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      52,
+      -15,
+      13,
+      -16
+    ],
+    "sum": 34,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      65,
+      -57,
+      85,
+      -76
+    ],
+    "sum": 17,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      35,
+      70,
+      -22,
+      -68
+    ],
+    "sum": 15,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      59,
+      -10,
+      93,
+      -46
+    ],
+    "sum": 96,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      83,
+      -19,
+      78,
+      -68
+    ],
+    "sum": 74,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      96,
+      -28,
+      40,
+      -62
+    ],
+    "sum": 46,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      64,
+      -35,
+      35,
+      -10
+    ],
+    "sum": 54,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      38,
+      98,
+      -36,
+      -39
+    ],
+    "sum": 61,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      84,
+      43,
+      -21,
+      -58
+    ],
+    "sum": 48,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      6,
+      7,
+      7,
+      -9,
+      9,
+      7,
+      -1,
+      6,
+      6,
+      -1
+    ],
+    "sum": 37,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      4,
+      5,
+      5,
+      -5,
+      6,
+      3,
+      3,
+      -8,
+      6,
+      -5
+    ],
+    "sum": 14,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      7,
+      -1,
+      7,
+      7,
+      6,
+      4,
+      -7,
+      4,
+      -1,
+      6
+    ],
+    "sum": 32,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      8,
+      6,
+      -2,
+      7,
+      -2,
+      9,
+      -5,
+      4,
+      2,
+      7
+    ],
+    "sum": 34,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      5,
+      -3,
+      6,
+      4,
+      4,
+      -1,
+      3,
+      8,
+      6,
+      -2
+    ],
+    "sum": 30,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      78,
+      -40,
+      54,
+      -33
+    ],
+    "sum": 59,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      79,
+      20,
+      -53,
+      -35
+    ],
+    "sum": 11,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      99,
+      81,
+      -55,
+      -68
+    ],
+    "sum": 57,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      55,
+      -33,
+      -11,
+      20
+    ],
+    "sum": 31,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      84,
+      12,
+      -56,
+      -26
+    ],
+    "sum": 14,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      98,
+      -59,
+      71,
+      -12
+    ],
+    "sum": 98,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      89,
+      -42,
+      63,
+      -45
+    ],
+    "sum": 65,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      40,
+      -21,
+      14,
+      -18
+    ],
+    "sum": 15,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      63,
+      85,
+      -23,
+      -40
+    ],
+    "sum": 85,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      91,
+      -34,
+      42,
+      -22
+    ],
+    "sum": 77,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      7,
+      6,
+      -1,
+      5,
+      9,
+      -4,
+      8,
+      -2,
+      7,
+      3
+    ],
+    "sum": 38,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      4,
+      -1,
+      6,
+      9,
+      -8,
+      5,
+      7,
+      3,
+      -8,
+      7
+    ],
+    "sum": 24,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      8,
+      4,
+      5,
+      6,
+      6,
+      -6,
+      4,
+      -9,
+      3,
+      -6
+    ],
+    "sum": 15,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      6,
+      -4,
+      7,
+      6,
+      -6,
+      5,
+      3,
+      3,
+      -4,
+      6
+    ],
+    "sum": 22,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      3,
+      -1,
+      6,
+      5,
+      9,
+      -7,
+      5,
+      -6,
+      6,
+      4
+    ],
+    "sum": 24,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      81,
+      69,
+      -71,
+      -66
+    ],
+    "sum": 13,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      44,
+      98,
+      -19,
+      -63
+    ],
+    "sum": 60,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      49,
+      78,
+      -20,
+      -27
+    ],
+    "sum": 80,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      60,
+      -31,
+      -18,
+      88
+    ],
+    "sum": 99,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      52,
+      22,
+      -23,
+      -46
+    ],
+    "sum": 5,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      56,
+      -28,
+      -10,
+      42
+    ],
+    "sum": 60,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      39,
+      -13,
+      33,
+      -25
+    ],
+    "sum": 34,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      26,
+      83,
+      -65,
+      -23
+    ],
+    "sum": 21,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      28,
+      -19,
+      34,
+      -12
+    ],
+    "sum": 31,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      63,
+      84,
+      -40,
+      -10
+    ],
+    "sum": 97,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      6,
+      5,
+      -4,
+      5,
+      -2,
+      8,
+      6,
+      4,
+      5,
+      -4
+    ],
+    "sum": 29,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      5,
+      8,
+      -6,
+      9,
+      9,
+      6,
+      -3,
+      6,
+      4,
+      -7
+    ],
+    "sum": 31,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      5,
+      -3,
+      5,
+      6,
+      -8,
+      9,
+      -8,
+      4,
+      4,
+      1
+    ],
+    "sum": 15,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      3,
+      5,
+      -1,
+      4,
+      6,
+      8,
+      6,
+      -7,
+      6,
+      -2
+    ],
+    "sum": 28,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      4,
+      6,
+      7,
+      -2,
+      5,
+      -6,
+      4,
+      6,
+      -3,
+      7
+    ],
+    "sum": 28,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      28,
+      50,
+      -16,
+      -16
+    ],
+    "sum": 46,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      43,
+      -15,
+      39,
+      -33
+    ],
+    "sum": 34,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      83,
+      88,
+      -69,
+      -10
+    ],
+    "sum": 92,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      64,
+      44,
+      -12,
+      -65
+    ],
+    "sum": 31,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      72,
+      -38,
+      58,
+      -43
+    ],
+    "sum": 49,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      47,
+      70,
+      -25,
+      -44
+    ],
+    "sum": 48,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      60,
+      -30,
+      90,
+      -30
+    ],
+    "sum": 90,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      76,
+      -12,
+      48,
+      -56
+    ],
+    "sum": 56,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      42,
+      95,
+      -53,
+      -60
+    ],
+    "sum": 24,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      76,
+      -10,
+      -40,
+      11
+    ],
+    "sum": 37,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      9,
+      7,
+      6,
+      -2,
+      7,
+      7,
+      4,
+      -4,
+      4,
+      -9
+    ],
+    "sum": 29,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      4,
+      8,
+      -7,
+      7,
+      9,
+      6,
+      -3,
+      3,
+      4,
+      -3
+    ],
+    "sum": 28,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      7,
+      4,
+      6,
+      -8,
+      4,
+      3,
+      -6,
+      7,
+      -8,
+      5
+    ],
+    "sum": 14,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      5,
+      -3,
+      7,
+      4,
+      -5,
+      5,
+      -8,
+      4,
+      4,
+      9
+    ],
+    "sum": 22,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      5,
+      8,
+      -5,
+      9,
+      8,
+      -8,
+      6,
+      -1,
+      2,
+      9
+    ],
+    "sum": 33,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      52,
+      -43,
+      37,
+      -22
+    ],
+    "sum": 24,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      85,
+      47,
+      -61,
+      -38
+    ],
+    "sum": 33,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      98,
+      19,
+      -41,
+      -12
+    ],
+    "sum": 64,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      86,
+      55,
+      -45,
+      -32
+    ],
+    "sum": 64,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      53,
+      86,
+      -28,
+      -54
+    ],
+    "sum": 57,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      23,
+      55,
+      -22,
+      -27
+    ],
+    "sum": 29,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      37,
+      72,
+      -29,
+      -12
+    ],
+    "sum": 68,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      40,
+      -37,
+      92,
+      -70
+    ],
+    "sum": 25,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      23,
+      89,
+      -17,
+      -19
+    ],
+    "sum": 76,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      88,
+      21,
+      -54,
+      -50
+    ],
+    "sum": 5,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      3,
+      -1,
+      4,
+      5,
+      -7,
+      3,
+      5,
+      7,
+      -2,
+      3
+    ],
+    "sum": 20,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      8,
+      7,
+      6,
+      -6,
+      4,
+      -6,
+      6,
+      6,
+      -3,
+      2
+    ],
+    "sum": 24,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      8,
+      4,
+      -1,
+      6,
+      -6,
+      6,
+      6,
+      7,
+      7,
+      -7
+    ],
+    "sum": 30,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      9,
+      3,
+      3,
+      5,
+      -4,
+      6,
+      -6,
+      4,
+      9,
+      -6
+    ],
+    "sum": 23,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      8,
+      -2,
+      7,
+      -2,
+      8,
+      -9,
+      4,
+      4,
+      2,
+      5
+    ],
+    "sum": 25,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      99,
+      -51,
+      58,
+      -18
+    ],
+    "sum": 88,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      36,
+      -29,
+      57,
+      -54
+    ],
+    "sum": 10,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      44,
+      89,
+      -62,
+      -25
+    ],
+    "sum": 46,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      96,
+      -26,
+      63,
+      -63
+    ],
+    "sum": 70,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      60,
+      68,
+      -21,
+      -26
+    ],
+    "sum": 81,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      93,
+      91,
+      -73,
+      -19
+    ],
+    "sum": 92,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      88,
+      -53,
+      88,
+      -49
+    ],
+    "sum": 74,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      88,
+      80,
+      -37,
+      -47
+    ],
+    "sum": 84,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      67,
+      -26,
+      78,
+      -20
+    ],
+    "sum": 99,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      94,
+      76,
+      -50,
+      -43
+    ],
+    "sum": 77,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      5,
+      4,
+      -6,
+      8,
+      5,
+      -7,
+      8,
+      -4,
+      2,
+      4
+    ],
+    "sum": 19,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      9,
+      4,
+      -5,
+      5,
+      -8,
+      5,
+      7,
+      4,
+      -5,
+      1
+    ],
+    "sum": 17,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      9,
+      7,
+      -2,
+      6,
+      8,
+      -9,
+      8,
+      8,
+      6,
+      -8
+    ],
+    "sum": 33,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      5,
+      -4,
+      3,
+      4,
+      -3,
+      5,
+      8,
+      5,
+      -8,
+      6
+    ],
+    "sum": 21,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      6,
+      4,
+      -2,
+      3,
+      -7,
+      5,
+      -6,
+      1,
+      4,
+      4
+    ],
+    "sum": 12,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      94,
+      -57,
+      84,
+      -67
+    ],
+    "sum": 54,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      99,
+      -25,
+      36,
+      -37
+    ],
+    "sum": 73,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      79,
+      -66,
+      48,
+      -24
+    ],
+    "sum": 37,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      85,
+      -49,
+      58,
+      -19
+    ],
+    "sum": 75,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      77,
+      -31,
+      48,
+      -36
+    ],
+    "sum": 58,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      79,
+      -14,
+      54,
+      -86
+    ],
+    "sum": 33,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      55,
+      -16,
+      52,
+      -44
+    ],
+    "sum": 47,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      26,
+      83,
+      -53,
+      -13
+    ],
+    "sum": 43,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      85,
+      71,
+      -11,
+      -82
+    ],
+    "sum": 63,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      45,
+      43,
+      -41,
+      -39
+    ],
+    "sum": 8,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      9,
+      -2,
+      9,
+      6,
+      5,
+      -6,
+      5,
+      6,
+      -3,
+      3
+    ],
+    "sum": 32,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      6,
+      -2,
+      5,
+      -4,
+      3,
+      -6,
+      1,
+      2,
+      5,
+      9
+    ],
+    "sum": 19,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      3,
+      7,
+      -8,
+      9,
+      -2,
+      6,
+      -5,
+      2,
+      9,
+      3
+    ],
+    "sum": 24,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      4,
+      -1,
+      4,
+      -4,
+      4,
+      -1,
+      1,
+      9,
+      1,
+      6
+    ],
+    "sum": 23,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      6,
+      -5,
+      9,
+      7,
+      9,
+      -2,
+      8,
+      9,
+      7,
+      -3
+    ],
+    "sum": 45,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      69,
+      -31,
+      53,
+      -75
+    ],
+    "sum": 16,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      68,
+      -29,
+      28,
+      -35
+    ],
+    "sum": 32,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      24,
+      56,
+      -17,
+      -56
+    ],
+    "sum": 7,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      85,
+      -32,
+      -29,
+      70
+    ],
+    "sum": 94,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      90,
+      -77,
+      87,
+      -18
+    ],
+    "sum": 82,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      89,
+      -71,
+      -16,
+      96
+    ],
+    "sum": 98,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      98,
+      33,
+      -13,
+      -52
+    ],
+    "sum": 66,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      30,
+      51,
+      -51,
+      -17
+    ],
+    "sum": 13,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      33,
+      75,
+      -66,
+      -14
+    ],
+    "sum": 28,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      94,
+      78,
+      -64,
+      -56
+    ],
+    "sum": 52,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      5,
+      9,
+      8,
+      -4,
+      8,
+      -5,
+      6,
+      5,
+      -3,
+      5
+    ],
+    "sum": 34,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      5,
+      5,
+      -8,
+      7,
+      8,
+      6,
+      -3,
+      6,
+      -4,
+      1
+    ],
+    "sum": 23,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      4,
+      -3,
+      4,
+      5,
+      -6,
+      6,
+      6,
+      6,
+      -3,
+      5
+    ],
+    "sum": 24,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      5,
+      6,
+      5,
+      -9,
+      3,
+      6,
+      3,
+      -3,
+      6,
+      -3
+    ],
+    "sum": 19,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      7,
+      4,
+      6,
+      -3,
+      6,
+      5,
+      7,
+      -6,
+      7,
+      -9
+    ],
+    "sum": 24,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      36,
+      -10,
+      58,
+      -18
+    ],
+    "sum": 66,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      77,
+      85,
+      -82,
+      -17
+    ],
+    "sum": 63,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      97,
+      -83,
+      82,
+      -82
+    ],
+    "sum": 14,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      36,
+      91,
+      -19,
+      -46
+    ],
+    "sum": 62,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      81,
+      49,
+      -28,
+      -20
+    ],
+    "sum": 82,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      37,
+      -13,
+      42,
+      -33
+    ],
+    "sum": 33,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      77,
+      87,
+      -62,
+      -11
+    ],
+    "sum": 91,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      45,
+      39,
+      -44,
+      -28
+    ],
+    "sum": 12,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      64,
+      74,
+      -55,
+      -27
+    ],
+    "sum": 56,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      64,
+      44,
+      -50,
+      -39
+    ],
+    "sum": 19,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      8,
+      5,
+      -2,
+      7,
+      5,
+      6,
+      -7,
+      3,
+      -9,
+      4
+    ],
+    "sum": 20,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      5,
+      7,
+      5,
+      -8,
+      9,
+      -3,
+      9,
+      -6,
+      6,
+      3
+    ],
+    "sum": 27,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      4,
+      -2,
+      3,
+      6,
+      -3,
+      8,
+      6,
+      -3,
+      4,
+      9
+    ],
+    "sum": 32,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      5,
+      8,
+      6,
+      4,
+      -1,
+      7,
+      -2,
+      6,
+      -4,
+      6
+    ],
+    "sum": 35,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      9,
+      6,
+      -8,
+      9,
+      9,
+      -9,
+      9,
+      -7,
+      4,
+      2
+    ],
+    "sum": 24,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      77,
+      14,
+      -21,
+      -60
+    ],
+    "sum": 10,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      31,
+      93,
+      -13,
+      -48
+    ],
+    "sum": 63,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      99,
+      83,
+      -42,
+      -56
+    ],
+    "sum": 84,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      93,
+      -55,
+      -17,
+      66
+    ],
+    "sum": 87,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      95,
+      73,
+      -31,
+      -90
+    ],
+    "sum": 47,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      73,
+      75,
+      -14,
+      -36
+    ],
+    "sum": 98,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      23,
+      19,
+      -21,
+      -15
+    ],
+    "sum": 6,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      86,
+      -35,
+      43,
+      -51
+    ],
+    "sum": 43,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      37,
+      52,
+      -60,
+      -15
+    ],
+    "sum": 14,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      92,
+      81,
+      -21,
+      -58
+    ],
+    "sum": 94,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      4,
+      -3,
+      7,
+      6,
+      3,
+      -5,
+      3,
+      7,
+      -2,
+      5
+    ],
+    "sum": 25,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      3,
+      4,
+      4,
+      9,
+      -8,
+      6,
+      -6,
+      8,
+      8,
+      -4
+    ],
+    "sum": 24,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      9,
+      4,
+      -2,
+      4,
+      8,
+      6,
+      -7,
+      4,
+      6,
+      -1
+    ],
+    "sum": 31,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      4,
+      3,
+      5,
+      -6,
+      6,
+      -6,
+      9,
+      -3,
+      6,
+      6
+    ],
+    "sum": 24,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      3,
+      5,
+      -1,
+      3,
+      4,
+      5,
+      -9,
+      6,
+      -9,
+      1
+    ],
+    "sum": 8,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      85,
+      98,
+      -71,
+      -72
+    ],
+    "sum": 40,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      11,
+      82,
+      -27,
+      -56
+    ],
+    "sum": 10,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      82,
+      50,
+      -23,
+      -84
+    ],
+    "sum": 25,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      85,
+      -53,
+      53,
+      -33
+    ],
+    "sum": 52,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      69,
+      -21,
+      43,
+      -43
+    ],
+    "sum": 48,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      75,
+      81,
+      -81,
+      -14
+    ],
+    "sum": 61,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      91,
+      73,
+      -54,
+      -23
+    ],
+    "sum": 87,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      24,
+      68,
+      -61,
+      -13
+    ],
+    "sum": 18,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      25,
+      78,
+      -58,
+      -33
+    ],
+    "sum": 12,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      61,
+      -36,
+      89,
+      -36
+    ],
+    "sum": 78,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      9,
+      6,
+      6,
+      -1,
+      6,
+      -4,
+      7,
+      -8,
+      3,
+      6
+    ],
+    "sum": 30,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      6,
+      4,
+      4,
+      -8,
+      9,
+      3,
+      -5,
+      4,
+      -4,
+      6
+    ],
+    "sum": 19,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      7,
+      4,
+      6,
+      -7,
+      6,
+      8,
+      8,
+      -7,
+      5,
+      -8
+    ],
+    "sum": 22,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      6,
+      6,
+      -3,
+      3,
+      4,
+      -4,
+      9,
+      7,
+      9,
+      -9
+    ],
+    "sum": 28,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      6,
+      8,
+      -1,
+      4,
+      6,
+      5,
+      -2,
+      5,
+      6,
+      -3
+    ],
+    "sum": 34,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      88,
+      -44,
+      58,
+      -40
+    ],
+    "sum": 62,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      80,
+      -26,
+      38,
+      -19
+    ],
+    "sum": 73,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      27,
+      84,
+      -13,
+      -35
+    ],
+    "sum": 63,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      58,
+      29,
+      -16,
+      -55
+    ],
+    "sum": 16,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      97,
+      -10,
+      19,
+      -17
+    ],
+    "sum": 89,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      38,
+      75,
+      -24,
+      -54
+    ],
+    "sum": 35,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      96,
+      42,
+      -76,
+      -56
+    ],
+    "sum": 6,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      31,
+      78,
+      -61,
+      -21
+    ],
+    "sum": 27,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      76,
+      64,
+      -33,
+      -79
+    ],
+    "sum": 28,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      75,
+      98,
+      -18,
+      -60
+    ],
+    "sum": 95,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      7,
+      5,
+      5,
+      -1,
+      5,
+      7,
+      4,
+      -8,
+      3,
+      -7
+    ],
+    "sum": 20,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      5,
+      -2,
+      2,
+      5,
+      4,
+      8,
+      -5,
+      8,
+      5,
+      -1
+    ],
+    "sum": 29,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      8,
+      -4,
+      1,
+      6,
+      5,
+      6,
+      -3,
+      6,
+      -7,
+      7
+    ],
+    "sum": 25,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      8,
+      -2,
+      8,
+      7,
+      -9,
+      3,
+      8,
+      5,
+      6,
+      -1
+    ],
+    "sum": 33,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      7,
+      -3,
+      6,
+      6,
+      7,
+      -9,
+      4,
+      9,
+      -9,
+      1
+    ],
+    "sum": 19,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      62,
+      -34,
+      -19,
+      36
+    ],
+    "sum": 45,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      25,
+      93,
+      -24,
+      -45
+    ],
+    "sum": 49,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      24,
+      85,
+      -30,
+      -67
+    ],
+    "sum": 12,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      64,
+      -32,
+      -22,
+      39
+    ],
+    "sum": 49,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      40,
+      -17,
+      -12,
+      16
+    ],
+    "sum": 27,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      37,
+      42,
+      -48,
+      -24
+    ],
+    "sum": 7,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      40,
+      -32,
+      52,
+      -46
+    ],
+    "sum": 14,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      66,
+      73,
+      -90,
+      -44
+    ],
+    "sum": 5,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      99,
+      -79,
+      88,
+      -65
+    ],
+    "sum": 43,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      91,
+      -53,
+      91,
+      -94
+    ],
+    "sum": 35,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      3,
+      5,
+      -1,
+      3,
+      6,
+      3,
+      -7,
+      7,
+      -1,
+      3
+    ],
+    "sum": 21,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      4,
+      5,
+      -4,
+      5,
+      -7,
+      7,
+      4,
+      -9,
+      6,
+      2
+    ],
+    "sum": 13,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      8,
+      5,
+      3,
+      -9,
+      3,
+      7,
+      -2,
+      8,
+      -7,
+      8
+    ],
+    "sum": 24,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      6,
+      6,
+      -1,
+      6,
+      -3,
+      4,
+      9,
+      -2,
+      3,
+      3
+    ],
+    "sum": 31,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      3,
+      3,
+      7,
+      9,
+      -1,
+      6,
+      6,
+      -5,
+      4,
+      -4
+    ],
+    "sum": 28,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      54,
+      93,
+      -37,
+      -59
+    ],
+    "sum": 51,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      94,
+      -21,
+      59,
+      -56
+    ],
+    "sum": 76,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      99,
+      -56,
+      -28,
+      56
+    ],
+    "sum": 71,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      95,
+      -37,
+      -20,
+      16
+    ],
+    "sum": 54,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      16,
+      84,
+      -72,
+      -10
+    ],
+    "sum": 18,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      45,
+      57,
+      -26,
+      -62
+    ],
+    "sum": 14,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      32,
+      73,
+      -21,
+      -23
+    ],
+    "sum": 61,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      89,
+      -36,
+      74,
+      -92
+    ],
+    "sum": 35,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      73,
+      88,
+      -22,
+      -40
+    ],
+    "sum": 99,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      25,
+      -10,
+      60,
+      -11
+    ],
+    "sum": 64,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      6,
+      -2,
+      3,
+      7,
+      3,
+      5,
+      -9,
+      8,
+      8,
+      -3
+    ],
+    "sum": 26,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      9,
+      -3,
+      5,
+      4,
+      7,
+      -6,
+      3,
+      3,
+      -3,
+      2
+    ],
+    "sum": 21,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      5,
+      -4,
+      6,
+      3,
+      9,
+      -1,
+      5,
+      5,
+      4,
+      -5
+    ],
+    "sum": 27,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      6,
+      -1,
+      5,
+      9,
+      -8,
+      3,
+      6,
+      4,
+      -4,
+      1
+    ],
+    "sum": 21,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      4,
+      8,
+      3,
+      6,
+      -5,
+      8,
+      -7,
+      5,
+      6,
+      -6
+    ],
+    "sum": 22,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      95,
+      97,
+      -48,
+      -52
+    ],
+    "sum": 92,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      39,
+      70,
+      -53,
+      -31
+    ],
+    "sum": 25,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      87,
+      62,
+      -21,
+      -75
+    ],
+    "sum": 53,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      97,
+      62,
+      -32,
+      -32
+    ],
+    "sum": 95,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      63,
+      79,
+      -35,
+      -32
+    ],
+    "sum": 75,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      24,
+      95,
+      -89,
+      -16
+    ],
+    "sum": 14,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      83,
+      92,
+      -14,
+      -87
+    ],
+    "sum": 74,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      72,
+      -40,
+      76,
+      -41
+    ],
+    "sum": 67,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      63,
+      93,
+      -14,
+      -45
+    ],
+    "sum": 97,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      91,
+      -24,
+      -44,
+      12
+    ],
+    "sum": 35,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      4,
+      4,
+      -7,
+      7,
+      -1,
+      6,
+      -7,
+      3,
+      5,
+      1
+    ],
+    "sum": 15,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      4,
+      6,
+      4,
+      -8,
+      5,
+      -2,
+      8,
+      6,
+      6,
+      -1
+    ],
+    "sum": 28,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      7,
+      9,
+      -5,
+      5,
+      -1,
+      5,
+      6,
+      6,
+      -6,
+      5
+    ],
+    "sum": 31,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      3,
+      6,
+      5,
+      7,
+      -8,
+      6,
+      -4,
+      5,
+      -2,
+      1
+    ],
+    "sum": 19,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      5,
+      8,
+      -6,
+      9,
+      3,
+      -9,
+      5,
+      -1,
+      5,
+      5
+    ],
+    "sum": 24,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      92,
+      68,
+      -24,
+      -38
+    ],
+    "sum": 98,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      78,
+      39,
+      -34,
+      -13
+    ],
+    "sum": 70,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      58,
+      -47,
+      87,
+      -87
+    ],
+    "sum": 11,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      28,
+      -12,
+      97,
+      -63
+    ],
+    "sum": 50,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      41,
+      91,
+      -72,
+      -50
+    ],
+    "sum": 10,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      44,
+      -33,
+      60,
+      -45
+    ],
+    "sum": 26,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      94,
+      50,
+      -45,
+      -77
+    ],
+    "sum": 22,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      84,
+      41,
+      -86,
+      -23
+    ],
+    "sum": 16,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      71,
+      -18,
+      -30,
+      62
+    ],
+    "sum": 85,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      98,
+      -34,
+      -25,
+      20
+    ],
+    "sum": 59,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      4,
+      5,
+      8,
+      5,
+      -9,
+      5,
+      -3,
+      5,
+      -5,
+      1
+    ],
+    "sum": 16,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      5,
+      -3,
+      7,
+      8,
+      9,
+      -8,
+      9,
+      -7,
+      9,
+      7
+    ],
+    "sum": 36,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      7,
+      5,
+      4,
+      -9,
+      6,
+      -1,
+      6,
+      6,
+      -3,
+      1
+    ],
+    "sum": 22,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      4,
+      -3,
+      7,
+      8,
+      8,
+      -7,
+      5,
+      7,
+      -7,
+      2
+    ],
+    "sum": 24,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      6,
+      4,
+      -8,
+      4,
+      6,
+      -4,
+      4,
+      4,
+      -6,
+      7
+    ],
+    "sum": 17,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      56,
+      13,
+      -43,
+      -19
+    ],
+    "sum": 7,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      39,
+      -24,
+      19,
+      -20
+    ],
+    "sum": 14,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      25,
+      81,
+      -14,
+      -76
+    ],
+    "sum": 16,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      92,
+      -41,
+      70,
+      -89
+    ],
+    "sum": 32,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      89,
+      75,
+      -55,
+      -80
+    ],
+    "sum": 29,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      99,
+      78,
+      -56,
+      -29
+    ],
+    "sum": 92,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      41,
+      52,
+      -22,
+      -42
+    ],
+    "sum": 29,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      74,
+      69,
+      -82,
+      -29
+    ],
+    "sum": 32,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      38,
+      88,
+      -64,
+      -16
+    ],
+    "sum": 46,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      94,
+      80,
+      -62,
+      -18
+    ],
+    "sum": 94,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      4,
+      4,
+      3,
+      -2,
+      9,
+      7,
+      -3,
+      7,
+      8,
+      -7
+    ],
+    "sum": 30,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      6,
+      -5,
+      6,
+      6,
+      4,
+      -3,
+      6,
+      -1,
+      5,
+      1
+    ],
+    "sum": 25,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      3,
+      5,
+      -6,
+      8,
+      7,
+      7,
+      -1,
+      4,
+      9,
+      -2
+    ],
+    "sum": 34,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      5,
+      3,
+      -7,
+      5,
+      -4,
+      6,
+      -2,
+      7,
+      6,
+      4
+    ],
+    "sum": 23,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      4,
+      5,
+      9,
+      -5,
+      6,
+      -5,
+      5,
+      5,
+      9,
+      -9
+    ],
+    "sum": 24,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      25,
+      65,
+      -45,
+      -25
+    ],
+    "sum": 20,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      65,
+      96,
+      -80,
+      -33
+    ],
+    "sum": 48,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      90,
+      -40,
+      -34,
+      42
+    ],
+    "sum": 58,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      92,
+      92,
+      -94,
+      -18
+    ],
+    "sum": 72,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      86,
+      -24,
+      54,
+      -66
+    ],
+    "sum": 50,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      32,
+      81,
+      -48,
+      -56
+    ],
+    "sum": 9,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      67,
+      -52,
+      74,
+      -72
+    ],
+    "sum": 17,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      79,
+      -42,
+      -26,
+      67
+    ],
+    "sum": 78,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      49,
+      54,
+      -22,
+      -41
+    ],
+    "sum": 40,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      68,
+      49,
+      -46,
+      -40
+    ],
+    "sum": 31,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      5,
+      7,
+      6,
+      -4,
+      6,
+      8,
+      -7,
+      6,
+      -6,
+      3
+    ],
+    "sum": 24,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      6,
+      -4,
+      4,
+      5,
+      -3,
+      8,
+      4,
+      5,
+      -5,
+      4
+    ],
+    "sum": 24,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      4,
+      4,
+      4,
+      -5,
+      4,
+      5,
+      -8,
+      4,
+      -1,
+      6
+    ],
+    "sum": 17,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      9,
+      9,
+      5,
+      -4,
+      5,
+      8,
+      -6,
+      5,
+      9,
+      -9
+    ],
+    "sum": 31,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      7,
+      -5,
+      5,
+      -3,
+      9,
+      3,
+      6,
+      -4,
+      7,
+      5
+    ],
+    "sum": 30,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      47,
+      20,
+      -19,
+      -10
+    ],
+    "sum": 38,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      41,
+      -14,
+      32,
+      -13
+    ],
+    "sum": 46,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      30,
+      24,
+      -11,
+      -35
+    ],
+    "sum": 8,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      82,
+      83,
+      -58,
+      -16
+    ],
+    "sum": 91,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      15,
+      70,
+      -50,
+      -24
+    ],
+    "sum": 11,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      82,
+      91,
+      -50,
+      -78
+    ],
+    "sum": 45,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      58,
+      -14,
+      97,
+      -86
+    ],
+    "sum": 55,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      12,
+      90,
+      -71,
+      -11
+    ],
+    "sum": 20,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      98,
+      -56,
+      70,
+      -27
+    ],
+    "sum": 85,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      42,
+      81,
+      -19,
+      -69
+    ],
+    "sum": 35,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      6,
+      7,
+      -2,
+      9,
+      4,
+      4,
+      6,
+      -6,
+      4,
+      -6
+    ],
+    "sum": 26,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      7,
+      -3,
+      8,
+      4,
+      3,
+      5,
+      9,
+      -4,
+      4,
+      -6
+    ],
+    "sum": 27,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      9,
+      6,
+      -6,
+      6,
+      -1,
+      4,
+      8,
+      4,
+      8,
+      -4
+    ],
+    "sum": 34,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      7,
+      7,
+      -5,
+      6,
+      6,
+      9,
+      -7,
+      9,
+      -8,
+      2
+    ],
+    "sum": 26,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      4,
+      -1,
+      5,
+      -5,
+      3,
+      6,
+      4,
+      8,
+      -8,
+      6
+    ],
+    "sum": 22,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      16,
+      92,
+      -91,
+      81,
+      -78
+    ],
+    "sum": 20,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      42,
+      -22,
+      12,
+      39,
+      -12
+    ],
+    "sum": 59,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      51,
+      -39,
+      36,
+      -40,
+      46
+    ],
+    "sum": 54,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      30,
+      20,
+      -46,
+      71,
+      -38
+    ],
+    "sum": 37,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      83,
+      46,
+      44,
+      -31,
+      -81
+    ],
+    "sum": 61,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      44,
+      -41,
+      53,
+      10,
+      -54
+    ],
+    "sum": 12,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      47,
+      -15,
+      26,
+      16,
+      -24
+    ],
+    "sum": 50,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      17,
+      80,
+      -76,
+      57,
+      -67
+    ],
+    "sum": 11,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      18,
+      64,
+      -28,
+      30,
+      -28
+    ],
+    "sum": 56,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      71,
+      -45,
+      34,
+      21,
+      -67
+    ],
+    "sum": 14,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      9,
+      -1,
+      9,
+      -9,
+      8,
+      5,
+      8,
+      7,
+      -6,
+      5
+    ],
+    "sum": 35,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      5,
+      -3,
+      8,
+      7,
+      -6,
+      7,
+      8,
+      -3,
+      9,
+      1
+    ],
+    "sum": 33,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      3,
+      -1,
+      6,
+      7,
+      -9,
+      5,
+      8,
+      -6,
+      1,
+      4
+    ],
+    "sum": 18,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      6,
+      -4,
+      4,
+      -5,
+      5,
+      -5,
+      4,
+      9,
+      8,
+      2
+    ],
+    "sum": 24,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      7,
+      4,
+      -2,
+      7,
+      -9,
+      6,
+      5,
+      -2,
+      9,
+      8
+    ],
+    "sum": 33,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      32,
+      38,
+      70,
+      -71,
+      -64
+    ],
+    "sum": 5,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      73,
+      33,
+      -53,
+      17,
+      -60
+    ],
+    "sum": 10,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      89,
+      22,
+      -17,
+      25,
+      -28
+    ],
+    "sum": 91,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      44,
+      94,
+      -83,
+      22,
+      -17
+    ],
+    "sum": 60,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      59,
+      -30,
+      82,
+      -80,
+      68
+    ],
+    "sum": 99,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      39,
+      19,
+      -52,
+      90,
+      -59
+    ],
+    "sum": 37,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      79,
+      40,
+      -72,
+      91,
+      -80
+    ],
+    "sum": 58,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      35,
+      -11,
+      92,
+      11,
+      -81
+    ],
+    "sum": 46,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      33,
+      65,
+      51,
+      -62,
+      -64
+    ],
+    "sum": 23,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      78,
+      23,
+      -55,
+      54,
+      -72
+    ],
+    "sum": 28,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      5,
+      7,
+      -3,
+      9,
+      -5,
+      6,
+      8,
+      5,
+      -5,
+      8
+    ],
+    "sum": 35,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      5,
+      -3,
+      7,
+      6,
+      9,
+      9,
+      -8,
+      6,
+      -8,
+      7
+    ],
+    "sum": 30,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      3,
+      4,
+      -4,
+      9,
+      5,
+      9,
+      -3,
+      7,
+      4,
+      -7
+    ],
+    "sum": 27,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      6,
+      -4,
+      6,
+      6,
+      -6,
+      3,
+      -5,
+      2,
+      8,
+      1
+    ],
+    "sum": 17,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      7,
+      4,
+      -2,
+      6,
+      -3,
+      4,
+      4,
+      -8,
+      4,
+      1
+    ],
+    "sum": 17,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      92,
+      33,
+      44,
+      -24,
+      -68
+    ],
+    "sum": 77,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      15,
+      81,
+      -62,
+      65,
+      -82
+    ],
+    "sum": 17,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      72,
+      18,
+      -77,
+      87,
+      -95
+    ],
+    "sum": 5,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      37,
+      18,
+      51,
+      -41,
+      -56
+    ],
+    "sum": 9,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      23,
+      44,
+      97,
+      -81,
+      -56
+    ],
+    "sum": 27,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      69,
+      -30,
+      10,
+      48,
+      -61
+    ],
+    "sum": 36,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      87,
+      92,
+      14,
+      -89,
+      -30
+    ],
+    "sum": 74,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      65,
+      83,
+      58,
+      -66,
+      -83
+    ],
+    "sum": 57,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      54,
+      -36,
+      34,
+      88,
+      -99
+    ],
+    "sum": 41,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      11,
+      77,
+      -74,
+      94,
+      -47
+    ],
+    "sum": 61,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      4,
+      5,
+      4,
+      -5,
+      5,
+      5,
+      4,
+      -5,
+      5,
+      -4
+    ],
+    "sum": 18,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      9,
+      9,
+      -9,
+      9,
+      6,
+      7,
+      4,
+      -8,
+      5,
+      -6
+    ],
+    "sum": 26,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      4,
+      -1,
+      7,
+      6,
+      -4,
+      9,
+      7,
+      4,
+      -3,
+      9
+    ],
+    "sum": 38,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      5,
+      -1,
+      5,
+      9,
+      3,
+      -6,
+      6,
+      -6,
+      1,
+      8
+    ],
+    "sum": 24,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      7,
+      -5,
+      6,
+      -7,
+      5,
+      9,
+      6,
+      -8,
+      1,
+      6
+    ],
+    "sum": 20,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      11,
+      54,
+      -32,
+      73,
+      -23
+    ],
+    "sum": 83,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      52,
+      -21,
+      88,
+      -51,
+      10
+    ],
+    "sum": 78,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      22,
+      64,
+      50,
+      -23,
+      -34
+    ],
+    "sum": 79,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      28,
+      96,
+      -73,
+      36,
+      -76
+    ],
+    "sum": 11,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      70,
+      69,
+      -75,
+      28,
+      -51
+    ],
+    "sum": 41,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      16,
+      22,
+      94,
+      -12,
+      -34
+    ],
+    "sum": 86,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      10,
+      47,
+      -49,
+      41,
+      -44
+    ],
+    "sum": 5,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      96,
+      18,
+      -91,
+      51,
+      -32
+    ],
+    "sum": 42,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      11,
+      19,
+      41,
+      -11,
+      -53
+    ],
+    "sum": 7,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      73,
+      33,
+      -61,
+      36,
+      -52
+    ],
+    "sum": 29,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      2,
+      4,
+      9,
+      8,
+      -5,
+      4,
+      -5,
+      7,
+      -7,
+      3
+    ],
+    "sum": 20,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      6,
+      -1,
+      6,
+      4,
+      -7,
+      4,
+      -5,
+      4,
+      1,
+      6
+    ],
+    "sum": 18,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      4,
+      -1,
+      4,
+      -6,
+      6,
+      -5,
+      8,
+      7,
+      6,
+      3
+    ],
+    "sum": 26,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      3,
+      9,
+      -6,
+      6,
+      6,
+      -8,
+      5,
+      5,
+      5,
+      -1
+    ],
+    "sum": 24,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      4,
+      9,
+      6,
+      8,
+      -2,
+      6,
+      -7,
+      9,
+      9,
+      -2
+    ],
+    "sum": 40,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      93,
+      -60,
+      60,
+      -24,
+      13
+    ],
+    "sum": 82,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      94,
+      -34,
+      46,
+      22,
+      -89
+    ],
+    "sum": 39,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      44,
+      -35,
+      15,
+      86,
+      -72
+    ],
+    "sum": 38,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      38,
+      53,
+      -75,
+      90,
+      -20
+    ],
+    "sum": 86,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      59,
+      93,
+      11,
+      -97,
+      -25
+    ],
+    "sum": 41,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      20,
+      25,
+      -22,
+      57,
+      -14
+    ],
+    "sum": 66,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      36,
+      -31,
+      25,
+      22,
+      -16
+    ],
+    "sum": 36,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      44,
+      95,
+      76,
+      -67,
+      -92
+    ],
+    "sum": 56,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      18,
+      47,
+      -54,
+      79,
+      -43
+    ],
+    "sum": 47,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      24,
+      26,
+      25,
+      -28,
+      -27
+    ],
+    "sum": 20,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      6,
+      6,
+      -4,
+      5,
+      8,
+      -8,
+      8,
+      6,
+      6,
+      -9
+    ],
+    "sum": 24,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      7,
+      -3,
+      9,
+      3,
+      5,
+      -4,
+      5,
+      3,
+      8,
+      -6
+    ],
+    "sum": 27,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      9,
+      6,
+      -2,
+      6,
+      -8,
+      5,
+      6,
+      5,
+      -5,
+      9
+    ],
+    "sum": 31,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      5,
+      -2,
+      7,
+      4,
+      -1,
+      8,
+      6,
+      6,
+      -4,
+      9
+    ],
+    "sum": 38,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      5,
+      5,
+      -6,
+      6,
+      -6,
+      5,
+      7,
+      -5,
+      4,
+      7
+    ],
+    "sum": 22,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      26,
+      38,
+      -27,
+      -20,
+      15
+    ],
+    "sum": 32,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      34,
+      68,
+      97,
+      -38,
+      -66
+    ],
+    "sum": 95,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      96,
+      -91,
+      66,
+      10,
+      -14
+    ],
+    "sum": 67,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      43,
+      79,
+      -45,
+      12,
+      -42
+    ],
+    "sum": 47,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      47,
+      58,
+      35,
+      -62,
+      -71
+    ],
+    "sum": 7,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      94,
+      64,
+      -14,
+      38,
+      -86
+    ],
+    "sum": 96,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      96,
+      98,
+      63,
+      -62,
+      -97
+    ],
+    "sum": 98,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      40,
+      14,
+      91,
+      -30,
+      -87
+    ],
+    "sum": 28,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      76,
+      28,
+      -60,
+      21,
+      -49
+    ],
+    "sum": 16,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      14,
+      -10,
+      69,
+      -22,
+      19
+    ],
+    "sum": 70,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      9,
+      7,
+      3,
+      -5,
+      9,
+      8,
+      -2,
+      6,
+      -7,
+      2
+    ],
+    "sum": 30,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      4,
+      3,
+      5,
+      -2,
+      8,
+      -9,
+      8,
+      -5,
+      6,
+      5
+    ],
+    "sum": 23,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      8,
+      -3,
+      7,
+      6,
+      4,
+      -4,
+      7,
+      3,
+      -6,
+      3
+    ],
+    "sum": 25,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      4,
+      5,
+      4,
+      -7,
+      9,
+      -7,
+      5,
+      4,
+      4,
+      -5
+    ],
+    "sum": 16,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      4,
+      9,
+      5,
+      8,
+      9,
+      -8,
+      6,
+      -7,
+      7,
+      -3
+    ],
+    "sum": 30,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      33,
+      28,
+      58,
+      -51,
+      -30
+    ],
+    "sum": 38,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      69,
+      33,
+      37,
+      -61,
+      -33
+    ],
+    "sum": 45,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      86,
+      40,
+      -40,
+      -14,
+      26
+    ],
+    "sum": 98,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      14,
+      35,
+      32,
+      -13,
+      -37
+    ],
+    "sum": 31,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      18,
+      91,
+      93,
+      -59,
+      -97
+    ],
+    "sum": 46,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      43,
+      53,
+      21,
+      -68,
+      -19
+    ],
+    "sum": 30,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      70,
+      44,
+      -24,
+      -47,
+      44
+    ],
+    "sum": 87,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      72,
+      31,
+      -65,
+      80,
+      -96
+    ],
+    "sum": 22,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      80,
+      -54,
+      19,
+      10,
+      -44
+    ],
+    "sum": 11,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      63,
+      61,
+      -86,
+      40,
+      -52
+    ],
+    "sum": 26,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      6,
+      8,
+      7,
+      -7,
+      6,
+      5,
+      5,
+      -5,
+      6,
+      -9
+    ],
+    "sum": 22,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      3,
+      -1,
+      5,
+      6,
+      6,
+      -8,
+      6,
+      -9,
+      2,
+      1
+    ],
+    "sum": 11,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      6,
+      -5,
+      4,
+      6,
+      -5,
+      9,
+      -8,
+      7,
+      6,
+      1
+    ],
+    "sum": 21,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      5,
+      9,
+      -6,
+      3,
+      -1,
+      4,
+      6,
+      7,
+      4,
+      -6
+    ],
+    "sum": 25,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      9,
+      -5,
+      4,
+      3,
+      6,
+      -2,
+      7,
+      -8,
+      1,
+      7
+    ],
+    "sum": 22,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      34,
+      28,
+      89,
+      -52,
+      -78
+    ],
+    "sum": 21,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      94,
+      83,
+      -24,
+      12,
+      -83
+    ],
+    "sum": 82,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      29,
+      20,
+      79,
+      -41,
+      -82
+    ],
+    "sum": 5,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      30,
+      85,
+      -68,
+      57,
+      -19
+    ],
+    "sum": 85,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      49,
+      50,
+      25,
+      -28,
+      -70
+    ],
+    "sum": 26,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      95,
+      26,
+      36,
+      -82,
+      -28
+    ],
+    "sum": 47,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      58,
+      85,
+      -93,
+      85,
+      -84
+    ],
+    "sum": 51,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      64,
+      11,
+      50,
+      -75,
+      -38
+    ],
+    "sum": 12,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      82,
+      -59,
+      67,
+      69,
+      -60
+    ],
+    "sum": 99,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      77,
+      31,
+      23,
+      -73,
+      -10
+    ],
+    "sum": 48,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      4,
+      9,
+      5,
+      -4,
+      4,
+      -3,
+      6,
+      -5,
+      2,
+      2
+    ],
+    "sum": 20,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      6,
+      -4,
+      5,
+      3,
+      -7,
+      7,
+      9,
+      -8,
+      7,
+      6
+    ],
+    "sum": 24,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      7,
+      6,
+      -5,
+      5,
+      -8,
+      6,
+      5,
+      -3,
+      7,
+      2
+    ],
+    "sum": 22,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      7,
+      5,
+      -5,
+      5,
+      7,
+      -3,
+      6,
+      5,
+      -5,
+      6
+    ],
+    "sum": 28,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      4,
+      3,
+      -6,
+      7,
+      -4,
+      5,
+      6,
+      -9,
+      4,
+      4
+    ],
+    "sum": 14,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      89,
+      -11,
+      29,
+      20,
+      -50
+    ],
+    "sum": 77,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      24,
+      -19,
+      28,
+      63,
+      -90
+    ],
+    "sum": 6,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      94,
+      11,
+      48,
+      -82,
+      -22
+    ],
+    "sum": 49,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      76,
+      86,
+      -90,
+      12,
+      -13
+    ],
+    "sum": 71,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      60,
+      -10,
+      73,
+      12,
+      -59
+    ],
+    "sum": 76,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      43,
+      38,
+      -50,
+      82,
+      -84
+    ],
+    "sum": 29,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      67,
+      60,
+      63,
+      -81,
+      -80
+    ],
+    "sum": 29,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      69,
+      -12,
+      58,
+      26,
+      -94
+    ],
+    "sum": 47,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      69,
+      87,
+      56,
+      -31,
+      -97
+    ],
+    "sum": 84,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      61,
+      -42,
+      20,
+      70,
+      -27
+    ],
+    "sum": 82,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      7,
+      -2,
+      7,
+      3,
+      6,
+      4,
+      3,
+      -5,
+      6,
+      -8
+    ],
+    "sum": 21,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      9,
+      -8,
+      4,
+      5,
+      6,
+      -3,
+      5,
+      4,
+      7,
+      -3
+    ],
+    "sum": 26,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      4,
+      6,
+      6,
+      -8,
+      6,
+      8,
+      -3,
+      8,
+      -6,
+      3
+    ],
+    "sum": 24,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      5,
+      4,
+      5,
+      -6,
+      8,
+      -5,
+      7,
+      6,
+      3,
+      -4
+    ],
+    "sum": 23,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      6,
+      5,
+      -4,
+      7,
+      -4,
+      5,
+      9,
+      -2,
+      7,
+      6
+    ],
+    "sum": 35,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      41,
+      29,
+      98,
+      -92,
+      -35
+    ],
+    "sum": 41,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      15,
+      -10,
+      84,
+      55,
+      -73
+    ],
+    "sum": 71,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      57,
+      13,
+      -35,
+      -13,
+      13
+    ],
+    "sum": 35,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      46,
+      21,
+      -16,
+      12,
+      -43
+    ],
+    "sum": 20,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      27,
+      86,
+      -72,
+      37,
+      -53
+    ],
+    "sum": 25,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      25,
+      84,
+      -25,
+      41,
+      -80
+    ],
+    "sum": 45,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      31,
+      87,
+      -22,
+      49,
+      -76
+    ],
+    "sum": 69,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      74,
+      -21,
+      62,
+      16,
+      -49
+    ],
+    "sum": 82,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      52,
+      45,
+      -64,
+      64,
+      -20
+    ],
+    "sum": 77,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      28,
+      -18,
+      97,
+      18,
+      -59
+    ],
+    "sum": 66,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      3,
+      9,
+      -3,
+      6,
+      8,
+      4,
+      -5,
+      6,
+      -4,
+      1
+    ],
+    "sum": 25,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      9,
+      -8,
+      8,
+      4,
+      -3,
+      6,
+      7,
+      6,
+      -9,
+      5
+    ],
+    "sum": 25,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      8,
+      -6,
+      5,
+      -5,
+      8,
+      7,
+      6,
+      5,
+      5,
+      -9
+    ],
+    "sum": 24,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      4,
+      5,
+      5,
+      -2,
+      5,
+      -6,
+      5,
+      -1,
+      4,
+      9
+    ],
+    "sum": 28,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      6,
+      -2,
+      3,
+      8,
+      4,
+      -4,
+      8,
+      -7,
+      1,
+      7
+    ],
+    "sum": 24,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      55,
+      -30,
+      -14,
+      23,
+      55
+    ],
+    "sum": 89,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      55,
+      21,
+      79,
+      -28,
+      -97
+    ],
+    "sum": 30,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      63,
+      -11,
+      31,
+      -58,
+      41
+    ],
+    "sum": 66,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      17,
+      25,
+      68,
+      -70,
+      -22
+    ],
+    "sum": 18,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      26,
+      72,
+      -27,
+      92,
+      -87
+    ],
+    "sum": 76,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      58,
+      -12,
+      29,
+      -27,
+      26
+    ],
+    "sum": 74,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      45,
+      -32,
+      97,
+      28,
+      -98
+    ],
+    "sum": 40,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      62,
+      13,
+      59,
+      -52,
+      -74
+    ],
+    "sum": 8,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      39,
+      -22,
+      67,
+      27,
+      -71
+    ],
+    "sum": 40,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      22,
+      54,
+      60,
+      -97,
+      -17
+    ],
+    "sum": 22,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      5,
+      -2,
+      3,
+      4,
+      3,
+      8,
+      -7,
+      7,
+      -5,
+      8
+    ],
+    "sum": 24,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      6,
+      4,
+      6,
+      5,
+      6,
+      -8,
+      3,
+      -2,
+      8,
+      -2
+    ],
+    "sum": 26,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      4,
+      7,
+      7,
+      3,
+      6,
+      -4,
+      9,
+      -7,
+      6,
+      -5
+    ],
+    "sum": 26,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      9,
+      5,
+      6,
+      -4,
+      4,
+      5,
+      -8,
+      5,
+      6,
+      -5
+    ],
+    "sum": 23,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      9,
+      -4,
+      5,
+      5,
+      -3,
+      8,
+      4,
+      3,
+      6,
+      -6
+    ],
+    "sum": 27,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      85,
+      26,
+      72,
+      -48,
+      -46
+    ],
+    "sum": 89,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      90,
+      44,
+      94,
+      -54,
+      -96
+    ],
+    "sum": 78,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      51,
+      90,
+      -54,
+      14,
+      -12
+    ],
+    "sum": 89,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      69,
+      65,
+      -70,
+      -17,
+      10
+    ],
+    "sum": 57,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      70,
+      70,
+      -68,
+      27,
+      -70
+    ],
+    "sum": 29,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      96,
+      82,
+      -63,
+      35,
+      -99
+    ],
+    "sum": 51,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      37,
+      -21,
+      26,
+      -16,
+      22
+    ],
+    "sum": 48,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      26,
+      85,
+      23,
+      -64,
+      -65
+    ],
+    "sum": 5,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      62,
+      -40,
+      38,
+      37,
+      -77
+    ],
+    "sum": 20,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      10,
+      78,
+      -15,
+      43,
+      -55
+    ],
+    "sum": 61,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      9,
+      6,
+      -8,
+      7,
+      3,
+      -3,
+      4,
+      4,
+      6,
+      -9
+    ],
+    "sum": 19,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      7,
+      -5,
+      6,
+      5,
+      3,
+      -1,
+      6,
+      -1,
+      3,
+      3
+    ],
+    "sum": 26,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      6,
+      9,
+      8,
+      -8,
+      6,
+      -6,
+      4,
+      4,
+      6,
+      -8
+    ],
+    "sum": 21,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      9,
+      5,
+      -7,
+      6,
+      9,
+      3,
+      -7,
+      5,
+      6,
+      -5
+    ],
+    "sum": 24,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      6,
+      7,
+      -7,
+      7,
+      5,
+      3,
+      8,
+      -6,
+      9,
+      -1
+    ],
+    "sum": 31,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      21,
+      97,
+      77,
+      -44,
+      -80
+    ],
+    "sum": 71,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      95,
+      -58,
+      63,
+      -54,
+      23
+    ],
+    "sum": 69,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      11,
+      39,
+      99,
+      -68,
+      -57
+    ],
+    "sum": 24,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      40,
+      25,
+      94,
+      -58,
+      -44
+    ],
+    "sum": 57,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      93,
+      86,
+      11,
+      -28,
+      -97
+    ],
+    "sum": 65,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      18,
+      70,
+      66,
+      -46,
+      -55
+    ],
+    "sum": 53,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      27,
+      24,
+      88,
+      -51,
+      -58
+    ],
+    "sum": 30,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      61,
+      93,
+      -56,
+      80,
+      -87
+    ],
+    "sum": 91,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      32,
+      49,
+      -50,
+      -12,
+      14
+    ],
+    "sum": 33,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      54,
+      78,
+      54,
+      -40,
+      -69
+    ],
+    "sum": 77,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      4,
+      -1,
+      6,
+      -5,
+      5,
+      5,
+      -7,
+      5,
+      4,
+      6
+    ],
+    "sum": 22,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      6,
+      7,
+      6,
+      8,
+      -8,
+      6,
+      4,
+      -4,
+      9,
+      -8
+    ],
+    "sum": 26,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      6,
+      5,
+      6,
+      -4,
+      8,
+      -6,
+      5,
+      -1,
+      4,
+      5
+    ],
+    "sum": 28,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      6,
+      -5,
+      8,
+      7,
+      5,
+      8,
+      -4,
+      7,
+      -6,
+      9
+    ],
+    "sum": 35,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      7,
+      8,
+      -7,
+      6,
+      6,
+      -9,
+      6,
+      6,
+      5,
+      -7
+    ],
+    "sum": 21,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      77,
+      97,
+      -89,
+      -51,
+      19
+    ],
+    "sum": 53,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      37,
+      21,
+      -15,
+      41,
+      -75
+    ],
+    "sum": 9,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      55,
+      86,
+      10,
+      -23,
+      -89
+    ],
+    "sum": 39,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      23,
+      -21,
+      67,
+      -66,
+      43
+    ],
+    "sum": 46,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      70,
+      48,
+      -52,
+      -10,
+      16
+    ],
+    "sum": 72,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      44,
+      67,
+      -65,
+      -18,
+      38
+    ],
+    "sum": 66,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      79,
+      91,
+      -72,
+      16,
+      -49
+    ],
+    "sum": 65,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      70,
+      91,
+      -61,
+      44,
+      -73
+    ],
+    "sum": 71,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      45,
+      -10,
+      36,
+      19,
+      -10
+    ],
+    "sum": 80,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      99,
+      14,
+      15,
+      -59,
+      -12
+    ],
+    "sum": 57,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      6,
+      8,
+      9,
+      8,
+      -3,
+      6,
+      -2,
+      3,
+      -8,
+      6
+    ],
+    "sum": 33,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      6,
+      9,
+      4,
+      -6,
+      5,
+      7,
+      -3,
+      5,
+      6,
+      -5
+    ],
+    "sum": 28,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      8,
+      -6,
+      8,
+      -9,
+      5,
+      5,
+      6,
+      5,
+      4,
+      -2
+    ],
+    "sum": 24,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      9,
+      5,
+      3,
+      5,
+      -6,
+      5,
+      -7,
+      8,
+      3,
+      -9
+    ],
+    "sum": 16,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      5,
+      -4,
+      3,
+      3,
+      8,
+      6,
+      -6,
+      4,
+      -9,
+      8
+    ],
+    "sum": 18,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      18,
+      56,
+      97,
+      -63,
+      -94
+    ],
+    "sum": 14,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      53,
+      73,
+      45,
+      -85,
+      -11
+    ],
+    "sum": 75,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      46,
+      40,
+      -73,
+      49,
+      -25
+    ],
+    "sum": 37,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      28,
+      65,
+      -48,
+      -24,
+      40
+    ],
+    "sum": 61,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      31,
+      72,
+      -60,
+      11,
+      -27
+    ],
+    "sum": 27,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      83,
+      29,
+      88,
+      -65,
+      -67
+    ],
+    "sum": 68,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      40,
+      61,
+      -57,
+      97,
+      -46
+    ],
+    "sum": 95,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      36,
+      12,
+      66,
+      -64,
+      -34
+    ],
+    "sum": 16,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      47,
+      86,
+      23,
+      -86,
+      -48
+    ],
+    "sum": 22,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      98,
+      53,
+      -40,
+      -75,
+      34
+    ],
+    "sum": 70,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      9,
+      -7,
+      2,
+      1,
+      7,
+      5,
+      7,
+      -7,
+      5,
+      -2
+    ],
+    "sum": 20,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      9,
+      -2,
+      6,
+      3,
+      5,
+      -7,
+      6,
+      -7,
+      4,
+      5
+    ],
+    "sum": 22,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      3,
+      5,
+      -5,
+      8,
+      7,
+      6,
+      -6,
+      9,
+      5,
+      -8
+    ],
+    "sum": 24,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      9,
+      4,
+      9,
+      -4,
+      9,
+      -6,
+      4,
+      5,
+      6,
+      -6
+    ],
+    "sum": 30,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      6,
+      4,
+      -2,
+      8,
+      -3,
+      5,
+      4,
+      -9,
+      1,
+      7
+    ],
+    "sum": 21,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      58,
+      78,
+      -90,
+      73,
+      -41
+    ],
+    "sum": 78,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      52,
+      45,
+      -47,
+      -18,
+      40
+    ],
+    "sum": 72,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      73,
+      -34,
+      23,
+      67,
+      -67
+    ],
+    "sum": 62,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      10,
+      98,
+      -44,
+      66,
+      -74
+    ],
+    "sum": 56,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      76,
+      73,
+      -86,
+      57,
+      -45
+    ],
+    "sum": 75,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      33,
+      22,
+      -41,
+      41,
+      -47
+    ],
+    "sum": 8,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      17,
+      83,
+      22,
+      -14,
+      -97
+    ],
+    "sum": 11,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      78,
+      17,
+      -13,
+      -62,
+      48
+    ],
+    "sum": 68,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      73,
+      -40,
+      58,
+      -31,
+      39
+    ],
+    "sum": 99,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      57,
+      48,
+      71,
+      -37,
+      -45
+    ],
+    "sum": 94,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      8,
+      -3,
+      7,
+      6,
+      -3,
+      4,
+      6,
+      6,
+      -8,
+      9
+    ],
+    "sum": 32,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      7,
+      7,
+      9,
+      -2,
+      5,
+      -3,
+      9,
+      -8,
+      8,
+      7
+    ],
+    "sum": 39,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      7,
+      4,
+      -8,
+      4,
+      6,
+      6,
+      -9,
+      8,
+      4,
+      -4
+    ],
+    "sum": 18,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      6,
+      3,
+      -2,
+      3,
+      6,
+      6,
+      -3,
+      9,
+      3,
+      -5
+    ],
+    "sum": 26,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      8,
+      7,
+      3,
+      7,
+      8,
+      -5,
+      7,
+      -2,
+      5,
+      -4
+    ],
+    "sum": 34,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      69,
+      87,
+      -50,
+      33,
+      -45
+    ],
+    "sum": 94,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      40,
+      52,
+      -43,
+      45,
+      -87
+    ],
+    "sum": 7,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      54,
+      55,
+      -95,
+      69,
+      -24
+    ],
+    "sum": 59,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      18,
+      61,
+      98,
+      -16,
+      -93
+    ],
+    "sum": 68,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      79,
+      -70,
+      46,
+      56,
+      -12
+    ],
+    "sum": 99,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      79,
+      95,
+      -44,
+      50,
+      -83
+    ],
+    "sum": 97,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      76,
+      54,
+      -69,
+      70,
+      -79
+    ],
+    "sum": 52,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      63,
+      92,
+      -76,
+      66,
+      -55
+    ],
+    "sum": 90,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      63,
+      18,
+      -46,
+      59,
+      -27
+    ],
+    "sum": 67,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      21,
+      79,
+      -10,
+      -69,
+      58
+    ],
+    "sum": 79,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      4,
+      -3,
+      5,
+      8,
+      4,
+      6,
+      -4,
+      4,
+      -9,
+      9
+    ],
+    "sum": 24,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      4,
+      5,
+      -4,
+      5,
+      7,
+      3,
+      -4,
+      5,
+      -1,
+      5
+    ],
+    "sum": 25,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      6,
+      -2,
+      5,
+      8,
+      5,
+      -1,
+      5,
+      8,
+      -3,
+      8
+    ],
+    "sum": 39,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      3,
+      8,
+      5,
+      -6,
+      3,
+      -7,
+      5,
+      7,
+      5,
+      -4
+    ],
+    "sum": 19,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      5,
+      7,
+      4,
+      -4,
+      6,
+      3,
+      -8,
+      6,
+      -9,
+      1
+    ],
+    "sum": 11,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      68,
+      78,
+      21,
+      -52,
+      -83
+    ],
+    "sum": 32,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      32,
+      45,
+      -26,
+      88,
+      -83
+    ],
+    "sum": 56,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      13,
+      82,
+      43,
+      -87,
+      -26
+    ],
+    "sum": 25,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      34,
+      -16,
+      11,
+      69,
+      -77
+    ],
+    "sum": 21,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      56,
+      -41,
+      22,
+      -10,
+      23
+    ],
+    "sum": 50,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      84,
+      56,
+      -49,
+      13,
+      -98
+    ],
+    "sum": 6,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      28,
+      89,
+      67,
+      -92,
+      -57
+    ],
+    "sum": 35,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      84,
+      -22,
+      73,
+      10,
+      -64
+    ],
+    "sum": 81,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      28,
+      -27,
+      12,
+      95,
+      -32
+    ],
+    "sum": 76,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      70,
+      31,
+      -65,
+      43,
+      -61
+    ],
+    "sum": 18,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      3,
+      -1,
+      4,
+      9,
+      7,
+      4,
+      5,
+      -4,
+      9,
+      -8
+    ],
+    "sum": 28,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      6,
+      5,
+      5,
+      -2,
+      8,
+      5,
+      -1,
+      8,
+      7,
+      -5
+    ],
+    "sum": 36,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      7,
+      6,
+      8,
+      -2,
+      6,
+      6,
+      8,
+      -4,
+      5,
+      -6
+    ],
+    "sum": 34,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      5,
+      8,
+      -6,
+      8,
+      5,
+      4,
+      7,
+      -8,
+      5,
+      -8
+    ],
+    "sum": 20,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      4,
+      -1,
+      3,
+      9,
+      -2,
+      8,
+      -5,
+      1,
+      4,
+      9
+    ],
+    "sum": 30,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      31,
+      20,
+      90,
+      -43,
+      -49
+    ],
+    "sum": 49,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      83,
+      11,
+      -61,
+      14,
+      -42
+    ],
+    "sum": 5,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      28,
+      11,
+      -24,
+      94,
+      -41
+    ],
+    "sum": 68,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      30,
+      70,
+      -54,
+      73,
+      -63
+    ],
+    "sum": 56,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      18,
+      35,
+      40,
+      -54,
+      -29
+    ],
+    "sum": 10,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      21,
+      42,
+      20,
+      -19,
+      -25
+    ],
+    "sum": 39,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      17,
+      91,
+      43,
+      -17,
+      -67
+    ],
+    "sum": 67,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      75,
+      59,
+      29,
+      -27,
+      -83
+    ],
+    "sum": 53,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      69,
+      -24,
+      97,
+      -80,
+      14
+    ],
+    "sum": 76,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      92,
+      -71,
+      35,
+      59,
+      -59
+    ],
+    "sum": 56,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      5,
+      -4,
+      6,
+      4,
+      3,
+      -9,
+      4,
+      7,
+      -7,
+      9
+    ],
+    "sum": 18,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      6,
+      -1,
+      6,
+      -2,
+      3,
+      3,
+      9,
+      7,
+      -7,
+      3
+    ],
+    "sum": 27,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      8,
+      8,
+      5,
+      -8,
+      7,
+      -3,
+      3,
+      9,
+      9,
+      -5
+    ],
+    "sum": 33,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      8,
+      9,
+      -7,
+      9,
+      -4,
+      4,
+      4,
+      4,
+      5,
+      -4
+    ],
+    "sum": 28,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      6,
+      -5,
+      8,
+      5,
+      7,
+      6,
+      -3,
+      8,
+      -5,
+      8
+    ],
+    "sum": 35,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      52,
+      92,
+      -34,
+      -72,
+      43
+    ],
+    "sum": 81,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      51,
+      25,
+      -32,
+      13,
+      -19
+    ],
+    "sum": 38,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      49,
+      31,
+      -10,
+      71,
+      -69
+    ],
+    "sum": 72,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      66,
+      45,
+      24,
+      -27,
+      -93
+    ],
+    "sum": 15,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      36,
+      20,
+      -22,
+      74,
+      -82
+    ],
+    "sum": 26,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      51,
+      -15,
+      76,
+      18,
+      -57
+    ],
+    "sum": 73,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      72,
+      36,
+      -33,
+      64,
+      -98
+    ],
+    "sum": 41,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      19,
+      81,
+      -17,
+      17,
+      -34
+    ],
+    "sum": 66,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      34,
+      10,
+      54,
+      -30,
+      -55
+    ],
+    "sum": 13,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      90,
+      47,
+      55,
+      -70,
+      -75
+    ],
+    "sum": 47,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      4,
+      6,
+      -3,
+      5,
+      6,
+      8,
+      -5,
+      5,
+      5,
+      -6
+    ],
+    "sum": 25,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      5,
+      6,
+      -6,
+      5,
+      -6,
+      9,
+      5,
+      4,
+      -2,
+      7
+    ],
+    "sum": 27,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      7,
+      4,
+      6,
+      -5,
+      4,
+      5,
+      4,
+      -7,
+      6,
+      -3
+    ],
+    "sum": 21,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      6,
+      -2,
+      6,
+      6,
+      9,
+      -7,
+      9,
+      5,
+      -2,
+      3
+    ],
+    "sum": 33,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      6,
+      -1,
+      9,
+      6,
+      -5,
+      7,
+      -2,
+      9,
+      5,
+      4
+    ],
+    "sum": 38,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      51,
+      10,
+      -21,
+      60,
+      -52
+    ],
+    "sum": 48,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      33,
+      63,
+      -90,
+      87,
+      -87
+    ],
+    "sum": 6,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      96,
+      -29,
+      98,
+      -90,
+      11
+    ],
+    "sum": 86,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      29,
+      -13,
+      56,
+      87,
+      -73
+    ],
+    "sum": 86,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      59,
+      19,
+      61,
+      -84,
+      -15
+    ],
+    "sum": 40,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      62,
+      63,
+      -59,
+      -50,
+      13
+    ],
+    "sum": 29,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      42,
+      68,
+      -49,
+      68,
+      -66
+    ],
+    "sum": 63,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      57,
+      46,
+      59,
+      -82,
+      -62
+    ],
+    "sum": 18,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      43,
+      45,
+      -40,
+      -39,
+      14
+    ],
+    "sum": 23,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      23,
+      49,
+      -24,
+      -35,
+      29
+    ],
+    "sum": 42,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      6,
+      -5,
+      6,
+      -6,
+      6,
+      5,
+      -5,
+      9,
+      8,
+      9
+    ],
+    "sum": 33,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      8,
+      -4,
+      7,
+      7,
+      -2,
+      8,
+      5,
+      -9,
+      1,
+      8
+    ],
+    "sum": 29,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      5,
+      -2,
+      7,
+      4,
+      -6,
+      3,
+      5,
+      5,
+      4,
+      -4
+    ],
+    "sum": 21,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      4,
+      -3,
+      6,
+      -5,
+      6,
+      8,
+      9,
+      -7,
+      6,
+      3
+    ],
+    "sum": 27,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      8,
+      8,
+      7,
+      -6,
+      8,
+      5,
+      4,
+      -9,
+      4,
+      -2
+    ],
+    "sum": 27,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      73,
+      30,
+      57,
+      -44,
+      -83
+    ],
+    "sum": 33,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      68,
+      81,
+      -77,
+      -60,
+      24
+    ],
+    "sum": 36,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      22,
+      40,
+      -10,
+      -47,
+      25
+    ],
+    "sum": 30,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      51,
+      37,
+      55,
+      -50,
+      -30
+    ],
+    "sum": 63,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      30,
+      10,
+      -27,
+      98,
+      -52
+    ],
+    "sum": 59,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      74,
+      60,
+      -56,
+      11,
+      -34
+    ],
+    "sum": 55,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      54,
+      59,
+      28,
+      -54,
+      -71
+    ],
+    "sum": 16,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      21,
+      58,
+      49,
+      -21,
+      -98
+    ],
+    "sum": 9,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      62,
+      78,
+      65,
+      -56,
+      -53
+    ],
+    "sum": 96,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      10,
+      21,
+      -18,
+      81,
+      -85
+    ],
+    "sum": 9,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      8,
+      -2,
+      5,
+      6,
+      -8,
+      4,
+      6,
+      6,
+      3,
+      -7
+    ],
+    "sum": 21,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      5,
+      3,
+      -7,
+      9,
+      5,
+      -6,
+      4,
+      4,
+      -2,
+      6
+    ],
+    "sum": 21,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      6,
+      6,
+      4,
+      5,
+      -3,
+      5,
+      5,
+      -9,
+      5,
+      -5
+    ],
+    "sum": 19,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      3,
+      9,
+      6,
+      -5,
+      4,
+      6,
+      -2,
+      6,
+      -1,
+      7
+    ],
+    "sum": 33,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      6,
+      6,
+      -2,
+      5,
+      -7,
+      9,
+      6,
+      7,
+      -7,
+      4
+    ],
+    "sum": 27,
+    "type": 6,
+    "place": "units"
+  },
+  {
+    "numbers": [
+      12,
+      83,
+      -21,
+      -69,
+      22
+    ],
+    "sum": 27,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      71,
+      36,
+      -32,
+      80,
+      -62
+    ],
+    "sum": 93,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      48,
+      64,
+      13,
+      -86,
+      -11
+    ],
+    "sum": 28,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      74,
+      71,
+      -89,
+      65,
+      -59
+    ],
+    "sum": 62,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      17,
+      66,
+      20,
+      -63,
+      -33
+    ],
+    "sum": 7,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      83,
+      -63,
+      28,
+      77,
+      -75
+    ],
+    "sum": 50,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      19,
+      30,
+      -19,
+      18,
+      -27
+    ],
+    "sum": 21,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      97,
+      -48,
+      52,
+      -76,
+      34
+    ],
+    "sum": 59,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      49,
+      38,
+      38,
+      -98,
+      -11
+    ],
+    "sum": 16,
+    "type": 6,
+    "place": "tens"
+  },
+  {
+    "numbers": [
+      59,
+      20,
+      -39,
+      23,
+      -42
+    ],
+    "sum": 21,
+    "type": 6,
+    "place": "tens"
+  }
+]

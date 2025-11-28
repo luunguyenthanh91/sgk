@@ -1,0 +1,14082 @@
+[
+  {
+    "numbers": [
+      82,
+      -39,
+      84,
+      -97,
+      76,
+      97,
+      75,
+      -90,
+      76,
+      10
+    ],
+    "sum": 274,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      50,
+      65,
+      80,
+      10,
+      -28,
+      16,
+      72,
+      -67,
+      78,
+      -48
+    ],
+    "sum": 228,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      11,
+      37,
+      -41,
+      29,
+      51,
+      -30,
+      37,
+      48,
+      70,
+      -10
+    ],
+    "sum": 202,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      94,
+      57,
+      89,
+      -75,
+      94,
+      38,
+      -88,
+      24,
+      19,
+      -24
+    ],
+    "sum": 228,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      49,
+      72,
+      -78,
+      28,
+      61,
+      -24,
+      67,
+      31,
+      -83,
+      57
+    ],
+    "sum": 180,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      787,
+      -786,
+      743
+    ],
+    "sum": 744,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      687,
+      887,
+      -605
+    ],
+    "sum": 969,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      439,
+      903,
+      -780
+    ],
+    "sum": 562,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      412,
+      -260,
+      496
+    ],
+    "sum": 648,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      454,
+      -363,
+      256
+    ],
+    "sum": 347,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      2.73,
+      3.59,
+      -5.27
+    ],
+    "sum": 1.05,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      9.95,
+      6.04,
+      -7.25
+    ],
+    "sum": 8.74,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      9.11,
+      1,
+      -8.05
+    ],
+    "sum": 2.06,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      7.83,
+      -6.12,
+      1
+    ],
+    "sum": 2.71,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      7.26,
+      4.51,
+      -3.33
+    ],
+    "sum": 8.44,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      92,
+      57,
+      38,
+      -32,
+      82,
+      95,
+      -20,
+      98,
+      -42,
+      40
+    ],
+    "sum": 408,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      62,
+      -61,
+      94,
+      -15,
+      26,
+      18,
+      55,
+      53,
+      -82,
+      76
+    ],
+    "sum": 226,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      52,
+      41,
+      -70,
+      55,
+      83,
+      53,
+      -40,
+      20,
+      89,
+      -42
+    ],
+    "sum": 241,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      21,
+      22,
+      -42,
+      93,
+      19,
+      -58,
+      34,
+      -54,
+      99,
+      99
+    ],
+    "sum": 233,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      58,
+      16,
+      30,
+      24,
+      -11,
+      50,
+      60,
+      -95,
+      97,
+      -55
+    ],
+    "sum": 174,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      720,
+      867,
+      -770
+    ],
+    "sum": 817,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      197,
+      -196,
+      592
+    ],
+    "sum": 593,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      683,
+      -675,
+      466
+    ],
+    "sum": 474,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      278,
+      -201,
+      138
+    ],
+    "sum": 215,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      494,
+      -493,
+      366
+    ],
+    "sum": 367,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      2.76,
+      -1.29,
+      1.53
+    ],
+    "sum": 3,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      3.11,
+      -2.08,
+      4.66
+    ],
+    "sum": 5.69,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      5.14,
+      8.48,
+      -9.22
+    ],
+    "sum": 4.4,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      8.04,
+      -2.03,
+      8.87
+    ],
+    "sum": 14.88,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      7.94,
+      -5.71,
+      0.2
+    ],
+    "sum": 2.43,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      70,
+      50,
+      -25,
+      86,
+      19,
+      28,
+      -85,
+      45,
+      -44,
+      10
+    ],
+    "sum": 154,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      73,
+      -72,
+      20,
+      93,
+      -40,
+      24,
+      39,
+      63,
+      87,
+      -35
+    ],
+    "sum": 252,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      64,
+      -63,
+      78,
+      27,
+      -53,
+      19,
+      98,
+      -92,
+      93,
+      45
+    ],
+    "sum": 216,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      26,
+      -25,
+      17,
+      87,
+      63,
+      31,
+      -29,
+      25,
+      -78,
+      34
+    ],
+    "sum": 151,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      94,
+      -13,
+      25,
+      -48,
+      81,
+      27,
+      -96,
+      79,
+      23,
+      62
+    ],
+    "sum": 234,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      831,
+      473,
+      -422
+    ],
+    "sum": 882,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      318,
+      136,
+      -453
+    ],
+    "sum": 1,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      949,
+      484,
+      -244
+    ],
+    "sum": 1189,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      448,
+      -447,
+      610
+    ],
+    "sum": 611,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      611,
+      -554,
+      700
+    ],
+    "sum": 757,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      6.36,
+      5.13,
+      -9.46
+    ],
+    "sum": 2.03,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      4.39,
+      8.39,
+      -0.08
+    ],
+    "sum": 12.7,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      4.76,
+      -3.54,
+      7.33
+    ],
+    "sum": 8.55,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      8.4,
+      9.03,
+      -8.16
+    ],
+    "sum": 9.27,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      9.28,
+      3.88,
+      -5.14
+    ],
+    "sum": 8.02,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      30,
+      -20,
+      22,
+      47,
+      -75,
+      65,
+      82,
+      60,
+      96,
+      -92
+    ],
+    "sum": 215,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      95,
+      30,
+      93,
+      -79,
+      75,
+      -14,
+      79,
+      -18,
+      79,
+      30
+    ],
+    "sum": 370,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      31,
+      24,
+      63,
+      -43,
+      93,
+      89,
+      -90,
+      97,
+      85,
+      -24
+    ],
+    "sum": 325,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      67,
+      71,
+      25,
+      57,
+      50,
+      -32,
+      78,
+      -75,
+      35,
+      -19
+    ],
+    "sum": 257,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      67,
+      58,
+      -69,
+      87,
+      14,
+      42,
+      66,
+      -47,
+      84,
+      -45
+    ],
+    "sum": 257,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      437,
+      236,
+      -640
+    ],
+    "sum": 33,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      455,
+      210,
+      -664
+    ],
+    "sum": 1,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      942,
+      300,
+      -100
+    ],
+    "sum": 1142,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      584,
+      -241,
+      830
+    ],
+    "sum": 1173,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      573,
+      -106,
+      855
+    ],
+    "sum": 1322,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      2.27,
+      -0.23,
+      9.08
+    ],
+    "sum": 11.12,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      3.55,
+      -3.2,
+      0.01
+    ],
+    "sum": 0.36,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      6.52,
+      7.09,
+      -5.42
+    ],
+    "sum": 8.19,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      1.12,
+      -1.11,
+      8.44
+    ],
+    "sum": 8.45,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      2.92,
+      9.16,
+      -5.02
+    ],
+    "sum": 7.06,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      69,
+      97,
+      -35,
+      12,
+      -29,
+      70,
+      24,
+      -91,
+      37,
+      28
+    ],
+    "sum": 182,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      27,
+      43,
+      25,
+      -33,
+      67,
+      -56,
+      51,
+      74,
+      -99,
+      11
+    ],
+    "sum": 110,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      77,
+      82,
+      92,
+      -21,
+      86,
+      -70,
+      84,
+      -27,
+      85,
+      44
+    ],
+    "sum": 432,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      43,
+      90,
+      -29,
+      76,
+      47,
+      47,
+      -76,
+      56,
+      21,
+      -91
+    ],
+    "sum": 184,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      59,
+      34,
+      -85,
+      25,
+      -32,
+      77,
+      43,
+      12,
+      87,
+      -79
+    ],
+    "sum": 141,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      964,
+      -153,
+      336
+    ],
+    "sum": 1147,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      180,
+      722,
+      -350
+    ],
+    "sum": 552,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      623,
+      205,
+      -739
+    ],
+    "sum": 89,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      540,
+      -435,
+      294
+    ],
+    "sum": 399,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      110,
+      -109,
+      998
+    ],
+    "sum": 999,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      0.2,
+      -0.18,
+      6.64
+    ],
+    "sum": 6.66,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      6.47,
+      0.51,
+      -2.02
+    ],
+    "sum": 4.96,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      6.54,
+      3.11,
+      -4.2
+    ],
+    "sum": 5.45,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      5.02,
+      -3.02,
+      0.35
+    ],
+    "sum": 2.35,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      2.14,
+      -2.02,
+      6.84
+    ],
+    "sum": 6.96,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      37,
+      -22,
+      38,
+      10,
+      -36,
+      66,
+      30,
+      44,
+      -81,
+      36
+    ],
+    "sum": 122,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      78,
+      23,
+      19,
+      31,
+      -50,
+      21,
+      88,
+      -16,
+      45,
+      -37
+    ],
+    "sum": 202,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      34,
+      -12,
+      39,
+      -58,
+      43,
+      72,
+      38,
+      -92,
+      73,
+      46
+    ],
+    "sum": 183,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      58,
+      -39,
+      78,
+      45,
+      -76,
+      66,
+      87,
+      -23,
+      81,
+      72
+    ],
+    "sum": 349,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      70,
+      70,
+      13,
+      -18,
+      77,
+      -86,
+      87,
+      -54,
+      76,
+      30
+    ],
+    "sum": 265,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      849,
+      915,
+      -979
+    ],
+    "sum": 785,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      642,
+      -462,
+      775
+    ],
+    "sum": 955,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      117,
+      -116,
+      592
+    ],
+    "sum": 593,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      753,
+      -158,
+      240
+    ],
+    "sum": 835,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      626,
+      -443,
+      328
+    ],
+    "sum": 511,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      6.56,
+      8.47,
+      -5.03
+    ],
+    "sum": 10,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      2.53,
+      -2.24,
+      4.93
+    ],
+    "sum": 5.22,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      4.47,
+      -3.19,
+      6.8
+    ],
+    "sum": 8.08,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      5.5,
+      1.74,
+      -1.24
+    ],
+    "sum": 6,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      7.38,
+      -5.33,
+      6.99
+    ],
+    "sum": 9.04,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      80,
+      -79,
+      79,
+      85,
+      16,
+      15,
+      -33,
+      17,
+      -54,
+      61
+    ],
+    "sum": 187,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      92,
+      90,
+      -20,
+      37,
+      -98,
+      83,
+      34,
+      25,
+      -73,
+      75
+    ],
+    "sum": 245,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      85,
+      -20,
+      23,
+      82,
+      72,
+      93,
+      -75,
+      39,
+      -83,
+      67
+    ],
+    "sum": 283,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      14,
+      94,
+      72,
+      55,
+      -58,
+      66,
+      52,
+      -31,
+      92,
+      -24
+    ],
+    "sum": 332,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      88,
+      -87,
+      29,
+      88,
+      -29,
+      67,
+      -25,
+      42,
+      94,
+      12
+    ],
+    "sum": 279,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      743,
+      -332,
+      303
+    ],
+    "sum": 714,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      753,
+      418,
+      -353
+    ],
+    "sum": 818,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      278,
+      -277,
+      718
+    ],
+    "sum": 719,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      665,
+      -358,
+      120
+    ],
+    "sum": 427,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      725,
+      -724,
+      290
+    ],
+    "sum": 291,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      1.81,
+      -0.25,
+      9.6
+    ],
+    "sum": 11.16,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      4.83,
+      1.86,
+      -4.32
+    ],
+    "sum": 2.37,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      8.27,
+      -1.24,
+      2.74
+    ],
+    "sum": 9.77,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      9.45,
+      5.78,
+      -6.16
+    ],
+    "sum": 9.07,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      9.37,
+      4.75,
+      -8
+    ],
+    "sum": 6.12,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      22,
+      29,
+      -50,
+      47,
+      -47,
+      72,
+      39,
+      -79,
+      66,
+      44
+    ],
+    "sum": 143,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      49,
+      -48,
+      35,
+      43,
+      79,
+      54,
+      74,
+      -50,
+      91,
+      -91
+    ],
+    "sum": 236,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      41,
+      21,
+      -26,
+      63,
+      -89,
+      78,
+      96,
+      39,
+      59,
+      -79
+    ],
+    "sum": 203,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      40,
+      45,
+      80,
+      17,
+      -83,
+      22,
+      -82,
+      39,
+      -13,
+      66
+    ],
+    "sum": 131,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      43,
+      20,
+      -53,
+      15,
+      33,
+      -53,
+      67,
+      -71,
+      76,
+      14
+    ],
+    "sum": 91,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      706,
+      -677,
+      973
+    ],
+    "sum": 1002,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      707,
+      -503,
+      195
+    ],
+    "sum": 399,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      501,
+      -500,
+      635
+    ],
+    "sum": 636,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      523,
+      244,
+      -199
+    ],
+    "sum": 568,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      787,
+      -722,
+      119
+    ],
+    "sum": 184,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      7.54,
+      3.52,
+      -7.03
+    ],
+    "sum": 4.03,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      9.04,
+      -3.04,
+      2.55
+    ],
+    "sum": 8.55,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      2.37,
+      4.31,
+      -0.42
+    ],
+    "sum": 6.26,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      7.52,
+      -5.15,
+      4.09
+    ],
+    "sum": 6.46,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      9.07,
+      -1.07,
+      7.31
+    ],
+    "sum": 15.31,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      18,
+      65,
+      -82,
+      21,
+      -21,
+      80,
+      24,
+      69,
+      -67,
+      22
+    ],
+    "sum": 129,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      61,
+      60,
+      53,
+      58,
+      -79,
+      21,
+      21,
+      -82,
+      81,
+      -73
+    ],
+    "sum": 121,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      45,
+      52,
+      84,
+      17,
+      -59,
+      11,
+      -11,
+      87,
+      -60,
+      97
+    ],
+    "sum": 263,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      86,
+      -85,
+      35,
+      71,
+      67,
+      75,
+      -55,
+      71,
+      -31,
+      43
+    ],
+    "sum": 277,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      20,
+      75,
+      -58,
+      21,
+      -32,
+      60,
+      40,
+      -27,
+      76,
+      88
+    ],
+    "sum": 263,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      341,
+      -260,
+      397
+    ],
+    "sum": 478,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      121,
+      -120,
+      141
+    ],
+    "sum": 142,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      666,
+      -665,
+      950
+    ],
+    "sum": 951,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      652,
+      235,
+      -453
+    ],
+    "sum": 434,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      751,
+      -521,
+      287
+    ],
+    "sum": 517,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      0.05,
+      1.72,
+      -0.09
+    ],
+    "sum": 1.68,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      6.98,
+      3.11,
+      -6.08
+    ],
+    "sum": 4.01,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      2.38,
+      -1.34,
+      4.94
+    ],
+    "sum": 5.98,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      9.52,
+      2.66,
+      -9.08
+    ],
+    "sum": 3.1,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      2.23,
+      -0.18,
+      0.71
+    ],
+    "sum": 2.76,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      85,
+      -71,
+      26,
+      26,
+      29,
+      -21,
+      99,
+      25,
+      -27,
+      95
+    ],
+    "sum": 266,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      53,
+      20,
+      -72,
+      41,
+      28,
+      -69,
+      12,
+      39,
+      -51,
+      52
+    ],
+    "sum": 53,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      52,
+      -29,
+      71,
+      -59,
+      53,
+      -54,
+      45,
+      28,
+      25,
+      31
+    ],
+    "sum": 163,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      70,
+      -29,
+      29,
+      80,
+      78,
+      -83,
+      10,
+      -71,
+      80,
+      96
+    ],
+    "sum": 260,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      80,
+      92,
+      -59,
+      94,
+      -79,
+      55,
+      53,
+      -43,
+      55,
+      52
+    ],
+    "sum": 300,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      232,
+      901,
+      -263
+    ],
+    "sum": 870,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      667,
+      -249,
+      518
+    ],
+    "sum": 936,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      530,
+      514,
+      -998
+    ],
+    "sum": 46,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      749,
+      865,
+      -473
+    ],
+    "sum": 1141,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      290,
+      136,
+      -425
+    ],
+    "sum": 1,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      6.2,
+      -6.02,
+      9.59
+    ],
+    "sum": 9.77,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      6.27,
+      -0.12,
+      1.93
+    ],
+    "sum": 8.08,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      6.5,
+      -0.1,
+      7.31
+    ],
+    "sum": 13.71,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      2.98,
+      4.6,
+      -1.11
+    ],
+    "sum": 6.47,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      6.37,
+      7.8,
+      -1.09
+    ],
+    "sum": 13.08,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      99,
+      -52,
+      60,
+      25,
+      67,
+      -22,
+      60,
+      16,
+      87,
+      -82
+    ],
+    "sum": 258,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      47,
+      -46,
+      52,
+      40,
+      99,
+      -23,
+      58,
+      -51,
+      76,
+      24
+    ],
+    "sum": 276,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      38,
+      59,
+      59,
+      -32,
+      40,
+      -46,
+      11,
+      14,
+      -29,
+      47
+    ],
+    "sum": 161,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      67,
+      -66,
+      50,
+      29,
+      -17,
+      57,
+      -25,
+      90,
+      44,
+      77
+    ],
+    "sum": 306,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      83,
+      54,
+      69,
+      42,
+      30,
+      -72,
+      32,
+      -85,
+      35,
+      -36
+    ],
+    "sum": 152,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      436,
+      236,
+      -671
+    ],
+    "sum": 1,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      298,
+      336,
+      -633
+    ],
+    "sum": 1,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      934,
+      782,
+      -520
+    ],
+    "sum": 1196,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      847,
+      -846,
+      657
+    ],
+    "sum": 658,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      401,
+      740,
+      -167
+    ],
+    "sum": 974,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      2.87,
+      7.64,
+      -7.32
+    ],
+    "sum": 3.19,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      7.5,
+      8.18,
+      -0.23
+    ],
+    "sum": 15.45,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      7.33,
+      -3,
+      4.76
+    ],
+    "sum": 9.09,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      2.74,
+      -2.61,
+      7.13
+    ],
+    "sum": 7.26,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      6.11,
+      -0.05,
+      8.65
+    ],
+    "sum": 14.71,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      59,
+      -58,
+      57,
+      -43,
+      78,
+      64,
+      59,
+      53,
+      -46,
+      56
+    ],
+    "sum": 279,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      22,
+      37,
+      77,
+      -57,
+      63,
+      27,
+      -34,
+      37,
+      -98,
+      13
+    ],
+    "sum": 87,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      28,
+      98,
+      -37,
+      77,
+      88,
+      -94,
+      22,
+      -55,
+      61,
+      68
+    ],
+    "sum": 256,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      61,
+      80,
+      -87,
+      76,
+      -37,
+      21,
+      25,
+      -65,
+      38,
+      21
+    ],
+    "sum": 133,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      28,
+      58,
+      -51,
+      32,
+      74,
+      67,
+      64,
+      -47,
+      80,
+      -33
+    ],
+    "sum": 272,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      966,
+      369,
+      -695
+    ],
+    "sum": 640,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      795,
+      109,
+      -599
+    ],
+    "sum": 305,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      896,
+      -276,
+      290
+    ],
+    "sum": 910,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      397,
+      -368,
+      555
+    ],
+    "sum": 584,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      123,
+      -122,
+      598
+    ],
+    "sum": 599,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      8.81,
+      0.97,
+      -8.6
+    ],
+    "sum": 1.18,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      6.03,
+      -4,
+      1.47
+    ],
+    "sum": 3.5,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      5.66,
+      6.44,
+      -1.01
+    ],
+    "sum": 11.09,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      7.61,
+      -0.12,
+      2.37
+    ],
+    "sum": 9.86,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      6.5,
+      4.21,
+      -0.21
+    ],
+    "sum": 10.5,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      91,
+      -70,
+      22,
+      63,
+      -57,
+      31,
+      16,
+      -55,
+      65,
+      85
+    ],
+    "sum": 191,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      22,
+      64,
+      22,
+      68,
+      -46,
+      85,
+      -86,
+      79,
+      50,
+      -73
+    ],
+    "sum": 185,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      96,
+      91,
+      23,
+      -55,
+      34,
+      -73,
+      63,
+      56,
+      -23,
+      56
+    ],
+    "sum": 268,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      86,
+      74,
+      94,
+      -79,
+      49,
+      18,
+      -93,
+      46,
+      34,
+      -61
+    ],
+    "sum": 168,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      91,
+      92,
+      -90,
+      13,
+      -50,
+      49,
+      46,
+      97,
+      -62,
+      89
+    ],
+    "sum": 275,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      507,
+      -506,
+      888
+    ],
+    "sum": 889,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      178,
+      406,
+      -583
+    ],
+    "sum": 1,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      787,
+      -564,
+      794
+    ],
+    "sum": 1017,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      403,
+      -356,
+      582
+    ],
+    "sum": 629,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      749,
+      330,
+      -330
+    ],
+    "sum": 749,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      3.8,
+      -2.52,
+      9.59
+    ],
+    "sum": 10.87,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      9.32,
+      9.8,
+      -1.09
+    ],
+    "sum": 18.03,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      2.77,
+      -0.44,
+      9.4
+    ],
+    "sum": 11.73,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      4.42,
+      -0.41,
+      4.99
+    ],
+    "sum": 9,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      7.15,
+      6.36,
+      -6.49
+    ],
+    "sum": 7.02,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      53,
+      -52,
+      55,
+      87,
+      44,
+      78,
+      -49,
+      28,
+      -79,
+      72
+    ],
+    "sum": 237,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      44,
+      -43,
+      55,
+      -11,
+      34,
+      66,
+      -78,
+      89,
+      72,
+      49
+    ],
+    "sum": 277,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      14,
+      25,
+      -35,
+      24,
+      66,
+      84,
+      -13,
+      12,
+      -60,
+      63
+    ],
+    "sum": 180,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      84,
+      -24,
+      93,
+      20,
+      90,
+      51,
+      -53,
+      88,
+      -54,
+      34
+    ],
+    "sum": 329,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      66,
+      -57,
+      37,
+      42,
+      -87,
+      60,
+      18,
+      -12,
+      82,
+      44
+    ],
+    "sum": 193,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      216,
+      945,
+      -314
+    ],
+    "sum": 847,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      929,
+      -841,
+      153
+    ],
+    "sum": 241,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      738,
+      683,
+      -532
+    ],
+    "sum": 889,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      183,
+      830,
+      -279
+    ],
+    "sum": 734,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      119,
+      100,
+      -199
+    ],
+    "sum": 20,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      7.29,
+      -3.02,
+      9.75
+    ],
+    "sum": 14.02,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      9.5,
+      -2.19,
+      8.9
+    ],
+    "sum": 16.21,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      2.6,
+      4.58,
+      -2.01
+    ],
+    "sum": 5.17,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      8.72,
+      -6.45,
+      6.31
+    ],
+    "sum": 8.58,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      1.25,
+      7.74,
+      -2.81
+    ],
+    "sum": 6.18,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      98,
+      32,
+      -52,
+      33,
+      91,
+      54,
+      -58,
+      87,
+      -21,
+      37
+    ],
+    "sum": 301,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      73,
+      98,
+      51,
+      93,
+      -55,
+      91,
+      -44,
+      64,
+      -99,
+      84
+    ],
+    "sum": 356,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      72,
+      15,
+      -86,
+      53,
+      -13,
+      54,
+      -89,
+      92,
+      34,
+      25
+    ],
+    "sum": 157,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      69,
+      55,
+      -99,
+      97,
+      62,
+      -16,
+      23,
+      17,
+      28,
+      -59
+    ],
+    "sum": 177,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      87,
+      -48,
+      71,
+      -29,
+      34,
+      84,
+      -37,
+      21,
+      59,
+      24
+    ],
+    "sum": 266,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      106,
+      -105,
+      651
+    ],
+    "sum": 652,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      610,
+      866,
+      -576
+    ],
+    "sum": 900,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      662,
+      -158,
+      267
+    ],
+    "sum": 771,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      685,
+      -422,
+      627
+    ],
+    "sum": 890,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      814,
+      -287,
+      561
+    ],
+    "sum": 1088,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      2.77,
+      6.93,
+      -8.27
+    ],
+    "sum": 1.43,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      9.01,
+      7.91,
+      -0.6
+    ],
+    "sum": 16.32,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      1.32,
+      -0.22,
+      0.62
+    ],
+    "sum": 1.72,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      9.23,
+      3.55,
+      -3.41
+    ],
+    "sum": 9.37,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      7.01,
+      -0.01,
+      1.06
+    ],
+    "sum": 8.06,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      55,
+      25,
+      61,
+      64,
+      -46,
+      65,
+      97,
+      -25,
+      24,
+      -96
+    ],
+    "sum": 224,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      75,
+      -74,
+      82,
+      27,
+      -70,
+      49,
+      61,
+      29,
+      22,
+      -19
+    ],
+    "sum": 182,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      91,
+      28,
+      -76,
+      40,
+      83,
+      45,
+      -71,
+      99,
+      27,
+      -32
+    ],
+    "sum": 234,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      58,
+      45,
+      -99,
+      50,
+      -53,
+      20,
+      70,
+      28,
+      -92,
+      70
+    ],
+    "sum": 97,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      62,
+      90,
+      -71,
+      68,
+      -90,
+      54,
+      52,
+      94,
+      42,
+      -40
+    ],
+    "sum": 261,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      533,
+      -532,
+      258
+    ],
+    "sum": 259,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      864,
+      232,
+      -343
+    ],
+    "sum": 753,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      976,
+      -316,
+      768
+    ],
+    "sum": 1428,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      384,
+      -294,
+      951
+    ],
+    "sum": 1041,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      718,
+      684,
+      -348
+    ],
+    "sum": 1054,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      8.11,
+      1.66,
+      -7.18
+    ],
+    "sum": 2.59,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      3.46,
+      -2.42,
+      0.27
+    ],
+    "sum": 1.31,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      3.35,
+      -0.14,
+      0.3
+    ],
+    "sum": 3.51,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      3,
+      -2,
+      9.11
+    ],
+    "sum": 10.11,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      9.5,
+      -9.14,
+      4.17
+    ],
+    "sum": 4.53,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      84,
+      60,
+      20,
+      -70,
+      79,
+      11,
+      47,
+      -86,
+      98,
+      -34
+    ],
+    "sum": 209,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      93,
+      -52,
+      83,
+      45,
+      68,
+      64,
+      -70,
+      80,
+      65,
+      -92
+    ],
+    "sum": 284,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      20,
+      21,
+      33,
+      -39,
+      99,
+      18,
+      -89,
+      34,
+      60,
+      -23
+    ],
+    "sum": 134,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      62,
+      -21,
+      93,
+      -29,
+      62,
+      56,
+      50,
+      -31,
+      10,
+      21
+    ],
+    "sum": 273,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      70,
+      13,
+      -36,
+      96,
+      31,
+      51,
+      92,
+      -10,
+      31,
+      -56
+    ],
+    "sum": 282,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      675,
+      196,
+      -870
+    ],
+    "sum": 1,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      818,
+      -817,
+      260
+    ],
+    "sum": 261,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      884,
+      -866,
+      408
+    ],
+    "sum": 426,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      533,
+      724,
+      -213
+    ],
+    "sum": 1044,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      874,
+      -156,
+      591
+    ],
+    "sum": 1309,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      6.49,
+      -4.37,
+      9.21
+    ],
+    "sum": 11.33,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      3.21,
+      -3.05,
+      9.68
+    ],
+    "sum": 9.84,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      2.25,
+      -1.15,
+      7.16
+    ],
+    "sum": 8.26,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      3.6,
+      -0.37,
+      5.51
+    ],
+    "sum": 8.74,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      7.68,
+      5.11,
+      -3.48
+    ],
+    "sum": 9.31,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      13,
+      -12,
+      37,
+      60,
+      -58,
+      99,
+      15,
+      -35,
+      85,
+      59
+    ],
+    "sum": 263,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      25,
+      -24,
+      62,
+      -62,
+      30,
+      84,
+      33,
+      -45,
+      48,
+      42
+    ],
+    "sum": 193,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      55,
+      -53,
+      23,
+      70,
+      -62,
+      42,
+      23,
+      -72,
+      28,
+      80
+    ],
+    "sum": 134,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      44,
+      92,
+      -32,
+      69,
+      -45,
+      50,
+      38,
+      -84,
+      70,
+      27
+    ],
+    "sum": 229,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      16,
+      16,
+      21,
+      -52,
+      57,
+      -25,
+      99,
+      38,
+      -64,
+      34
+    ],
+    "sum": 140,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      904,
+      937,
+      -938
+    ],
+    "sum": 903,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      308,
+      -307,
+      980
+    ],
+    "sum": 981,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      649,
+      518,
+      -950
+    ],
+    "sum": 217,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      543,
+      -167,
+      160
+    ],
+    "sum": 536,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      284,
+      -283,
+      448
+    ],
+    "sum": 449,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      8.6,
+      -5.12,
+      7.29
+    ],
+    "sum": 10.77,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      3.48,
+      -2.39,
+      8.87
+    ],
+    "sum": 9.96,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      7.75,
+      -4.3,
+      3.35
+    ],
+    "sum": 6.8,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      6.35,
+      4.75,
+      -1.06
+    ],
+    "sum": 10.04,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      5.52,
+      7.53,
+      -5.03
+    ],
+    "sum": 8.02,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      89,
+      -86,
+      50,
+      23,
+      -75,
+      15,
+      55,
+      94,
+      -93,
+      30
+    ],
+    "sum": 102,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      82,
+      -45,
+      67,
+      78,
+      77,
+      -78,
+      48,
+      -53,
+      20,
+      71
+    ],
+    "sum": 267,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      82,
+      37,
+      43,
+      53,
+      82,
+      -28,
+      35,
+      -72,
+      29,
+      -77
+    ],
+    "sum": 184,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      21,
+      42,
+      52,
+      -53,
+      18,
+      23,
+      -63,
+      74,
+      17,
+      -32
+    ],
+    "sum": 99,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      66,
+      -65,
+      65,
+      14,
+      63,
+      25,
+      95,
+      -79,
+      35,
+      -16
+    ],
+    "sum": 203,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      638,
+      -396,
+      998
+    ],
+    "sum": 1240,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      911,
+      400,
+      -407
+    ],
+    "sum": 904,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      276,
+      463,
+      -649
+    ],
+    "sum": 90,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      616,
+      137,
+      -458
+    ],
+    "sum": 295,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      579,
+      -560,
+      518
+    ],
+    "sum": 537,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      3.43,
+      7.81,
+      -5.08
+    ],
+    "sum": 6.16,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      2.96,
+      -2.07,
+      3.62
+    ],
+    "sum": 4.51,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      5.88,
+      -0.7,
+      1.11
+    ],
+    "sum": 6.29,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      4.31,
+      -3.09,
+      9.45
+    ],
+    "sum": 10.67,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      2.85,
+      -1.15,
+      1.31
+    ],
+    "sum": 3.01,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      28,
+      -27,
+      44,
+      -44,
+      29,
+      59,
+      49,
+      53,
+      -53,
+      31
+    ],
+    "sum": 169,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      23,
+      -22,
+      93,
+      45,
+      -42,
+      96,
+      60,
+      16,
+      -62,
+      85
+    ],
+    "sum": 292,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      10,
+      -9,
+      93,
+      18,
+      -33,
+      34,
+      -20,
+      14,
+      23,
+      14
+    ],
+    "sum": 144,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      77,
+      70,
+      -40,
+      64,
+      19,
+      -39,
+      34,
+      -13,
+      62,
+      33
+    ],
+    "sum": 267,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      16,
+      87,
+      28,
+      81,
+      -98,
+      20,
+      17,
+      -18,
+      90,
+      -92
+    ],
+    "sum": 131,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      289,
+      -288,
+      657
+    ],
+    "sum": 658,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      794,
+      950,
+      -932
+    ],
+    "sum": 812,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      897,
+      110,
+      -301
+    ],
+    "sum": 706,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      757,
+      463,
+      -690
+    ],
+    "sum": 530,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      858,
+      -695,
+      770
+    ],
+    "sum": 933,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      6.17,
+      6.8,
+      -9.1
+    ],
+    "sum": 3.87,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      2.88,
+      0.41,
+      -1.2
+    ],
+    "sum": 2.09,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      5.9,
+      -2.15,
+      4.53
+    ],
+    "sum": 8.28,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      2.35,
+      1.96,
+      -4.08
+    ],
+    "sum": 0.23,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      6.65,
+      -4.43,
+      9.4
+    ],
+    "sum": 11.62,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      73,
+      88,
+      -96,
+      96,
+      -54,
+      45,
+      16,
+      68,
+      -89,
+      41
+    ],
+    "sum": 188,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      28,
+      -27,
+      70,
+      -12,
+      61,
+      -95,
+      66,
+      59,
+      95,
+      24
+    ],
+    "sum": 269,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      97,
+      -96,
+      36,
+      -36,
+      41,
+      87,
+      22,
+      58,
+      -34,
+      93
+    ],
+    "sum": 268,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      81,
+      87,
+      -96,
+      57,
+      -59,
+      64,
+      96,
+      37,
+      -75,
+      44
+    ],
+    "sum": 236,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      28,
+      -27,
+      18,
+      30,
+      66,
+      -41,
+      32,
+      22,
+      45,
+      -49
+    ],
+    "sum": 124,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      694,
+      400,
+      -679
+    ],
+    "sum": 415,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      995,
+      859,
+      -741
+    ],
+    "sum": 1113,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      283,
+      890,
+      -583
+    ],
+    "sum": 590,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      295,
+      187,
+      -481
+    ],
+    "sum": 1,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      371,
+      805,
+      -906
+    ],
+    "sum": 270,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      7.73,
+      -4.41,
+      2.8
+    ],
+    "sum": 6.12,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      2.49,
+      9.41,
+      -8.79
+    ],
+    "sum": 3.11,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      3.87,
+      -0.12,
+      2.33
+    ],
+    "sum": 6.08,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      5.7,
+      -4.48,
+      6.06
+    ],
+    "sum": 7.28,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      3.76,
+      4.85,
+      -4.02
+    ],
+    "sum": 4.59,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      81,
+      -48,
+      40,
+      34,
+      -72,
+      58,
+      44,
+      36,
+      -54,
+      56
+    ],
+    "sum": 175,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      50,
+      80,
+      -30,
+      37,
+      71,
+      -40,
+      64,
+      79,
+      -88,
+      87
+    ],
+    "sum": 310,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      85,
+      83,
+      55,
+      11,
+      -81,
+      15,
+      20,
+      -64,
+      11,
+      -44
+    ],
+    "sum": 91,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      31,
+      51,
+      -40,
+      33,
+      14,
+      19,
+      63,
+      -97,
+      18,
+      -89
+    ],
+    "sum": 3,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      11,
+      12,
+      -22,
+      61,
+      -59,
+      54,
+      33,
+      47,
+      24,
+      -76
+    ],
+    "sum": 85,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      159,
+      -158,
+      182
+    ],
+    "sum": 183,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      668,
+      449,
+      -168
+    ],
+    "sum": 949,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      935,
+      -669,
+      982
+    ],
+    "sum": 1248,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      195,
+      -194,
+      964
+    ],
+    "sum": 965,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      374,
+      285,
+      -213
+    ],
+    "sum": 446,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      0.87,
+      3.23,
+      -4.04
+    ],
+    "sum": 0.06,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      1.67,
+      -1.06,
+      3.44
+    ],
+    "sum": 4.05,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      4.69,
+      1.98,
+      -4.03
+    ],
+    "sum": 2.64,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      6.37,
+      -6.02,
+      1.6
+    ],
+    "sum": 1.95,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      6.09,
+      2.64,
+      -7.39
+    ],
+    "sum": 1.34,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      11,
+      99,
+      -54,
+      95,
+      11,
+      17,
+      -11,
+      67,
+      64,
+      -63
+    ],
+    "sum": 236,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      46,
+      12,
+      12,
+      -41,
+      77,
+      -21,
+      23,
+      -92,
+      51,
+      61
+    ],
+    "sum": 128,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      39,
+      -38,
+      71,
+      12,
+      -81,
+      56,
+      36,
+      40,
+      97,
+      -41
+    ],
+    "sum": 191,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      24,
+      -23,
+      82,
+      -21,
+      94,
+      95,
+      50,
+      -70,
+      87,
+      33
+    ],
+    "sum": 351,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      72,
+      93,
+      30,
+      19,
+      -30,
+      72,
+      -22,
+      22,
+      -79,
+      53
+    ],
+    "sum": 230,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      300,
+      934,
+      -928,
+      337
+    ],
+    "sum": 643,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      672,
+      524,
+      891,
+      -810
+    ],
+    "sum": 1277,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      462,
+      473,
+      -839,
+      619
+    ],
+    "sum": 715,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      364,
+      -363,
+      106,
+      228
+    ],
+    "sum": 335,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      461,
+      270,
+      181,
+      -911
+    ],
+    "sum": 1,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      6.16,
+      0.56,
+      8.46,
+      -4.14
+    ],
+    "sum": 11.04,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      5.11,
+      -4,
+      6.33,
+      0.02
+    ],
+    "sum": 7.46,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      8.97,
+      8.73,
+      -1.45,
+      4.78
+    ],
+    "sum": 21.03,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      7.39,
+      -1.27,
+      3.35,
+      4.06
+    ],
+    "sum": 13.53,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      7.14,
+      5.6,
+      6.19,
+      -5.84
+    ],
+    "sum": 13.09,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      18,
+      78,
+      -56,
+      18,
+      45,
+      25,
+      -88,
+      89,
+      60,
+      -55
+    ],
+    "sum": 134,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      65,
+      28,
+      85,
+      -72,
+      54,
+      26,
+      -92,
+      12,
+      -83,
+      83
+    ],
+    "sum": 106,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      54,
+      42,
+      41,
+      -43,
+      29,
+      22,
+      -31,
+      11,
+      -25,
+      67
+    ],
+    "sum": 167,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      87,
+      -12,
+      95,
+      76,
+      31,
+      21,
+      -70,
+      49,
+      -17,
+      27
+    ],
+    "sum": 287,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      67,
+      -66,
+      34,
+      -34,
+      49,
+      36,
+      24,
+      82,
+      58,
+      -26
+    ],
+    "sum": 224,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      929,
+      154,
+      -349,
+      155
+    ],
+    "sum": 889,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      529,
+      169,
+      -697,
+      138
+    ],
+    "sum": 139,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      199,
+      -198,
+      628,
+      831
+    ],
+    "sum": 1460,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      304,
+      -131,
+      412,
+      435
+    ],
+    "sum": 1020,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      855,
+      174,
+      134,
+      -319
+    ],
+    "sum": 844,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      8.76,
+      1.56,
+      2.41,
+      -7.29
+    ],
+    "sum": 5.44,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      2.96,
+      6.35,
+      -0.22,
+      5.57
+    ],
+    "sum": 14.66,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      5.41,
+      -3.33,
+      1.11,
+      6.37
+    ],
+    "sum": 9.56,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      1.88,
+      2.58,
+      -4.43,
+      8.43
+    ],
+    "sum": 8.46,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      5.25,
+      1.92,
+      -7.1,
+      0.99
+    ],
+    "sum": 1.06,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      53,
+      39,
+      -23,
+      85,
+      -96,
+      28,
+      -10,
+      10,
+      78,
+      92
+    ],
+    "sum": 256,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      57,
+      -48,
+      77,
+      68,
+      20,
+      -30,
+      47,
+      93,
+      44,
+      -27
+    ],
+    "sum": 301,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      25,
+      -24,
+      79,
+      85,
+      83,
+      50,
+      42,
+      -98,
+      89,
+      -48
+    ],
+    "sum": 283,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      45,
+      30,
+      37,
+      61,
+      -40,
+      49,
+      -18,
+      19,
+      11,
+      -41
+    ],
+    "sum": 153,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      38,
+      22,
+      94,
+      -41,
+      35,
+      16,
+      -76,
+      33,
+      -11,
+      51
+    ],
+    "sum": 161,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      850,
+      192,
+      -895,
+      823
+    ],
+    "sum": 970,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      797,
+      611,
+      391,
+      -597
+    ],
+    "sum": 1202,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      369,
+      959,
+      -740,
+      512
+    ],
+    "sum": 1100,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      183,
+      -182,
+      204,
+      982
+    ],
+    "sum": 1187,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      414,
+      -413,
+      298,
+      831
+    ],
+    "sum": 1130,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      8.72,
+      -0.17,
+      7.83,
+      9.45
+    ],
+    "sum": 25.83,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      6.22,
+      4.22,
+      -2.23,
+      7.41
+    ],
+    "sum": 15.62,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      6.16,
+      6.92,
+      -8.05,
+      5.59
+    ],
+    "sum": 10.62,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      0.3,
+      -0.07,
+      0.47,
+      5.38
+    ],
+    "sum": 6.08,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      0.02,
+      5.35,
+      6.5,
+      -4.54
+    ],
+    "sum": 7.33,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      40,
+      67,
+      12,
+      -51,
+      47,
+      -19,
+      85,
+      -40,
+      12,
+      40
+    ],
+    "sum": 193,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      27,
+      -26,
+      59,
+      -45,
+      90,
+      77,
+      60,
+      30,
+      -71,
+      67
+    ],
+    "sum": 268,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      74,
+      86,
+      -36,
+      79,
+      -29,
+      78,
+      -61,
+      23,
+      99,
+      32
+    ],
+    "sum": 345,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      20,
+      10,
+      -29,
+      66,
+      98,
+      16,
+      -48,
+      94,
+      -83,
+      99
+    ],
+    "sum": 243,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      45,
+      78,
+      -94,
+      98,
+      96,
+      57,
+      -92,
+      53,
+      11,
+      -72
+    ],
+    "sum": 180,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      560,
+      257,
+      453,
+      -948
+    ],
+    "sum": 322,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      698,
+      921,
+      879,
+      -625
+    ],
+    "sum": 1873,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      669,
+      786,
+      -288,
+      463
+    ],
+    "sum": 1630,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      987,
+      -192,
+      721,
+      271
+    ],
+    "sum": 1787,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      751,
+      231,
+      -697,
+      574
+    ],
+    "sum": 859,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      7.81,
+      0.55,
+      -1.15,
+      0.54
+    ],
+    "sum": 7.75,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      1.33,
+      -0.3,
+      7.43,
+      3.52
+    ],
+    "sum": 11.98,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      0.03,
+      6.39,
+      -3.27,
+      7.26
+    ],
+    "sum": 10.41,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      7.21,
+      7.68,
+      0.2,
+      -3.09
+    ],
+    "sum": 12,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      3.04,
+      6.28,
+      -9.01,
+      7.9
+    ],
+    "sum": 8.21,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      13,
+      88,
+      20,
+      -55,
+      70,
+      -47,
+      14,
+      93,
+      -80,
+      67
+    ],
+    "sum": 183,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      58,
+      52,
+      57,
+      15,
+      -67,
+      93,
+      -64,
+      95,
+      74,
+      -99
+    ],
+    "sum": 214,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      57,
+      64,
+      83,
+      -91,
+      61,
+      98,
+      21,
+      -36,
+      85,
+      -11
+    ],
+    "sum": 331,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      72,
+      54,
+      -30,
+      41,
+      -11,
+      14,
+      34,
+      -31,
+      50,
+      32
+    ],
+    "sum": 225,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      99,
+      -64,
+      70,
+      -18,
+      90,
+      49,
+      80,
+      42,
+      12,
+      -30
+    ],
+    "sum": 330,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      370,
+      -293,
+      113,
+      818
+    ],
+    "sum": 1008,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      106,
+      803,
+      398,
+      -480
+    ],
+    "sum": 827,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      389,
+      -388,
+      721,
+      673
+    ],
+    "sum": 1395,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      932,
+      551,
+      -699,
+      174
+    ],
+    "sum": 958,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      117,
+      -116,
+      753,
+      986
+    ],
+    "sum": 1740,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      0.6,
+      3.96,
+      6.97,
+      -9.48
+    ],
+    "sum": 2.05,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      3.05,
+      8.4,
+      -9.3,
+      4.2
+    ],
+    "sum": 6.35,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      4.47,
+      3.11,
+      -5.16,
+      0.98
+    ],
+    "sum": 3.4,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      8.49,
+      8.69,
+      -1.12,
+      6.5
+    ],
+    "sum": 22.56,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      2.02,
+      5.17,
+      -0.11,
+      9.44
+    ],
+    "sum": 16.52,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      32,
+      10,
+      -41,
+      79,
+      21,
+      -25,
+      24,
+      56,
+      -83,
+      85
+    ],
+    "sum": 158,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      78,
+      63,
+      -76,
+      50,
+      15,
+      -93,
+      11,
+      -47,
+      81,
+      49
+    ],
+    "sum": 131,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      39,
+      61,
+      -82,
+      18,
+      94,
+      -71,
+      35,
+      -65,
+      75,
+      86
+    ],
+    "sum": 190,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      43,
+      -38,
+      11,
+      53,
+      -22,
+      40,
+      72,
+      48,
+      -31,
+      71
+    ],
+    "sum": 247,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      31,
+      -30,
+      95,
+      73,
+      -77,
+      66,
+      49,
+      -72,
+      89,
+      86
+    ],
+    "sum": 310,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      945,
+      554,
+      752,
+      -426
+    ],
+    "sum": 1825,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      420,
+      483,
+      -745,
+      189
+    ],
+    "sum": 347,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      207,
+      377,
+      -200,
+      594
+    ],
+    "sum": 978,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      532,
+      -531,
+      325,
+      895
+    ],
+    "sum": 1221,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      917,
+      -576,
+      698,
+      699
+    ],
+    "sum": 1738,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      5.02,
+      8.27,
+      -2.25,
+      8.63
+    ],
+    "sum": 19.67,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      5.24,
+      8.19,
+      3,
+      -4.34
+    ],
+    "sum": 12.09,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      4.33,
+      4.42,
+      -3.31,
+      0.28
+    ],
+    "sum": 5.72,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      1.02,
+      2.87,
+      9.42,
+      -4.28
+    ],
+    "sum": 9.03,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      3.42,
+      2.42,
+      -5.54,
+      5.62
+    ],
+    "sum": 5.92,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      38,
+      21,
+      80,
+      -52,
+      42,
+      -58,
+      76,
+      -12,
+      91,
+      43
+    ],
+    "sum": 269,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      72,
+      99,
+      -59,
+      31,
+      77,
+      -95,
+      68,
+      -14,
+      92,
+      60
+    ],
+    "sum": 331,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      90,
+      69,
+      48,
+      89,
+      -51,
+      17,
+      -97,
+      48,
+      -95,
+      30
+    ],
+    "sum": 148,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      37,
+      11,
+      47,
+      -15,
+      63,
+      55,
+      -56,
+      49,
+      48,
+      -47
+    ],
+    "sum": 192,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      27,
+      -26,
+      34,
+      79,
+      54,
+      73,
+      -33,
+      18,
+      44,
+      -96
+    ],
+    "sum": 174,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      919,
+      -479,
+      856,
+      812
+    ],
+    "sum": 2108,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      593,
+      -278,
+      941,
+      826
+    ],
+    "sum": 2082,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      820,
+      174,
+      -940,
+      440
+    ],
+    "sum": 494,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      687,
+      504,
+      -129,
+      214
+    ],
+    "sum": 1276,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      728,
+      713,
+      459,
+      -947
+    ],
+    "sum": 953,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      0.44,
+      6.22,
+      -5.31,
+      1.26
+    ],
+    "sum": 2.61,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      6.42,
+      -6.28,
+      0.4,
+      8.2
+    ],
+    "sum": 8.74,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      9.79,
+      -0.06,
+      9.61,
+      7.97
+    ],
+    "sum": 27.31,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      2.16,
+      -2.06,
+      2.72,
+      7.42
+    ],
+    "sum": 10.24,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      3.38,
+      2.74,
+      -4.07,
+      2.55
+    ],
+    "sum": 4.6,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      33,
+      70,
+      -58,
+      33,
+      -54,
+      88,
+      92,
+      -36,
+      97,
+      66
+    ],
+    "sum": 331,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      53,
+      69,
+      -10,
+      30,
+      -63,
+      60,
+      57,
+      43,
+      -45,
+      28
+    ],
+    "sum": 222,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      36,
+      89,
+      41,
+      75,
+      -34,
+      84,
+      -69,
+      46,
+      -86,
+      95
+    ],
+    "sum": 277,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      16,
+      27,
+      79,
+      14,
+      -37,
+      77,
+      13,
+      -90,
+      86,
+      -54
+    ],
+    "sum": 131,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      28,
+      76,
+      15,
+      -95,
+      58,
+      59,
+      12,
+      -19,
+      20,
+      -27
+    ],
+    "sum": 127,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      489,
+      -488,
+      490,
+      927
+    ],
+    "sum": 1418,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      135,
+      -134,
+      285,
+      328
+    ],
+    "sum": 614,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      247,
+      746,
+      -500,
+      844
+    ],
+    "sum": 1337,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      735,
+      491,
+      476,
+      -314
+    ],
+    "sum": 1388,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      437,
+      998,
+      366,
+      -211
+    ],
+    "sum": 1590,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      1.68,
+      -1.53,
+      9.12,
+      3.12
+    ],
+    "sum": 12.39,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      9.66,
+      6.73,
+      -2.26,
+      0.46
+    ],
+    "sum": 14.59,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      5.95,
+      -2.91,
+      0.08,
+      4.64
+    ],
+    "sum": 7.76,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      8.03,
+      9.94,
+      -1.74,
+      8.78
+    ],
+    "sum": 25.01,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      2.97,
+      -0.53,
+      3,
+      9.67
+    ],
+    "sum": 15.11,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      58,
+      35,
+      -54,
+      77,
+      -25,
+      73,
+      76,
+      -35,
+      46,
+      61
+    ],
+    "sum": 312,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      96,
+      -46,
+      42,
+      51,
+      39,
+      -40,
+      32,
+      27,
+      62,
+      -94
+    ],
+    "sum": 169,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      62,
+      57,
+      89,
+      94,
+      -66,
+      83,
+      -49,
+      94,
+      -67,
+      34
+    ],
+    "sum": 331,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      74,
+      97,
+      -41,
+      51,
+      -54,
+      58,
+      21,
+      90,
+      87,
+      -65
+    ],
+    "sum": 318,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      58,
+      47,
+      -34,
+      35,
+      -96,
+      57,
+      -50,
+      87,
+      92,
+      32
+    ],
+    "sum": 228,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      752,
+      -751,
+      273,
+      230
+    ],
+    "sum": 504,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      163,
+      848,
+      -126,
+      970
+    ],
+    "sum": 1855,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      400,
+      864,
+      -634,
+      523
+    ],
+    "sum": 1153,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      507,
+      -446,
+      504,
+      955
+    ],
+    "sum": 1520,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      133,
+      -132,
+      669,
+      767
+    ],
+    "sum": 1437,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      7.72,
+      4.63,
+      3.52,
+      -4.82
+    ],
+    "sum": 11.05,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      1.29,
+      -0.18,
+      2.34,
+      8.89
+    ],
+    "sum": 12.34,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      4.74,
+      5.79,
+      -1.2,
+      3.21
+    ],
+    "sum": 12.54,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      6.77,
+      -6.14,
+      7.98,
+      5.32
+    ],
+    "sum": 13.93,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      1.96,
+      0.81,
+      -0.18,
+      1.15
+    ],
+    "sum": 3.74,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      11,
+      -10,
+      36,
+      71,
+      -53,
+      37,
+      95,
+      64,
+      60,
+      -80
+    ],
+    "sum": 231,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      48,
+      14,
+      -27,
+      85,
+      -55,
+      50,
+      -35,
+      18,
+      99,
+      32
+    ],
+    "sum": 229,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      91,
+      -84,
+      59,
+      86,
+      40,
+      -57,
+      94,
+      98,
+      -60,
+      84
+    ],
+    "sum": 351,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      53,
+      -13,
+      51,
+      15,
+      -29,
+      68,
+      89,
+      -13,
+      18,
+      24
+    ],
+    "sum": 263,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      41,
+      18,
+      47,
+      -21,
+      38,
+      59,
+      -30,
+      90,
+      64,
+      -26
+    ],
+    "sum": 280,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      785,
+      946,
+      -222,
+      973
+    ],
+    "sum": 2482,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      481,
+      157,
+      -637,
+      355
+    ],
+    "sum": 356,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      871,
+      315,
+      -346,
+      249
+    ],
+    "sum": 1089,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      187,
+      375,
+      999,
+      -326
+    ],
+    "sum": 1235,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      261,
+      490,
+      803,
+      -213
+    ],
+    "sum": 1341,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      7.75,
+      1.9,
+      9.56,
+      -0.21
+    ],
+    "sum": 19,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      0.08,
+      0.51,
+      6.26,
+      -1.78
+    ],
+    "sum": 5.07,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      5.33,
+      -1.02,
+      1.79,
+      2.31
+    ],
+    "sum": 8.41,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      2.26,
+      1.07,
+      -1.32,
+      1.5
+    ],
+    "sum": 3.51,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      3.78,
+      9.83,
+      -7.17,
+      3.2
+    ],
+    "sum": 9.64,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      99,
+      -44,
+      30,
+      52,
+      90,
+      -86,
+      47,
+      64,
+      -80,
+      80
+    ],
+    "sum": 252,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      59,
+      -58,
+      44,
+      -44,
+      41,
+      51,
+      -14,
+      27,
+      58,
+      21
+    ],
+    "sum": 185,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      11,
+      75,
+      -39,
+      57,
+      -45,
+      50,
+      29,
+      57,
+      -66,
+      17
+    ],
+    "sum": 146,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      95,
+      34,
+      68,
+      -38,
+      91,
+      65,
+      51,
+      -33,
+      31,
+      -14
+    ],
+    "sum": 350,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      19,
+      -18,
+      99,
+      75,
+      -39,
+      59,
+      16,
+      61,
+      -85,
+      53
+    ],
+    "sum": 240,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      212,
+      853,
+      -664,
+      234
+    ],
+    "sum": 635,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      554,
+      941,
+      259,
+      -394
+    ],
+    "sum": 1360,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      667,
+      -666,
+      183,
+      695
+    ],
+    "sum": 879,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      495,
+      -494,
+      945,
+      791
+    ],
+    "sum": 1737,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      998,
+      852,
+      222,
+      -336
+    ],
+    "sum": 1736,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      3.62,
+      -1.4,
+      7.37,
+      3.67
+    ],
+    "sum": 13.26,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      3.52,
+      0.78,
+      9.39,
+      -9.61
+    ],
+    "sum": 4.08,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      3.89,
+      1.19,
+      4.5,
+      -5.57
+    ],
+    "sum": 4.01,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      4.2,
+      5.39,
+      -2.58,
+      2.48
+    ],
+    "sum": 9.49,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      3.38,
+      -0.36,
+      3.42,
+      9.27
+    ],
+    "sum": 15.71,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      82,
+      -81,
+      63,
+      72,
+      23,
+      82,
+      -56,
+      17,
+      -70,
+      17
+    ],
+    "sum": 149,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      56,
+      -34,
+      17,
+      -38,
+      18,
+      28,
+      95,
+      -25,
+      44,
+      45
+    ],
+    "sum": 206,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      17,
+      60,
+      -75,
+      42,
+      -43,
+      36,
+      80,
+      14,
+      26,
+      -64
+    ],
+    "sum": 93,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      90,
+      -69,
+      46,
+      81,
+      25,
+      77,
+      -20,
+      96,
+      -37,
+      78
+    ],
+    "sum": 367,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      75,
+      90,
+      54,
+      -56,
+      31,
+      16,
+      22,
+      -27,
+      74,
+      -63
+    ],
+    "sum": 216,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      158,
+      -157,
+      888,
+      119
+    ],
+    "sum": 1008,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      472,
+      -383,
+      404,
+      698
+    ],
+    "sum": 1191,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      852,
+      -533,
+      812,
+      396
+    ],
+    "sum": 1527,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      419,
+      441,
+      -388,
+      471
+    ],
+    "sum": 943,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      490,
+      805,
+      704,
+      -842
+    ],
+    "sum": 1157,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      9.94,
+      -4.39,
+      5.78,
+      6.07
+    ],
+    "sum": 17.4,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      5.66,
+      5.53,
+      -5.12,
+      6.8
+    ],
+    "sum": 12.87,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      3.35,
+      -0.1,
+      1.15,
+      8.91
+    ],
+    "sum": 13.31,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      5.86,
+      8.25,
+      -2.09,
+      3.62
+    ],
+    "sum": 15.64,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      1.4,
+      -0.11,
+      1.72,
+      8.48
+    ],
+    "sum": 11.49,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      75,
+      40,
+      74,
+      -64,
+      56,
+      -64,
+      12,
+      -29,
+      53,
+      83
+    ],
+    "sum": 236,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      25,
+      29,
+      -42,
+      69,
+      80,
+      85,
+      -78,
+      58,
+      43,
+      -77
+    ],
+    "sum": 192,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      10,
+      62,
+      31,
+      87,
+      20,
+      -40,
+      25,
+      -41,
+      87,
+      -68
+    ],
+    "sum": 173,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      87,
+      84,
+      10,
+      23,
+      74,
+      -42,
+      42,
+      -21,
+      52,
+      -81
+    ],
+    "sum": 228,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      71,
+      42,
+      72,
+      -84,
+      13,
+      78,
+      -42,
+      56,
+      47,
+      -53
+    ],
+    "sum": 200,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      925,
+      -293,
+      547,
+      661
+    ],
+    "sum": 1840,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      176,
+      887,
+      -845,
+      969
+    ],
+    "sum": 1187,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      743,
+      490,
+      -637,
+      217
+    ],
+    "sum": 813,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      617,
+      -239,
+      645,
+      903
+    ],
+    "sum": 1926,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      278,
+      -277,
+      630,
+      221
+    ],
+    "sum": 852,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      4.23,
+      -3.18,
+      3.78,
+      4.55
+    ],
+    "sum": 9.38,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      2.8,
+      -2.35,
+      6.17,
+      0.21
+    ],
+    "sum": 6.83,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      0.58,
+      -0.34,
+      2.04,
+      7.55
+    ],
+    "sum": 9.83,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      3.58,
+      5.6,
+      3.3,
+      -5.4
+    ],
+    "sum": 7.08,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      1.6,
+      2.16,
+      -1.05,
+      3.9
+    ],
+    "sum": 6.61,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      85,
+      -23,
+      20,
+      35,
+      81,
+      48,
+      -91,
+      75,
+      -39,
+      88
+    ],
+    "sum": 279,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      24,
+      -23,
+      77,
+      -43,
+      84,
+      27,
+      66,
+      12,
+      -71,
+      53
+    ],
+    "sum": 206,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      70,
+      91,
+      -14,
+      62,
+      -78,
+      97,
+      54,
+      76,
+      -94,
+      51
+    ],
+    "sum": 315,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      58,
+      42,
+      62,
+      -18,
+      23,
+      -71,
+      19,
+      44,
+      19,
+      -31
+    ],
+    "sum": 147,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      52,
+      -21,
+      86,
+      -75,
+      16,
+      27,
+      19,
+      50,
+      88,
+      -37
+    ],
+    "sum": 205,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      883,
+      -239,
+      261,
+      505
+    ],
+    "sum": 1410,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      718,
+      351,
+      283,
+      -175
+    ],
+    "sum": 1177,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      389,
+      642,
+      704,
+      -303
+    ],
+    "sum": 1432,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      126,
+      988,
+      -139,
+      457
+    ],
+    "sum": 1432,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      523,
+      -343,
+      627,
+      197
+    ],
+    "sum": 1004,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      1.31,
+      -0.29,
+      8.29,
+      9.29
+    ],
+    "sum": 18.6,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      2.88,
+      4.14,
+      3.79,
+      -7.46
+    ],
+    "sum": 3.35,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      3.82,
+      -3.18,
+      1.23,
+      4.33
+    ],
+    "sum": 6.2,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      4.87,
+      8.26,
+      6.38,
+      -3.33
+    ],
+    "sum": 16.18,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      9.63,
+      1.8,
+      -1.24,
+      6.19
+    ],
+    "sum": 16.38,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      57,
+      86,
+      -61,
+      57,
+      34,
+      -97,
+      68,
+      65,
+      -73,
+      79
+    ],
+    "sum": 215,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      79,
+      88,
+      -13,
+      72,
+      -58,
+      56,
+      69,
+      73,
+      45,
+      -79
+    ],
+    "sum": 332,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      25,
+      -24,
+      52,
+      69,
+      -39,
+      76,
+      80,
+      48,
+      81,
+      -46
+    ],
+    "sum": 322,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      97,
+      -76,
+      51,
+      -56,
+      15,
+      98,
+      92,
+      60,
+      -49,
+      18
+    ],
+    "sum": 250,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      57,
+      -56,
+      83,
+      25,
+      45,
+      54,
+      -61,
+      37,
+      -27,
+      88
+    ],
+    "sum": 245,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      935,
+      -834,
+      998,
+      691
+    ],
+    "sum": 1790,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      794,
+      433,
+      -917,
+      769
+    ],
+    "sum": 1079,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      444,
+      -443,
+      100,
+      266
+    ],
+    "sum": 367,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      717,
+      663,
+      -842,
+      102
+    ],
+    "sum": 640,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      968,
+      550,
+      316,
+      -937
+    ],
+    "sum": 897,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      3.92,
+      2.8,
+      0.2,
+      -2.35
+    ],
+    "sum": 4.57,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      6.34,
+      -4.2,
+      1.46,
+      2.87
+    ],
+    "sum": 6.47,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      6.94,
+      8.56,
+      -4.04,
+      4.05
+    ],
+    "sum": 15.51,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      7.98,
+      4.19,
+      4.7,
+      -8.01
+    ],
+    "sum": 8.86,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      5.63,
+      -1.25,
+      7.83,
+      6.75
+    ],
+    "sum": 18.96,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      67,
+      -66,
+      89,
+      20,
+      20,
+      -46,
+      73,
+      65,
+      -69,
+      19
+    ],
+    "sum": 172,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      53,
+      -52,
+      18,
+      93,
+      -59,
+      51,
+      54,
+      72,
+      -60,
+      43
+    ],
+    "sum": 213,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      10,
+      -9,
+      53,
+      -33,
+      88,
+      95,
+      26,
+      53,
+      -70,
+      34
+    ],
+    "sum": 247,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      38,
+      16,
+      45,
+      -41,
+      31,
+      -88,
+      28,
+      94,
+      78,
+      -31
+    ],
+    "sum": 170,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      94,
+      -47,
+      49,
+      40,
+      63,
+      -95,
+      54,
+      17,
+      -71,
+      52
+    ],
+    "sum": 156,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      701,
+      788,
+      226,
+      -334
+    ],
+    "sum": 1381,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      800,
+      286,
+      478,
+      -189
+    ],
+    "sum": 1375,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      517,
+      -262,
+      880,
+      220
+    ],
+    "sum": 1355,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      613,
+      -596,
+      406,
+      826
+    ],
+    "sum": 1249,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      475,
+      458,
+      701,
+      -681
+    ],
+    "sum": 953,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      7.03,
+      1.73,
+      -0.53,
+      4.36
+    ],
+    "sum": 12.59,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      4.47,
+      -0.07,
+      7.74,
+      2.13
+    ],
+    "sum": 14.27,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      6.16,
+      7.48,
+      -0.4,
+      2.53
+    ],
+    "sum": 15.77,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      9.73,
+      -5.35,
+      5.29,
+      8.51
+    ],
+    "sum": 18.18,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      7.36,
+      4.21,
+      6.16,
+      -0.5
+    ],
+    "sum": 17.23,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      57,
+      80,
+      -74,
+      10,
+      -14,
+      89,
+      61,
+      -74,
+      57,
+      38
+    ],
+    "sum": 230,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      33,
+      -32,
+      32,
+      -32,
+      96,
+      26,
+      -89,
+      18,
+      84,
+      65
+    ],
+    "sum": 201,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      82,
+      95,
+      -71,
+      90,
+      -22,
+      13,
+      63,
+      24,
+      46,
+      -31
+    ],
+    "sum": 289,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      55,
+      74,
+      -56,
+      53,
+      83,
+      20,
+      75,
+      -49,
+      23,
+      -75
+    ],
+    "sum": 203,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      48,
+      48,
+      -34,
+      89,
+      60,
+      70,
+      -68,
+      92,
+      -33,
+      54
+    ],
+    "sum": 326,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      819,
+      363,
+      -149,
+      375
+    ],
+    "sum": 1408,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      868,
+      528,
+      884,
+      -628
+    ],
+    "sum": 1652,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      600,
+      -599,
+      934,
+      922
+    ],
+    "sum": 1857,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      728,
+      498,
+      175,
+      -585
+    ],
+    "sum": 816,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      275,
+      680,
+      -739,
+      108
+    ],
+    "sum": 324,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      0.19,
+      3.64,
+      9.85,
+      -5.2
+    ],
+    "sum": 8.48,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      3.27,
+      4.49,
+      -5.15,
+      9.56
+    ],
+    "sum": 12.17,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      7.55,
+      0.68,
+      8.23,
+      -6.14
+    ],
+    "sum": 10.32,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      0.68,
+      9.03,
+      -3.04,
+      6.38
+    ],
+    "sum": 13.05,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      4.71,
+      0.2,
+      8.93,
+      -4.79
+    ],
+    "sum": 9.05,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      32,
+      73,
+      -53,
+      29,
+      -65,
+      89,
+      26,
+      -98,
+      82,
+      41
+    ],
+    "sum": 156,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      88,
+      -33,
+      38,
+      -53,
+      68,
+      95,
+      -70,
+      68,
+      80,
+      21
+    ],
+    "sum": 302,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      46,
+      -45,
+      84,
+      81,
+      93,
+      40,
+      -58,
+      30,
+      -84,
+      68
+    ],
+    "sum": 255,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      26,
+      49,
+      23,
+      57,
+      18,
+      -55,
+      29,
+      -28,
+      53,
+      -73
+    ],
+    "sum": 99,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      29,
+      22,
+      -37,
+      73,
+      12,
+      -56,
+      83,
+      77,
+      -88,
+      79
+    ],
+    "sum": 194,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      374,
+      100,
+      318,
+      -350
+    ],
+    "sum": 442,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      828,
+      -446,
+      834,
+      803
+    ],
+    "sum": 2019,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      520,
+      627,
+      -471,
+      828
+    ],
+    "sum": 1504,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      961,
+      -527,
+      983,
+      257
+    ],
+    "sum": 1674,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      535,
+      592,
+      404,
+      -513
+    ],
+    "sum": 1018,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      6.49,
+      8.12,
+      -8.14,
+      5.51
+    ],
+    "sum": 11.98,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      6.76,
+      -3.51,
+      9.64,
+      6.17
+    ],
+    "sum": 19.06,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      4.25,
+      4.5,
+      6.87,
+      -4.31
+    ],
+    "sum": 11.31,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      3.4,
+      8.48,
+      -1.02,
+      6.08
+    ],
+    "sum": 16.94,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      9.54,
+      4.34,
+      7.32,
+      -3.04
+    ],
+    "sum": 18.16,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      54,
+      87,
+      -38,
+      72,
+      -17,
+      42,
+      83,
+      63,
+      -70,
+      38
+    ],
+    "sum": 314,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      41,
+      99,
+      -52,
+      69,
+      22,
+      79,
+      -61,
+      18,
+      63,
+      -44
+    ],
+    "sum": 234,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      83,
+      -25,
+      19,
+      52,
+      30,
+      89,
+      -82,
+      28,
+      -49,
+      79
+    ],
+    "sum": 224,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      63,
+      -62,
+      49,
+      -49,
+      87,
+      46,
+      -36,
+      13,
+      20,
+      31
+    ],
+    "sum": 162,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      60,
+      55,
+      -24,
+      61,
+      42,
+      -91,
+      49,
+      70,
+      54,
+      -19
+    ],
+    "sum": 257,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      384,
+      -383,
+      817,
+      369
+    ],
+    "sum": 1187,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      814,
+      639,
+      103,
+      -432
+    ],
+    "sum": 1124,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      927,
+      831,
+      -736,
+      897
+    ],
+    "sum": 1919,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      801,
+      -772,
+      678,
+      974
+    ],
+    "sum": 1681,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      856,
+      560,
+      -915,
+      880
+    ],
+    "sum": 1381,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      3.31,
+      1.28,
+      -2.28,
+      5.56
+    ],
+    "sum": 7.87,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      3.62,
+      9.28,
+      8.13,
+      -0.02
+    ],
+    "sum": 21.01,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      5.65,
+      1.7,
+      8.67,
+      -5.02
+    ],
+    "sum": 11,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      0.61,
+      8.69,
+      -7.03,
+      0.95
+    ],
+    "sum": 3.22,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      4.49,
+      5.24,
+      3.86,
+      -8.2
+    ],
+    "sum": 5.39,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      85,
+      61,
+      39,
+      -77,
+      33,
+      -70,
+      66,
+      28,
+      87,
+      -79
+    ],
+    "sum": 173,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      35,
+      -34,
+      95,
+      94,
+      36,
+      43,
+      -91,
+      22,
+      28,
+      -67
+    ],
+    "sum": 161,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      29,
+      14,
+      90,
+      92,
+      -37,
+      94,
+      -52,
+      31,
+      -62,
+      71
+    ],
+    "sum": 270,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      13,
+      12,
+      -23,
+      24,
+      18,
+      24,
+      87,
+      -12,
+      75,
+      -30
+    ],
+    "sum": 188,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      60,
+      -53,
+      31,
+      13,
+      55,
+      -20,
+      19,
+      34,
+      -41,
+      21
+    ],
+    "sum": 119,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      206,
+      698,
+      -612,
+      306
+    ],
+    "sum": 598,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      623,
+      874,
+      -321,
+      856
+    ],
+    "sum": 2032,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      607,
+      778,
+      -653,
+      303
+    ],
+    "sum": 1035,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      813,
+      398,
+      694,
+      -155
+    ],
+    "sum": 1750,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      819,
+      470,
+      -175,
+      224
+    ],
+    "sum": 1338,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      6.15,
+      -4.08,
+      0.34,
+      3.13
+    ],
+    "sum": 5.54,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      1.24,
+      8.61,
+      3.71,
+      -1.2
+    ],
+    "sum": 12.36,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      9.01,
+      -8.01,
+      7.04,
+      8.27
+    ],
+    "sum": 16.31,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      3.55,
+      -1.37,
+      9.09,
+      5.86
+    ],
+    "sum": 17.13,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      7.99,
+      -3.01,
+      2.3,
+      7.07
+    ],
+    "sum": 14.35,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      76,
+      80,
+      -33,
+      93,
+      -77,
+      34,
+      27,
+      77,
+      28,
+      -36
+    ],
+    "sum": 269,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      36,
+      13,
+      -30,
+      47,
+      27,
+      15,
+      -28,
+      58,
+      -91,
+      95
+    ],
+    "sum": 142,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      71,
+      85,
+      18,
+      -38,
+      69,
+      -21,
+      25,
+      39,
+      79,
+      -52
+    ],
+    "sum": 275,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      90,
+      -63,
+      94,
+      22,
+      74,
+      21,
+      -33,
+      27,
+      -15,
+      13
+    ],
+    "sum": 230,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      13,
+      -12,
+      35,
+      48,
+      -53,
+      14,
+      55,
+      47,
+      -16,
+      91
+    ],
+    "sum": 222,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      368,
+      284,
+      332,
+      -497
+    ],
+    "sum": 487,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      742,
+      -613,
+      243,
+      613
+    ],
+    "sum": 985,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      166,
+      568,
+      -678,
+      911
+    ],
+    "sum": 967,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      786,
+      222,
+      -737,
+      713
+    ],
+    "sum": 984,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      502,
+      -362,
+      340,
+      158
+    ],
+    "sum": 638,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      5.93,
+      1.51,
+      -0.27,
+      3.13
+    ],
+    "sum": 10.3,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      1.79,
+      1.39,
+      -2.17,
+      6.2
+    ],
+    "sum": 7.21,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      9.35,
+      0.7,
+      5,
+      -4.04
+    ],
+    "sum": 11.01,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      1.73,
+      -0.3,
+      7.96,
+      4.7
+    ],
+    "sum": 14.09,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      5.61,
+      8.31,
+      -1.21,
+      2.85
+    ],
+    "sum": 15.56,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      58,
+      -34,
+      57,
+      11,
+      -91,
+      23,
+      -23,
+      69,
+      32,
+      97
+    ],
+    "sum": 199,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      23,
+      -22,
+      35,
+      54,
+      -89,
+      71,
+      39,
+      76,
+      -86,
+      64
+    ],
+    "sum": 165,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      18,
+      63,
+      85,
+      71,
+      -40,
+      69,
+      26,
+      -44,
+      31,
+      -70
+    ],
+    "sum": 209,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      33,
+      -32,
+      19,
+      58,
+      50,
+      -85,
+      68,
+      20,
+      -39,
+      93
+    ],
+    "sum": 185,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      86,
+      84,
+      56,
+      19,
+      41,
+      -99,
+      76,
+      -71,
+      94,
+      -82
+    ],
+    "sum": 204,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      874,
+      998,
+      161,
+      -360
+    ],
+    "sum": 1673,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      921,
+      884,
+      -495,
+      875
+    ],
+    "sum": 2185,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      645,
+      -146,
+      873,
+      625
+    ],
+    "sum": 1997,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      276,
+      668,
+      -785,
+      869
+    ],
+    "sum": 1028,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      298,
+      184,
+      -481,
+      130
+    ],
+    "sum": 131,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      5.17,
+      5.39,
+      6.74,
+      -0.15
+    ],
+    "sum": 17.15,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      7.94,
+      -2.41,
+      8.03,
+      6.05
+    ],
+    "sum": 19.61,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      7.03,
+      3.61,
+      -3.31,
+      1.59
+    ],
+    "sum": 8.92,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      9.86,
+      9.13,
+      8.67,
+      -6.4
+    ],
+    "sum": 21.26,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      6.43,
+      -6.25,
+      4.97,
+      2.65
+    ],
+    "sum": 7.8,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      17,
+      75,
+      -15,
+      95,
+      83,
+      37,
+      -69,
+      81,
+      -50,
+      86
+    ],
+    "sum": 340,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      31,
+      15,
+      41,
+      16,
+      -91,
+      42,
+      84,
+      -34,
+      42,
+      -86
+    ],
+    "sum": 60,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      22,
+      40,
+      51,
+      -83,
+      82,
+      -85,
+      80,
+      92,
+      -69,
+      78
+    ],
+    "sum": 208,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      47,
+      -19,
+      74,
+      -40,
+      10,
+      -71,
+      30,
+      52,
+      77,
+      33
+    ],
+    "sum": 193,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      62,
+      -61,
+      30,
+      37,
+      53,
+      -69,
+      37,
+      -33,
+      32,
+      70
+    ],
+    "sum": 158,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      299,
+      954,
+      -525,
+      325,
+      -674
+    ],
+    "sum": 379,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      102,
+      410,
+      -457,
+      985,
+      -922
+    ],
+    "sum": 118,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      608,
+      717,
+      -855,
+      489,
+      -427
+    ],
+    "sum": 532,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      195,
+      979,
+      -607,
+      906,
+      -692
+    ],
+    "sum": 781,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      283,
+      -282,
+      620,
+      513,
+      -198
+    ],
+    "sum": 936,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      3.08,
+      -0.03,
+      2.65,
+      -3.04,
+      8.91
+    ],
+    "sum": 11.57,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      0.22,
+      -0.09,
+      1.29,
+      5.04,
+      -4.06
+    ],
+    "sum": 2.4,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      1.17,
+      -1.16,
+      2.57,
+      -0.36,
+      0.18
+    ],
+    "sum": 2.4,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      3.92,
+      8.89,
+      -3.65,
+      6.89,
+      -7.04
+    ],
+    "sum": 9.01,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      2.23,
+      -0.06,
+      2.71,
+      -0.7,
+      3.94
+    ],
+    "sum": 8.12,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      55,
+      50,
+      61,
+      -34,
+      17,
+      52,
+      -17,
+      16,
+      59,
+      -81
+    ],
+    "sum": 178,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      50,
+      -21,
+      66,
+      62,
+      -89,
+      22,
+      23,
+      90,
+      80,
+      -35
+    ],
+    "sum": 248,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      49,
+      61,
+      -79,
+      49,
+      51,
+      -45,
+      20,
+      13,
+      -68,
+      62
+    ],
+    "sum": 113,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      34,
+      92,
+      53,
+      -28,
+      96,
+      -41,
+      78,
+      -83,
+      92,
+      83
+    ],
+    "sum": 376,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      46,
+      -45,
+      90,
+      83,
+      -78,
+      54,
+      -26,
+      26,
+      34,
+      11
+    ],
+    "sum": 195,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      739,
+      -695,
+      644,
+      -301,
+      436
+    ],
+    "sum": 823,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      500,
+      233,
+      -359,
+      145,
+      -201
+    ],
+    "sum": 318,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      626,
+      869,
+      -248,
+      467,
+      -541
+    ],
+    "sum": 1173,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      344,
+      -343,
+      536,
+      -536,
+      386
+    ],
+    "sum": 387,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      456,
+      -455,
+      467,
+      947,
+      -523
+    ],
+    "sum": 892,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      4.75,
+      9.27,
+      -0.01,
+      5.72,
+      -2.3
+    ],
+    "sum": 17.43,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      1.21,
+      -0.06,
+      5.13,
+      -2.23,
+      4.42
+    ],
+    "sum": 8.47,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      7.35,
+      -3.06,
+      3.65,
+      2.21,
+      -7.08
+    ],
+    "sum": 3.07,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      5.92,
+      3.56,
+      -6.41,
+      0.27,
+      -3.17
+    ],
+    "sum": 0.17,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      9.49,
+      7.48,
+      -4.18,
+      6.41,
+      -7.1
+    ],
+    "sum": 12.1,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      88,
+      72,
+      42,
+      -70,
+      19,
+      -77,
+      39,
+      -87,
+      28,
+      20
+    ],
+    "sum": 74,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      73,
+      61,
+      87,
+      -33,
+      86,
+      -17,
+      71,
+      -38,
+      64,
+      63
+    ],
+    "sum": 417,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      55,
+      62,
+      96,
+      -62,
+      44,
+      -55,
+      67,
+      82,
+      -71,
+      51
+    ],
+    "sum": 269,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      92,
+      -56,
+      73,
+      45,
+      -94,
+      83,
+      77,
+      23,
+      -97,
+      83
+    ],
+    "sum": 229,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      77,
+      -28,
+      21,
+      -36,
+      39,
+      32,
+      33,
+      -93,
+      39,
+      50
+    ],
+    "sum": 134,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      805,
+      -747,
+      592,
+      -649,
+      663
+    ],
+    "sum": 664,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      840,
+      -295,
+      372,
+      -248,
+      612
+    ],
+    "sum": 1281,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      565,
+      -129,
+      257,
+      716,
+      -478
+    ],
+    "sum": 931,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      321,
+      -320,
+      664,
+      -664,
+      555
+    ],
+    "sum": 556,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      742,
+      867,
+      -958,
+      783,
+      -820
+    ],
+    "sum": 614,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      4.93,
+      3.94,
+      -5.41,
+      8.87,
+      -3.12
+    ],
+    "sum": 9.21,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      1.93,
+      -1.58,
+      4.25,
+      1.44,
+      -6.02
+    ],
+    "sum": 0.02,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      7.65,
+      -0.17,
+      8.53,
+      -6,
+      9.4
+    ],
+    "sum": 19.41,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      6.1,
+      -4,
+      2.77,
+      -3.41,
+      7.52
+    ],
+    "sum": 8.98,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      0.48,
+      0.2,
+      -0.41,
+      3.51,
+      -0.26
+    ],
+    "sum": 3.52,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      23,
+      84,
+      90,
+      63,
+      -84,
+      35,
+      -47,
+      83,
+      55,
+      -26
+    ],
+    "sum": 276,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      89,
+      72,
+      88,
+      -52,
+      18,
+      -89,
+      58,
+      14,
+      42,
+      -83
+    ],
+    "sum": 157,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      77,
+      36,
+      -26,
+      11,
+      14,
+      -49,
+      48,
+      -41,
+      32,
+      21
+    ],
+    "sum": 123,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      51,
+      74,
+      -38,
+      20,
+      -36,
+      28,
+      87,
+      31,
+      66,
+      -44
+    ],
+    "sum": 239,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      59,
+      -27,
+      54,
+      30,
+      83,
+      -89,
+      15,
+      53,
+      -13,
+      17
+    ],
+    "sum": 182,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      613,
+      -612,
+      160,
+      273,
+      -389
+    ],
+    "sum": 45,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      859,
+      912,
+      -877,
+      436,
+      -462
+    ],
+    "sum": 868,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      101,
+      -100,
+      576,
+      -444,
+      109
+    ],
+    "sum": 242,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      243,
+      -167,
+      340,
+      707,
+      -991
+    ],
+    "sum": 132,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      624,
+      979,
+      -721,
+      242,
+      -734
+    ],
+    "sum": 390,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      7.81,
+      -3.16,
+      5.86,
+      -6.36,
+      1.05
+    ],
+    "sum": 5.2,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      5.63,
+      -3.25,
+      7.4,
+      -1.13,
+      7.38
+    ],
+    "sum": 16.03,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      7.04,
+      -6,
+      5.53,
+      5.41,
+      -9.9
+    ],
+    "sum": 2.08,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      8.23,
+      -0.05,
+      5.03,
+      -1.21,
+      5.63
+    ],
+    "sum": 17.63,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      5.09,
+      -4,
+      5.9,
+      5.04,
+      -5
+    ],
+    "sum": 7.03,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      68,
+      -15,
+      57,
+      -74,
+      75,
+      -19,
+      86,
+      34,
+      57,
+      53
+    ],
+    "sum": 322,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      32,
+      -31,
+      27,
+      25,
+      83,
+      -41,
+      69,
+      -36,
+      16,
+      57
+    ],
+    "sum": 201,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      58,
+      85,
+      44,
+      19,
+      -55,
+      81,
+      54,
+      -51,
+      54,
+      -93
+    ],
+    "sum": 196,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      52,
+      19,
+      -55,
+      84,
+      33,
+      59,
+      -44,
+      96,
+      72,
+      -86
+    ],
+    "sum": 230,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      74,
+      -28,
+      45,
+      52,
+      -67,
+      32,
+      65,
+      95,
+      -42,
+      82
+    ],
+    "sum": 308,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      249,
+      -248,
+      355,
+      230,
+      -128
+    ],
+    "sum": 458,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      313,
+      -312,
+      611,
+      -611,
+      151
+    ],
+    "sum": 152,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      185,
+      588,
+      -176,
+      460,
+      -238
+    ],
+    "sum": 819,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      654,
+      776,
+      -777,
+      771,
+      -991
+    ],
+    "sum": 433,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      722,
+      759,
+      -793,
+      210,
+      -856
+    ],
+    "sum": 42,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      1.74,
+      3.18,
+      -0.61,
+      1.78,
+      -0.02
+    ],
+    "sum": 6.07,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      1.19,
+      0.55,
+      -1.06,
+      8.99,
+      -5.5
+    ],
+    "sum": 4.17,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      8.79,
+      -3.52,
+      8.79,
+      -2.06,
+      7.89
+    ],
+    "sum": 19.89,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      7.06,
+      -4,
+      3.31,
+      4.41,
+      -5.61
+    ],
+    "sum": 5.17,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      8.96,
+      -1.45,
+      8.94,
+      -5.26,
+      0.21
+    ],
+    "sum": 11.4,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      56,
+      67,
+      89,
+      -96,
+      13,
+      -64,
+      82,
+      24,
+      -50,
+      63
+    ],
+    "sum": 184,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      63,
+      70,
+      -27,
+      24,
+      -61,
+      20,
+      84,
+      29,
+      -91,
+      92
+    ],
+    "sum": 203,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      54,
+      29,
+      86,
+      44,
+      -61,
+      16,
+      -35,
+      30,
+      68,
+      -48
+    ],
+    "sum": 183,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      69,
+      73,
+      63,
+      87,
+      -45,
+      30,
+      62,
+      -52,
+      68,
+      -95
+    ],
+    "sum": 260,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      48,
+      -47,
+      10,
+      52,
+      70,
+      44,
+      -24,
+      16,
+      67,
+      -91
+    ],
+    "sum": 145,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      108,
+      -107,
+      947,
+      225,
+      -166
+    ],
+    "sum": 1007,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      611,
+      -610,
+      663,
+      382,
+      -798
+    ],
+    "sum": 248,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      129,
+      704,
+      -832,
+      564,
+      -564
+    ],
+    "sum": 1,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      188,
+      -187,
+      128,
+      584,
+      -357
+    ],
+    "sum": 356,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      153,
+      -152,
+      694,
+      384,
+      -580
+    ],
+    "sum": 499,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      2.2,
+      3.69,
+      -2.75,
+      2.33,
+      -0.12
+    ],
+    "sum": 5.35,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      7.44,
+      8.15,
+      -0.58,
+      0.29,
+      -4.15
+    ],
+    "sum": 11.15,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      5.53,
+      -3.33,
+      9.19,
+      5.79,
+      -1.08
+    ],
+    "sum": 16.1,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      7.36,
+      -7.07,
+      3.1,
+      -1.05,
+      3.22
+    ],
+    "sum": 5.56,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      2.3,
+      -0.15,
+      3.15,
+      -5.1,
+      7.24
+    ],
+    "sum": 7.44,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      34,
+      75,
+      99,
+      -63,
+      90,
+      46,
+      -31,
+      45,
+      -92,
+      93
+    ],
+    "sum": 296,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      12,
+      -11,
+      57,
+      37,
+      43,
+      -67,
+      95,
+      -18,
+      15,
+      82
+    ],
+    "sum": 245,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      68,
+      -67,
+      18,
+      -10,
+      41,
+      95,
+      38,
+      24,
+      43,
+      -75
+    ],
+    "sum": 175,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      89,
+      39,
+      -20,
+      51,
+      68,
+      -61,
+      11,
+      -55,
+      25,
+      38
+    ],
+    "sum": 185,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      31,
+      12,
+      -41,
+      36,
+      -19,
+      83,
+      81,
+      82,
+      -31,
+      40
+    ],
+    "sum": 274,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      329,
+      431,
+      -759,
+      674,
+      -380
+    ],
+    "sum": 295,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      745,
+      791,
+      -444,
+      324,
+      -624
+    ],
+    "sum": 792,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      461,
+      -432,
+      946,
+      -544,
+      162
+    ],
+    "sum": 593,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      297,
+      -124,
+      289,
+      -343,
+      307
+    ],
+    "sum": 426,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      133,
+      524,
+      -272,
+      260,
+      -594
+    ],
+    "sum": 51,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      4.15,
+      -4.11,
+      6.24,
+      -5.12,
+      5.01
+    ],
+    "sum": 6.17,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      3.19,
+      -3.16,
+      7.16,
+      -1,
+      7.01
+    ],
+    "sum": 13.2,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      9.94,
+      -4.4,
+      7.28,
+      -5.29,
+      8.56
+    ],
+    "sum": 16.09,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      2.38,
+      8.67,
+      -9,
+      9.64,
+      -8.23
+    ],
+    "sum": 3.46,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      5.86,
+      -4.41,
+      5.77,
+      -2.09,
+      2.78
+    ],
+    "sum": 7.91,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      92,
+      11,
+      42,
+      -15,
+      90,
+      37,
+      39,
+      -67,
+      95,
+      -30
+    ],
+    "sum": 294,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      91,
+      -81,
+      42,
+      -51,
+      12,
+      45,
+      62,
+      -93,
+      68,
+      77
+    ],
+    "sum": 172,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      26,
+      -25,
+      27,
+      66,
+      39,
+      -94,
+      66,
+      94,
+      -18,
+      85
+    ],
+    "sum": 266,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      12,
+      16,
+      -27,
+      85,
+      12,
+      38,
+      -67,
+      36,
+      51,
+      -29
+    ],
+    "sum": 127,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      49,
+      52,
+      53,
+      63,
+      -59,
+      69,
+      65,
+      -52,
+      50,
+      -36
+    ],
+    "sum": 254,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      711,
+      798,
+      -161,
+      218,
+      -521
+    ],
+    "sum": 1045,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      810,
+      358,
+      -967,
+      820,
+      -704
+    ],
+    "sum": 317,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      640,
+      927,
+      -106,
+      531,
+      -804
+    ],
+    "sum": 1188,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      688,
+      310,
+      -592,
+      281,
+      -379
+    ],
+    "sum": 308,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      205,
+      -204,
+      199,
+      -199,
+      655
+    ],
+    "sum": 656,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      2.96,
+      2.34,
+      -3.22,
+      5.85,
+      -0.79
+    ],
+    "sum": 7.14,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      8.89,
+      -0.29,
+      2.04,
+      5.95,
+      -4.31
+    ],
+    "sum": 12.28,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      9.63,
+      -3.1,
+      3.08,
+      -0.33,
+      9.08
+    ],
+    "sum": 18.36,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      7.83,
+      -3.07,
+      0.26,
+      4.63,
+      -7.57
+    ],
+    "sum": 2.08,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      6.6,
+      -2.09,
+      5.44,
+      8.62,
+      -2.05
+    ],
+    "sum": 16.52,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      34,
+      52,
+      -52,
+      36,
+      -16,
+      47,
+      49,
+      59,
+      -15,
+      72
+    ],
+    "sum": 266,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      58,
+      44,
+      44,
+      -12,
+      15,
+      -84,
+      40,
+      29,
+      -63,
+      99
+    ],
+    "sum": 170,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      97,
+      91,
+      34,
+      -56,
+      75,
+      -63,
+      15,
+      -34,
+      26,
+      12
+    ],
+    "sum": 197,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      49,
+      70,
+      -73,
+      79,
+      95,
+      85,
+      -38,
+      14,
+      -80,
+      54
+    ],
+    "sum": 255,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      36,
+      69,
+      -66,
+      30,
+      54,
+      -94,
+      14,
+      90,
+      18,
+      -34
+    ],
+    "sum": 117,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      111,
+      896,
+      -665,
+      837,
+      -960
+    ],
+    "sum": 219,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      900,
+      -125,
+      649,
+      893,
+      -472
+    ],
+    "sum": 1845,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      474,
+      919,
+      -914,
+      374,
+      -519
+    ],
+    "sum": 334,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      995,
+      789,
+      -991,
+      686,
+      -359
+    ],
+    "sum": 1120,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      687,
+      377,
+      -697,
+      585,
+      -714
+    ],
+    "sum": 238,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      9.47,
+      -8.3,
+      4.4,
+      9.58,
+      -2.03
+    ],
+    "sum": 13.12,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      6.44,
+      4.58,
+      -3,
+      6.98,
+      -8
+    ],
+    "sum": 7,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      7.69,
+      4.42,
+      -4.11,
+      1.23,
+      -7.23
+    ],
+    "sum": 2,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      2.64,
+      -1.59,
+      6.4,
+      5.59,
+      -0.02
+    ],
+    "sum": 13.02,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      5.78,
+      -0.11,
+      4.97,
+      -7.3,
+      7.63
+    ],
+    "sum": 10.97,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      64,
+      58,
+      20,
+      11,
+      -29,
+      25,
+      85,
+      -55,
+      30,
+      -24
+    ],
+    "sum": 185,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      31,
+      -30,
+      39,
+      22,
+      34,
+      94,
+      -86,
+      77,
+      -98,
+      30
+    ],
+    "sum": 113,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      74,
+      30,
+      -43,
+      85,
+      54,
+      97,
+      -66,
+      60,
+      88,
+      -31
+    ],
+    "sum": 348,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      87,
+      -44,
+      78,
+      66,
+      -57,
+      70,
+      -76,
+      23,
+      23,
+      19
+    ],
+    "sum": 189,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      63,
+      -41,
+      24,
+      57,
+      15,
+      87,
+      42,
+      -22,
+      33,
+      -89
+    ],
+    "sum": 169,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      657,
+      -377,
+      849,
+      -489,
+      958
+    ],
+    "sum": 1598,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      168,
+      -167,
+      631,
+      -631,
+      174
+    ],
+    "sum": 175,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      952,
+      689,
+      -320,
+      602,
+      -982
+    ],
+    "sum": 941,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      805,
+      165,
+      -600,
+      240,
+      -174
+    ],
+    "sum": 436,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      638,
+      -357,
+      553,
+      -326,
+      194
+    ],
+    "sum": 702,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      7.21,
+      -0.07,
+      8.72,
+      0.51,
+      -9.03
+    ],
+    "sum": 7.34,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      2.44,
+      9.81,
+      -6.15,
+      6.99,
+      -8.06
+    ],
+    "sum": 5.03,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      3.58,
+      9.16,
+      -7.13,
+      3.44,
+      -8.02
+    ],
+    "sum": 1.03,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      2.81,
+      -1.72,
+      8.6,
+      -3.47,
+      8.65
+    ],
+    "sum": 14.87,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      7.42,
+      -5.1,
+      2.11,
+      4.82,
+      -9
+    ],
+    "sum": 0.25,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      81,
+      94,
+      -82,
+      30,
+      76,
+      -63,
+      21,
+      48,
+      54,
+      -19
+    ],
+    "sum": 240,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      94,
+      61,
+      -75,
+      67,
+      64,
+      33,
+      -76,
+      68,
+      33,
+      -65
+    ],
+    "sum": 204,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      63,
+      22,
+      -82,
+      63,
+      45,
+      88,
+      -30,
+      58,
+      -83,
+      25
+    ],
+    "sum": 169,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      46,
+      48,
+      -13,
+      75,
+      38,
+      93,
+      90,
+      -92,
+      52,
+      -85
+    ],
+    "sum": 252,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      40,
+      -39,
+      37,
+      22,
+      -31,
+      70,
+      30,
+      99,
+      -66,
+      93
+    ],
+    "sum": 255,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      582,
+      -581,
+      285,
+      -285,
+      297
+    ],
+    "sum": 298,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      119,
+      -118,
+      947,
+      -810,
+      627
+    ],
+    "sum": 765,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      453,
+      711,
+      -280,
+      111,
+      -212
+    ],
+    "sum": 783,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      967,
+      -208,
+      930,
+      -563,
+      864
+    ],
+    "sum": 1990,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      770,
+      316,
+      -248,
+      666,
+      -889
+    ],
+    "sum": 615,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      2.77,
+      -0.2,
+      9.14,
+      -2.26,
+      1.25
+    ],
+    "sum": 10.7,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      7.56,
+      -7.35,
+      7.96,
+      -6.07,
+      6.22
+    ],
+    "sum": 8.32,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      9.56,
+      7.48,
+      -4.03,
+      0.43,
+      -7.3
+    ],
+    "sum": 6.14,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      3.69,
+      -0.63,
+      9.99,
+      8.25,
+      -8.26
+    ],
+    "sum": 13.04,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      5.57,
+      2.82,
+      -5.15,
+      2.78,
+      -6.01
+    ],
+    "sum": 0.01,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      50,
+      82,
+      -69,
+      80,
+      54,
+      -22,
+      72,
+      -47,
+      47,
+      93
+    ],
+    "sum": 340,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      67,
+      -66,
+      96,
+      51,
+      -91,
+      70,
+      21,
+      -47,
+      74,
+      28
+    ],
+    "sum": 203,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      17,
+      42,
+      -58,
+      55,
+      -17,
+      80,
+      84,
+      27,
+      -94,
+      64
+    ],
+    "sum": 200,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      84,
+      89,
+      -42,
+      60,
+      70,
+      -89,
+      66,
+      -61,
+      75,
+      59
+    ],
+    "sum": 311,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      78,
+      35,
+      21,
+      78,
+      -78,
+      58,
+      -34,
+      81,
+      -66,
+      88
+    ],
+    "sum": 261,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      903,
+      -764,
+      771,
+      -881,
+      285
+    ],
+    "sum": 314,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      550,
+      -549,
+      502,
+      -502,
+      376
+    ],
+    "sum": 377,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      787,
+      292,
+      -159,
+      805,
+      -596
+    ],
+    "sum": 1129,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      437,
+      -369,
+      239,
+      -306,
+      389
+    ],
+    "sum": 390,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      215,
+      -214,
+      522,
+      -455,
+      952
+    ],
+    "sum": 1020,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      3.34,
+      -1.34,
+      6.45,
+      8.19,
+      -9.12
+    ],
+    "sum": 7.52,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      8.83,
+      -0.59,
+      8.2,
+      -9.13,
+      0.15
+    ],
+    "sum": 7.46,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      6.02,
+      -0.01,
+      5.7,
+      1.13,
+      -4.67
+    ],
+    "sum": 8.17,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      6.66,
+      -6.56,
+      3.07,
+      6.24,
+      -4.18
+    ],
+    "sum": 5.23,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      5.8,
+      -0.01,
+      8.58,
+      -7,
+      7.99
+    ],
+    "sum": 15.36,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      12,
+      -11,
+      14,
+      77,
+      36,
+      -66,
+      49,
+      54,
+      -43,
+      73
+    ],
+    "sum": 195,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      95,
+      30,
+      -49,
+      39,
+      41,
+      38,
+      -84,
+      70,
+      69,
+      -55
+    ],
+    "sum": 194,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      76,
+      -75,
+      20,
+      31,
+      29,
+      49,
+      -94,
+      19,
+      -54,
+      81
+    ],
+    "sum": 82,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      60,
+      -59,
+      23,
+      93,
+      -87,
+      90,
+      -88,
+      44,
+      52,
+      26
+    ],
+    "sum": 154,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      47,
+      32,
+      11,
+      19,
+      -54,
+      72,
+      76,
+      -75,
+      38,
+      -30
+    ],
+    "sum": 136,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      323,
+      900,
+      -816,
+      891,
+      -765
+    ],
+    "sum": 533,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      808,
+      -669,
+      698,
+      -766,
+      342
+    ],
+    "sum": 413,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      177,
+      -176,
+      417,
+      -110,
+      654
+    ],
+    "sum": 962,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      689,
+      -547,
+      919,
+      969,
+      -998
+    ],
+    "sum": 1032,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      367,
+      486,
+      -353,
+      676,
+      -391
+    ],
+    "sum": 785,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      7.81,
+      -5.31,
+      1.47,
+      7.02,
+      -7.34
+    ],
+    "sum": 3.65,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      9.61,
+      9.48,
+      -4.06,
+      3.37,
+      -3.1
+    ],
+    "sum": 15.3,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      9.53,
+      2.64,
+      -1.06,
+      9.54,
+      -9.55
+    ],
+    "sum": 11.1,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      9.89,
+      -6.08,
+      0.27,
+      -0.07,
+      9
+    ],
+    "sum": 13.01,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      7.62,
+      2.17,
+      -1.68,
+      3.24,
+      -0.01
+    ],
+    "sum": 11.34,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      30,
+      -15,
+      96,
+      83,
+      58,
+      57,
+      -68,
+      49,
+      67,
+      -88
+    ],
+    "sum": 269,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      95,
+      85,
+      -47,
+      11,
+      46,
+      58,
+      30,
+      -44,
+      43,
+      -24
+    ],
+    "sum": 253,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      77,
+      72,
+      -17,
+      66,
+      78,
+      35,
+      49,
+      -29,
+      16,
+      -24
+    ],
+    "sum": 323,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      21,
+      63,
+      72,
+      46,
+      34,
+      -78,
+      28,
+      -84,
+      70,
+      -97
+    ],
+    "sum": 75,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      31,
+      -30,
+      40,
+      -40,
+      31,
+      32,
+      -45,
+      93,
+      88,
+      36
+    ],
+    "sum": 236,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      809,
+      -426,
+      671,
+      406,
+      -702
+    ],
+    "sum": 758,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      671,
+      -670,
+      373,
+      -373,
+      255
+    ],
+    "sum": 256,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      353,
+      -174,
+      618,
+      -562,
+      143
+    ],
+    "sum": 378,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      262,
+      -261,
+      924,
+      -330,
+      606
+    ],
+    "sum": 1201,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      621,
+      -620,
+      965,
+      -592,
+      501
+    ],
+    "sum": 875,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      3.47,
+      -1.04,
+      2.58,
+      -4.01,
+      5.61
+    ],
+    "sum": 6.61,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      9,
+      -4,
+      8.25,
+      -9.11,
+      7.01
+    ],
+    "sum": 11.15,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      3.78,
+      -0.15,
+      3.64,
+      7.11,
+      -1.25
+    ],
+    "sum": 13.13,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      4.64,
+      3.76,
+      -3.31,
+      6.5,
+      -1.31
+    ],
+    "sum": 10.28,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      4.47,
+      6.27,
+      -8.23,
+      1.41,
+      -3.49
+    ],
+    "sum": 0.43,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      67,
+      -20,
+      25,
+      23,
+      71,
+      -66,
+      33,
+      54,
+      28,
+      -68
+    ],
+    "sum": 147,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      93,
+      -80,
+      14,
+      10,
+      61,
+      35,
+      -92,
+      55,
+      11,
+      -10
+    ],
+    "sum": 97,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      52,
+      47,
+      -41,
+      91,
+      43,
+      69,
+      -86,
+      21,
+      -26,
+      86
+    ],
+    "sum": 256,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      38,
+      93,
+      92,
+      -14,
+      63,
+      -58,
+      33,
+      -73,
+      90,
+      63
+    ],
+    "sum": 327,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      42,
+      -21,
+      55,
+      27,
+      37,
+      -41,
+      18,
+      -56,
+      70,
+      16
+    ],
+    "sum": 147,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      920,
+      -919,
+      266,
+      -266,
+      854
+    ],
+    "sum": 855,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      304,
+      -303,
+      396,
+      -396,
+      483
+    ],
+    "sum": 484,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      637,
+      484,
+      -344,
+      450,
+      -105
+    ],
+    "sum": 1122,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      727,
+      -288,
+      248,
+      123,
+      -180
+    ],
+    "sum": 630,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      270,
+      341,
+      -610,
+      180,
+      -180
+    ],
+    "sum": 1,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      7.97,
+      -6.49,
+      4.71,
+      9.27,
+      -4.38
+    ],
+    "sum": 11.08,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      5.59,
+      -4.16,
+      7.69,
+      1.38,
+      -8.38
+    ],
+    "sum": 2.12,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      3.45,
+      -3.26,
+      2.09,
+      1.7,
+      -0.34
+    ],
+    "sum": 3.64,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      8.12,
+      5.55,
+      -1.24,
+      6.34,
+      -8.47
+    ],
+    "sum": 10.3,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      7.79,
+      -0.2,
+      5.46,
+      -8.02,
+      9.27
+    ],
+    "sum": 14.3,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      87,
+      60,
+      -43,
+      18,
+      -86,
+      50,
+      94,
+      -68,
+      47,
+      60
+    ],
+    "sum": 219,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      69,
+      -50,
+      70,
+      81,
+      -27,
+      84,
+      32,
+      33,
+      -10,
+      32
+    ],
+    "sum": 314,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      13,
+      31,
+      42,
+      -70,
+      44,
+      -21,
+      48,
+      27,
+      63,
+      -33
+    ],
+    "sum": 144,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      18,
+      -17,
+      65,
+      -65,
+      28,
+      44,
+      81,
+      61,
+      54,
+      -22
+    ],
+    "sum": 247,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      85,
+      -49,
+      81,
+      41,
+      88,
+      -56,
+      10,
+      69,
+      -14,
+      72
+    ],
+    "sum": 327,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      167,
+      -166,
+      572,
+      277,
+      -593
+    ],
+    "sum": 257,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      752,
+      388,
+      -580,
+      251,
+      -810
+    ],
+    "sum": 1,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      550,
+      -549,
+      617,
+      462,
+      -930
+    ],
+    "sum": 150,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      996,
+      -636,
+      876,
+      -324,
+      280
+    ],
+    "sum": 1192,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      488,
+      -487,
+      590,
+      -590,
+      582
+    ],
+    "sum": 583,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      5.86,
+      8.06,
+      -8.51,
+      2.68,
+      -7.03
+    ],
+    "sum": 1.06,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      4.95,
+      -2.57,
+      1.91,
+      1.4,
+      -3.67
+    ],
+    "sum": 2.02,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      8.08,
+      -0.03,
+      8.35,
+      6.12,
+      -1.46
+    ],
+    "sum": 21.06,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      9.64,
+      9.78,
+      -2.04,
+      9.77,
+      -6.04
+    ],
+    "sum": 21.11,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      1.48,
+      -0.02,
+      5.34,
+      -6.54,
+      2.82
+    ],
+    "sum": 3.08,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      66,
+      23,
+      -68,
+      70,
+      80,
+      36,
+      -85,
+      47,
+      89,
+      -19
+    ],
+    "sum": 239,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      64,
+      25,
+      43,
+      44,
+      -94,
+      88,
+      -40,
+      95,
+      -60,
+      44
+    ],
+    "sum": 209,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      62,
+      30,
+      85,
+      22,
+      -79,
+      50,
+      80,
+      -84,
+      93,
+      -57
+    ],
+    "sum": 202,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      57,
+      47,
+      37,
+      -29,
+      17,
+      48,
+      -13,
+      14,
+      -15,
+      97
+    ],
+    "sum": 260,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      98,
+      -58,
+      47,
+      74,
+      44,
+      -47,
+      61,
+      58,
+      -62,
+      60
+    ],
+    "sum": 275,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      769,
+      391,
+      -579,
+      323,
+      -118
+    ],
+    "sum": 786,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      726,
+      238,
+      -694,
+      445,
+      -407
+    ],
+    "sum": 308,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      313,
+      895,
+      -967,
+      821,
+      -967
+    ],
+    "sum": 95,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      573,
+      823,
+      -960,
+      213,
+      -158
+    ],
+    "sum": 491,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      874,
+      -526,
+      236,
+      -583,
+      682
+    ],
+    "sum": 683,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      5.24,
+      2.25,
+      -0.17,
+      5.76,
+      -3
+    ],
+    "sum": 10.08,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      7.78,
+      2.63,
+      -8.02,
+      2.2,
+      -1.21
+    ],
+    "sum": 3.38,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      6.39,
+      -2.28,
+      7.73,
+      3.82,
+      -9.04
+    ],
+    "sum": 6.62,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      9.42,
+      1.69,
+      -6.04,
+      8.22,
+      -1.24
+    ],
+    "sum": 12.05,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      7.62,
+      -6.01,
+      1.18,
+      -1.63,
+      2.2
+    ],
+    "sum": 3.36,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      79,
+      23,
+      -66,
+      49,
+      64,
+      38,
+      -22,
+      52,
+      60,
+      -19
+    ],
+    "sum": 258,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      31,
+      62,
+      -89,
+      64,
+      89,
+      64,
+      -91,
+      94,
+      -35,
+      64
+    ],
+    "sum": 253,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      28,
+      -27,
+      51,
+      -51,
+      22,
+      75,
+      63,
+      -94,
+      63,
+      96
+    ],
+    "sum": 226,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      92,
+      -60,
+      35,
+      89,
+      34,
+      -79,
+      81,
+      80,
+      56,
+      -83
+    ],
+    "sum": 245,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      94,
+      -18,
+      95,
+      58,
+      32,
+      13,
+      -83,
+      77,
+      18,
+      -58
+    ],
+    "sum": 228,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      458,
+      833,
+      -579,
+      468,
+      -197
+    ],
+    "sum": 983,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      878,
+      645,
+      -246,
+      754,
+      -630
+    ],
+    "sum": 1401,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      529,
+      -528,
+      169,
+      -169,
+      812
+    ],
+    "sum": 813,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      523,
+      -300,
+      305,
+      -459,
+      965
+    ],
+    "sum": 1034,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      389,
+      -388,
+      595,
+      696,
+      -486
+    ],
+    "sum": 806,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      2.36,
+      -2.28,
+      3.5,
+      1.82,
+      -0.29
+    ],
+    "sum": 5.11,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      6.21,
+      -1.14,
+      3.08,
+      4.48,
+      -0.48
+    ],
+    "sum": 12.15,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      4.77,
+      -1.3,
+      5.45,
+      -0.35,
+      0.44
+    ],
+    "sum": 9.01,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      5.82,
+      2.69,
+      -0.17,
+      7.18,
+      -1.2
+    ],
+    "sum": 14.32,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      9.59,
+      -7.55,
+      3.27,
+      -2.22,
+      8.95
+    ],
+    "sum": 12.04,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      90,
+      24,
+      63,
+      97,
+      12,
+      -13,
+      29,
+      -57,
+      40,
+      -87
+    ],
+    "sum": 198,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      96,
+      37,
+      -23,
+      95,
+      -63,
+      85,
+      90,
+      24,
+      69,
+      -27
+    ],
+    "sum": 383,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      12,
+      -11,
+      31,
+      41,
+      -72,
+      95,
+      52,
+      75,
+      48,
+      -96
+    ],
+    "sum": 175,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      76,
+      -36,
+      13,
+      52,
+      -50,
+      34,
+      37,
+      40,
+      87,
+      -36
+    ],
+    "sum": 217,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      23,
+      17,
+      -39,
+      79,
+      99,
+      -72,
+      17,
+      89,
+      -12,
+      92
+    ],
+    "sum": 293,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      702,
+      -422,
+      578,
+      728,
+      -866
+    ],
+    "sum": 720,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      993,
+      -149,
+      239,
+      -753,
+      261
+    ],
+    "sum": 591,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      286,
+      -285,
+      130,
+      -130,
+      422
+    ],
+    "sum": 423,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      312,
+      790,
+      -654,
+      859,
+      -550
+    ],
+    "sum": 757,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      268,
+      999,
+      -494,
+      481,
+      -410
+    ],
+    "sum": 844,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      5.5,
+      -2.14,
+      6.77,
+      -9.12,
+      3.58
+    ],
+    "sum": 4.59,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      8.03,
+      -8.01,
+      7.14,
+      -7.14,
+      8.77
+    ],
+    "sum": 8.79,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      4.66,
+      6.9,
+      -1.19,
+      4.83,
+      -0.03
+    ],
+    "sum": 15.17,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      8.72,
+      0.61,
+      -1,
+      9.11,
+      -3.08
+    ],
+    "sum": 14.36,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      4.19,
+      0.2,
+      -3.19,
+      0.59,
+      -1.05
+    ],
+    "sum": 0.74,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      56,
+      81,
+      25,
+      62,
+      97,
+      -63,
+      60,
+      -23,
+      74,
+      -15
+    ],
+    "sum": 354,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      44,
+      -14,
+      36,
+      -58,
+      12,
+      85,
+      -19,
+      90,
+      30,
+      97
+    ],
+    "sum": 303,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      96,
+      16,
+      -64,
+      15,
+      93,
+      64,
+      -56,
+      84,
+      -59,
+      49
+    ],
+    "sum": 238,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      59,
+      19,
+      82,
+      -42,
+      81,
+      -71,
+      72,
+      29,
+      95,
+      -24
+    ],
+    "sum": 300,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      57,
+      65,
+      22,
+      -89,
+      14,
+      72,
+      -11,
+      94,
+      73,
+      -44
+    ],
+    "sum": 253,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      670,
+      -241,
+      888,
+      992,
+      -908
+    ],
+    "sum": 1401,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      902,
+      -190,
+      124,
+      -395,
+      874
+    ],
+    "sum": 1315,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      139,
+      343,
+      -218,
+      124,
+      -387
+    ],
+    "sum": 1,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      387,
+      -386,
+      301,
+      449,
+      -244
+    ],
+    "sum": 507,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      247,
+      -246,
+      619,
+      -619,
+      471
+    ],
+    "sum": 472,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      3.55,
+      -0.4,
+      6.5,
+      8.35,
+      -4
+    ],
+    "sum": 14,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      7.13,
+      7.34,
+      -5.4,
+      4.47,
+      -9.08
+    ],
+    "sum": 4.46,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      0.67,
+      3.85,
+      -2.49,
+      6.01,
+      -5
+    ],
+    "sum": 3.04,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      9.13,
+      -9.07,
+      8.94,
+      -8,
+      9.2
+    ],
+    "sum": 10.2,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      2.18,
+      -2.15,
+      2.82,
+      -2.7,
+      2.87
+    ],
+    "sum": 3.02,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      51,
+      90,
+      -24,
+      47,
+      72,
+      -53,
+      73,
+      47,
+      13,
+      -36
+    ],
+    "sum": 280,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      71,
+      41,
+      -31,
+      46,
+      -13,
+      61,
+      13,
+      18,
+      60,
+      -17
+    ],
+    "sum": 249,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      45,
+      -19,
+      33,
+      60,
+      81,
+      -79,
+      19,
+      89,
+      -44,
+      72
+    ],
+    "sum": 257,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      24,
+      -19,
+      66,
+      98,
+      -80,
+      16,
+      34,
+      83,
+      -45,
+      80
+    ],
+    "sum": 257,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      93,
+      -36,
+      87,
+      58,
+      -45,
+      75,
+      90,
+      30,
+      -20,
+      15
+    ],
+    "sum": 347,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      863,
+      233,
+      -354,
+      332,
+      -831
+    ],
+    "sum": 243,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      976,
+      -297,
+      328,
+      -970,
+      141
+    ],
+    "sum": 178,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      847,
+      -808,
+      526,
+      -564,
+      492
+    ],
+    "sum": 493,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      810,
+      393,
+      -526,
+      987,
+      -164
+    ],
+    "sum": 1500,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      993,
+      -324,
+      431,
+      -298,
+      994
+    ],
+    "sum": 1796,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      7.1,
+      5.21,
+      -4.02,
+      5.15,
+      -5.35
+    ],
+    "sum": 8.09,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      5.77,
+      -3.73,
+      7.57,
+      -0.26,
+      8.95
+    ],
+    "sum": 18.3,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      6.36,
+      -3.11,
+      2.24,
+      9.09,
+      -8.29
+    ],
+    "sum": 6.29,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      9.43,
+      2.53,
+      -0.15,
+      0.85,
+      -4.25
+    ],
+    "sum": 8.41,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      5.95,
+      -2.74,
+      0.54,
+      3.98,
+      -1.08
+    ],
+    "sum": 6.65,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      46,
+      72,
+      -31,
+      75,
+      72,
+      -75,
+      30,
+      72,
+      -27,
+      30
+    ],
+    "sum": 264,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      93,
+      -88,
+      66,
+      34,
+      24,
+      19,
+      -13,
+      35,
+      -19,
+      60
+    ],
+    "sum": 211,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      29,
+      -28,
+      38,
+      41,
+      10,
+      73,
+      78,
+      -25,
+      57,
+      -59
+    ],
+    "sum": 214,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      49,
+      37,
+      -70,
+      84,
+      -74,
+      81,
+      23,
+      87,
+      39,
+      -56
+    ],
+    "sum": 200,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      65,
+      25,
+      31,
+      66,
+      -82,
+      14,
+      51,
+      -88,
+      62,
+      -69
+    ],
+    "sum": 75,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      595,
+      678,
+      -797,
+      596,
+      -902
+    ],
+    "sum": 170,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      612,
+      -153,
+      936,
+      -523,
+      724
+    ],
+    "sum": 1596,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      362,
+      917,
+      -607,
+      209,
+      -837
+    ],
+    "sum": 44,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      744,
+      -602,
+      129,
+      -270,
+      382
+    ],
+    "sum": 383,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      392,
+      -391,
+      407,
+      127,
+      -534
+    ],
+    "sum": 1,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      9.39,
+      6.57,
+      -6.22,
+      0.46,
+      -2.02
+    ],
+    "sum": 8.18,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      2.1,
+      -2.07,
+      3.59,
+      -3.18,
+      3.63
+    ],
+    "sum": 4.07,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      9.53,
+      -7.47,
+      9.61,
+      4.16,
+      -9.26
+    ],
+    "sum": 6.57,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      4.38,
+      -4.24,
+      6.73,
+      -5.01,
+      2.57
+    ],
+    "sum": 4.43,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      2.06,
+      -1.05,
+      0.9,
+      -0.29,
+      5.62
+    ],
+    "sum": 7.24,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      43,
+      32,
+      89,
+      -81,
+      98,
+      -93,
+      31,
+      -84,
+      50,
+      84
+    ],
+    "sum": 169,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      13,
+      14,
+      37,
+      27,
+      -75,
+      90,
+      -36,
+      84,
+      54,
+      -55
+    ],
+    "sum": 153,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      57,
+      67,
+      -94,
+      70,
+      -28,
+      20,
+      82,
+      -36,
+      52,
+      93
+    ],
+    "sum": 283,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      71,
+      -20,
+      72,
+      57,
+      91,
+      -76,
+      84,
+      49,
+      79,
+      -87
+    ],
+    "sum": 320,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      73,
+      -72,
+      95,
+      23,
+      -73,
+      55,
+      38,
+      98,
+      -76,
+      48
+    ],
+    "sum": 209,
+    "type": 6,
+    "place": "tens",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      929,
+      853,
+      -127,
+      321,
+      -815
+    ],
+    "sum": 1161,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      964,
+      -855,
+      682,
+      359,
+      -655
+    ],
+    "sum": 495,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      205,
+      -204,
+      173,
+      689,
+      -335
+    ],
+    "sum": 528,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      432,
+      -431,
+      768,
+      983,
+      -695
+    ],
+    "sum": 1057,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      746,
+      968,
+      -334,
+      969,
+      -614
+    ],
+    "sum": 1735,
+    "type": 6,
+    "place": "hundreds",
+    "format": "int"
+  },
+  {
+    "numbers": [
+      8.81,
+      -5.68,
+      5.78,
+      -2.73,
+      7.74
+    ],
+    "sum": 13.92,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      5.64,
+      4.25,
+      -8.05,
+      6.31,
+      -5.08
+    ],
+    "sum": 3.07,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      4.97,
+      -4.73,
+      6.91,
+      4.33,
+      -5.02
+    ],
+    "sum": 6.46,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      7.82,
+      -4.35,
+      8.57,
+      9.8,
+      -7.54
+    ],
+    "sum": 14.3,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  },
+  {
+    "numbers": [
+      7.55,
+      9.42,
+      -5.11,
+      7.7,
+      -6.01
+    ],
+    "sum": 13.55,
+    "type": 6,
+    "place": "dec",
+    "format": "decimal"
+  }
+]
